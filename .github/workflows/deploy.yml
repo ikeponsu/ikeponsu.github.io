@@ -4,6 +4,12 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  # GITHUB_TOKEN で行われた push は push イベントを発火させないため、
+  # Update Latest Gadgets ワークフローの完了をトリガーとして追加する。
+  workflow_run:
+    workflows: ["Update Latest Gadgets"]
+    types: [completed]
+    branches: ["main"]
 
 permissions:
   contents: read
@@ -17,6 +23,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
