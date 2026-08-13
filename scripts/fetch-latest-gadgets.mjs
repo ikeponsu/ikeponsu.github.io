@@ -19,7 +19,7 @@ const SEARCH_URL = "https://creatorsapi.amazon/catalog/v1/searchItems";
 const MARKETPLACE = "www.amazon.co.jp";
 const KEYWORDS = "ガジェット";
 const SEARCH_INDEX = "Electronics";
-const ITEM_COUNT = 5;
+const ITEM_COUNT = 10;
 const GEMINI_MODEL = "gemini-3.5-flash-lite";
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 
@@ -180,7 +180,7 @@ function buildMarkdown(items, generatedAt) {
     "---",
     `title: "最新ガジェット情報"`,
     `date: "${generatedAt}"`,
-    `excerpt: "Amazonで見つけた発売されたばかりのガジェットを5件紹介します。"`,
+    `excerpt: "Amazonで見つけた発売されたばかりのガジェットを10件紹介します。"`,
     `tags: ["ガジェット", "Amazon"]`,
     "---",
     "",

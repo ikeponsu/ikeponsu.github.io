@@ -47,7 +47,7 @@ npm run build
 ## 最新ガジェット記事の自動更新
 
 `/posts/latest-gadgets` は Amazon Creators API (旧 Product Advertising API 5.0 の後継) から
-「ガジェット」カテゴリの新商品を5件取得し、`.github/workflows/update-gadgets.yml` によって
+「ガジェット」カテゴリの新商品を10件取得し、`.github/workflows/update-gadgets.yml` によって
 **毎日 9:00 / 12:00 / 18:00 (JST) に自動更新**されます。更新スクリプトは
 `scripts/fetch-latest-gadgets.mjs` です。
 
