@@ -138,17 +138,86 @@ function normalizeItem(item) {
     ? `https://www.amazon.co.jp/dp/${asin}?tag=${PARTNER_TAG}`
     : item.detailPageUrl ?? item.DetailPageURL ?? "#";
 
-  return { title, imageUrl, price, url };
+  return { asin, title, imageUrl, price, url };
 }
 
-async function generateComment(item) {
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function deriveComparisonKeyword(title) {
+  if (!title || title === "(タイトル不明)") return KEYWORDS;
+  const firstWord = title.split(/[ 　]+/)[0];
+  return firstWord && firstWord.length >= 2 ? firstWord : KEYWORDS;
+}
+
+// 新商品と同ジャンルで評価の高い既存商品を検索し、比較コメント生成用の材料にする。
+// タイトルからのキーワード抽出は精度が高くないため、見つからない/的外れな場合は
+// null を返し、その商品は比較なしの単独コメントにフォールバックする。
+async function searchSimilarProduct(accessToken, item) {
+  const keyword = deriveComparisonKeyword(item.title);
+
+  try {
+    const res = await fetch(SEARCH_URL, {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${accessToken}`,
+        "Content-Type": "application/json",
+        "x-marketplace": MARKETPLACE,
+      },
+      body: JSON.stringify({
+        keywords: keyword,
+        searchIndex: SEARCH_INDEX,
+        itemCount: 5,
+        sortBy: "AvgCustomerReviews",
+        partnerTag: PARTNER_TAG,
+        marketplace: MARKETPLACE,
+        resources: ["itemInfo.title", "offersV2.listings.price"],
+      }),
+    });
+
+    const bodyText = await res.text();
+    if (!res.ok) {
+      console.error(`比較商品の検索に失敗しました (HTTP ${res.status}): ${item.title}`);
+      console.error(bodyText);
+      return null;
+    }
+
+    let data;
+    try {
+      data = JSON.parse(bodyText);
+    } catch {
+      console.error(`比較商品検索レスポンスのJSON解析に失敗しました: ${item.title}`);
+      return null;
+    }
+
+    const candidates =
+      data.items ?? data.searchResult?.items ?? data.SearchResult?.Items ?? [];
+    const match = candidates.find((c) => (c.asin ?? c.ASIN) !== item.asin);
+    return match ? normalizeItem(match) : null;
+  } catch (err) {
+    console.error(`比較商品検索中にエラーが発生しました: ${item.title}`);
+    console.error(err);
+    return null;
+  }
+}
+
+async function generateCommentary(item, compareItem) {
   if (!GEMINI_API_KEY) return null;
 
-  const prompt =
-    "次のAmazon商品について、ブログに載せる紹介コメントを日本語1〜2文で書いてください。" +
-    "商品名から想像できる魅力を簡潔に伝え、実在しないスペックや効果を断定的に書かないでください。\n\n" +
-    `商品名: ${item.title}\n` +
-    (item.price ? `価格: ${item.price}\n` : "");
+  const prompt = compareItem
+    ? "次の2つのAmazon商品を比較する日本語2〜3文のコメントをブログ用に書いてください。" +
+      "1つ目は最近発売された新商品、2つ目は同じジャンルで評価の高い既存の定番品です。" +
+      "新商品が既存品とどう違うか、どんな人に向いているかを簡潔にまとめてください。" +
+      "実在しないスペックや効果を断定的に書かないでください。\n\n" +
+      `[新商品]\n商品名: ${item.title}\n` +
+      (item.price ? `価格: ${item.price}\n` : "") +
+      `\n[既存の定番品]\n商品名: ${compareItem.title}\n` +
+      (compareItem.price ? `価格: ${compareItem.price}\n` : "")
+    : "次のAmazon商品について、ブログに載せる紹介コメントを日本語1〜2文で書いてください。" +
+      "商品名から想像できる魅力を簡潔に伝え、実在しないスペックや効果を断定的に書かないでください。\n\n" +
+      `商品名: ${item.title}\n` +
+      (item.price ? `価格: ${item.price}\n` : "");
 
   try {
     const res = await fetch(`${GEMINI_URL}?key=${GEMINI_API_KEY}`, {
@@ -217,7 +286,9 @@ async function main() {
   const items = await searchNewGadgets(accessToken);
 
   for (const item of items) {
-    item.comment = await generateComment(item);
+    await sleep(1100); // Creators API のレート制限 (1 req/sec 目安) に配慮
+    const compareItem = await searchSimilarProduct(accessToken, item);
+    item.comment = await generateCommentary(item, compareItem);
   }
 
   const generatedAt = new Date().toISOString();
