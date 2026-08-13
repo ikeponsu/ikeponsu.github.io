@@ -71,6 +71,7 @@ npm run build
 | `AMAZON_CREATORS_CLIENT_ID` | 上記で発行した Client ID |
 | `AMAZON_CREATORS_CLIENT_SECRET` | 上記で発行した Client Secret |
 | `AMAZON_PARTNER_TAG` | アソシエイトタグ（既存の値をそのまま使用可） |
+| `GEMINI_API_KEY` | 商品紹介コメント生成用の Gemini API キー（省略時はコメントなしで生成） |
 
 旧 PA-API 5.0 用に登録していた `AMAZON_ACCESS_KEY` / `AMAZON_SECRET_KEY` /
 `AMAZON_PARTNER_TYPE` は Creators API では使用しないため、削除して問題ありません。

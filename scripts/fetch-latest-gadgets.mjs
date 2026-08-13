@@ -9,6 +9,7 @@
 //   AMAZON_CREATORS_CLIENT_ID     - Creators API の Client ID (旧 AccessKey とは別物)
 //   AMAZON_CREATORS_CLIENT_SECRET - Creators API の Client Secret
 //   AMAZON_PARTNER_TAG            - アソシエイトタグ (例: yourtag-22)
+//   GEMINI_API_KEY                - 商品紹介コメント生成用 (Gemini API)
 
 import fs from "node:fs";
 import path from "node:path";
@@ -19,10 +20,13 @@ const MARKETPLACE = "www.amazon.co.jp";
 const KEYWORDS = "ガジェット";
 const SEARCH_INDEX = "Electronics";
 const ITEM_COUNT = 5;
+const GEMINI_MODEL = "gemini-3.5-flash-lite";
+const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 
 const CLIENT_ID = process.env.AMAZON_CREATORS_CLIENT_ID;
 const CLIENT_SECRET = process.env.AMAZON_CREATORS_CLIENT_SECRET;
 const PARTNER_TAG = process.env.AMAZON_PARTNER_TAG;
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
 function requireEnv(name, value) {
   if (!value) {
@@ -137,6 +141,40 @@ function normalizeItem(item) {
   return { title, imageUrl, price, url };
 }
 
+async function generateComment(item) {
+  if (!GEMINI_API_KEY) return null;
+
+  const prompt =
+    "次のAmazon商品について、ブログに載せる紹介コメントを日本語1〜2文で書いてください。" +
+    "商品名から想像できる魅力を簡潔に伝え、実在しないスペックや効果を断定的に書かないでください。\n\n" +
+    `商品名: ${item.title}\n` +
+    (item.price ? `価格: ${item.price}\n` : "");
+
+  try {
+    const res = await fetch(`${GEMINI_URL}?key=${GEMINI_API_KEY}`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+      }),
+    });
+
+    if (!res.ok) {
+      console.error(`コメント生成に失敗しました (HTTP ${res.status}): ${item.title}`);
+      console.error(await res.text());
+      return null;
+    }
+
+    const data = await res.json();
+    const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
+    return text ? text.trim() : null;
+  } catch (err) {
+    console.error(`コメント生成中にエラーが発生しました: ${item.title}`);
+    console.error(err);
+    return null;
+  }
+}
+
 function buildMarkdown(items, generatedAt) {
   const frontmatter = [
     "---",
@@ -153,6 +191,9 @@ function buildMarkdown(items, generatedAt) {
       const lines = [`## ${i + 1}. [${item.title}](${item.url})`];
       if (item.imageUrl) {
         lines.push(`![${item.title}](${item.imageUrl})`);
+      }
+      if (item.comment) {
+        lines.push(item.comment);
       }
       if (item.price) {
         lines.push(`価格: ${item.price}`);
@@ -174,6 +215,11 @@ function buildMarkdown(items, generatedAt) {
 async function main() {
   const accessToken = await getAccessToken();
   const items = await searchNewGadgets(accessToken);
+
+  for (const item of items) {
+    item.comment = await generateComment(item);
+  }
+
   const generatedAt = new Date().toISOString();
   const markdown = buildMarkdown(items, generatedAt);
 
