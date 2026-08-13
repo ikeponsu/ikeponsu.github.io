@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f0f9ff;
+  --foreground: #0c2a3d;
+
+  --color-sky-50: #f0f9ff;
+  --color-sky-100: #e0f2fe;
+  --color-sky-200: #bae6fd;
+  --color-sky-300: #7dd3fc;
+  --color-sky-400: #38bdf8;
+  --color-sky-500: #0ea5e9;
+  --color-sky-600: #0284c7;
+  --color-sky-700: #0369a1;
+  --color-sky-800: #075985;
+  --color-sky-900: #0c4a6e;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), "Hiragino Sans", "Yu Gothic", sans-serif;
+}
+
+.prose-post h2 {
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+  font-size: 1.4em;
+  font-weight: 700;
+  color: var(--color-sky-800);
+}
+
+.prose-post h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.15em;
+  font-weight: 700;
+  color: var(--color-sky-800);
+}
+
+.prose-post p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  line-height: 1.9;
+}
+
+.prose-post a {
+  color: var(--color-sky-600);
+  text-decoration: underline;
+  text-decoration-color: var(--color-sky-300);
+}
+
+.prose-post ul,
+.prose-post ol {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 1.5em;
+}
+
+.prose-post li {
+  margin-top: 0.35em;
+  margin-bottom: 0.35em;
+}
+
+.prose-post ul li {
+  list-style-type: disc;
+}
+
+.prose-post ol li {
+  list-style-type: decimal;
+}
+
+.prose-post code {
+  background: var(--color-sky-100);
+  color: var(--color-sky-800);
+  padding: 0.15em 0.4em;
+  border-radius: 0.35em;
+  font-size: 0.9em;
+}
+
+.prose-post pre {
+  background: var(--color-sky-900);
+  color: var(--color-sky-50);
+  padding: 1em;
+  border-radius: 0.6em;
+  overflow-x: auto;
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+}
+
+.prose-post pre code {
+  background: transparent;
+  color: inherit;
+  padding: 0;
+}
+
+.prose-post blockquote {
+  border-left: 4px solid var(--color-sky-300);
+  padding-left: 1em;
+  color: var(--color-sky-700);
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+}
+
+.prose-post img {
+  border-radius: 0.75em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
