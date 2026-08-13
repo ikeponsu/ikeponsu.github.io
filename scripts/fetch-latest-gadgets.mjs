@@ -80,7 +80,7 @@ async function searchNewGadgets(accessToken) {
       resources: [
         "images.primary.medium",
         "itemInfo.title",
-        "offers.listings.price",
+        "offersV2.listings.price",
       ],
     }),
   });
@@ -124,6 +124,8 @@ function normalizeItem(item) {
     item.Images?.Primary?.Medium?.URL ??
     null;
   const price =
+    item.offersV2?.listings?.[0]?.price?.displayAmount ??
+    item.offersV2?.listings?.[0]?.price?.money?.displayAmount ??
     item.offers?.listings?.[0]?.price?.displayAmount ??
     item.Offers?.Listings?.[0]?.Price?.DisplayAmount ??
     null;
