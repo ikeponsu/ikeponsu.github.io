@@ -42,6 +42,9 @@ function requireEnv(name, value) {
 requireEnv("RAKUTEN_APP_ID", RAKUTEN_APP_ID);
 requireEnv("RAKUTEN_AFFILIATE_ID", RAKUTEN_AFFILIATE_ID);
 
+// 楽天API側のメンテナンス等、リトライしても無駄なエラーを区別するための例外。
+class RakutenMaintenanceError extends Error {}
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -94,6 +97,11 @@ async function searchRakutenItem(keyword) {
     if (!res.ok) {
       console.error(`楽天API検索に失敗しました (HTTP ${res.status}): ${keyword}`);
       console.error(bodyText);
+      if (res.status === 503 && bodyText.includes("service_unavailable")) {
+        throw new RakutenMaintenanceError(
+          "楽天APIがメンテナンス中のため、今回の更新を中止します。",
+        );
+      }
       return null;
     }
 
@@ -114,6 +122,7 @@ async function searchRakutenItem(keyword) {
       url: raw.affiliateUrl ?? raw.itemUrl,
     };
   } catch (err) {
+    if (err instanceof RakutenMaintenanceError) throw err;
     console.error(`楽天API検索中にエラーが発生しました: ${keyword}`);
     console.error(err);
     return null;
@@ -215,7 +224,16 @@ async function main() {
       continue;
     }
 
-    const item = await searchRakutenItem(trend);
+    let item;
+    try {
+      item = await searchRakutenItem(trend);
+    } catch (err) {
+      if (err instanceof RakutenMaintenanceError) {
+        console.error(err.message);
+        process.exit(1);
+      }
+      throw err;
+    }
     if (!item) {
       console.log(`関連商品なしのためスキップ: ${trend}`);
       continue;
