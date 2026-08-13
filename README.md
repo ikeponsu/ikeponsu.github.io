@@ -84,3 +84,25 @@ Creators API はまだ新しく仕様変更が入りうるため、失敗した�
 出力される生レスポンスを確認し、`scripts/fetch-latest-gadgets.mjs` 内のエンドポイント
 URL やフィールド名を最新の [Creators API ドキュメント](https://affiliate-program.amazon.com/creatorsapi/docs/)
 に合わせて調整してください。
+
+## トレンド商品記事の自動更新
+
+`/posts/trending-products` は Google トレンド(RSS)から話題のキーワードを取得し、
+各キーワードに関連する商品を楽天市場で検索、Gemini で紹介コメントを生成して
+最大10件をまとめる記事です。`.github/workflows/update-trending.yml` によって
+**2時間ごとに自動更新**されます。更新スクリプトは `scripts/fetch-trending-products.mjs` です。
+
+事故・訃報・犯罪などに関連するキーワードは NG ワードリストで除外するほか、
+Gemini 自身にも不謹慎な話題かどうかを判定させ、該当する場合はそのキーワードをスキップします。
+
+### GitHub Secrets への登録
+
+| Secret名 | 内容 |
+| --- | --- |
+| `RAKUTEN_APP_ID` | 楽天ウェブサービスの Application ID |
+| `RAKUTEN_AFFILIATE_ID` | 楽天アフィリエイトID |
+| `GEMINI_API_KEY` | 上記のガジェット記事と共通（省略時はコメントなしで生成） |
+
+**注意:** APIキーは絶対にコード・チャット・Issue等に平文で貼らず、GitHub Secretsにのみ
+保存してください。誤って外部に公開してしまった場合は、発行元のコンソールで速やかに
+キーを再発行（ローテーション）してください。
