@@ -105,9 +105,10 @@ Gemini 自身にも不謹慎な話題かどうかを判定させ、該当する�
 | `GEMINI_API_KEY` | 上記のガジェット記事と共通（省略時はコメントなしで生成） |
 
 楽天ウェブサービスのアプリ作成フォームで `Allowed websites` に `ikeponsu.github.io` を
-登録しており、リクエスト時に `Referer: https://ikeponsu.github.io` ヘッダーを送っている
-（`scripts/fetch-trending-products.mjs` 内の `RAKUTEN_REFERER`）。この値を変更する場合は
-両方を揃えて更新すること。
+登録しており、リクエスト時に `Referer` と `Origin` ヘッダーを送っている
+（`scripts/fetch-trending-products.mjs` 内の `RAKUTEN_REFERER` / `RAKUTEN_ORIGIN`）。
+この値を変更する場合は両方を揃えて更新すること。fetch() は "Referer" ヘッダーを
+forbidden header として黙って除外するため、`node:https` を直接使っている。
 
 **注意:** APIキーは絶対にコード・チャット・Issue等に平文で貼らず、GitHub Secretsにのみ
 保存してください。誤って外部に公開してしまった場合は、発行元のコンソールで速やかに

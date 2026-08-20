@@ -15,7 +15,9 @@ const RSS_URL = "https://trends.google.co.jp/trending/rss?geo=JP";
 const RAKUTEN_SEARCH_URL =
   "https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260701";
 // アプリ作成時に "Allowed websites" へ登録したドメインと一致させる必要がある。
-const RAKUTEN_REFERER = "https://ikeponsu.github.io";
+// Referer だけでは REQUEST_CONTEXT_BODY_HTTP_REFERRER_MISSING になるため Origin も送る。
+const RAKUTEN_REFERER = "https://ikeponsu.github.io/";
+const RAKUTEN_ORIGIN = "https://ikeponsu.github.io";
 const GEMINI_MODEL = "gemini-3.5-flash-lite";
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 const TARGET_COUNT = 10;
@@ -119,7 +121,10 @@ async function searchRakutenItem(keyword) {
     "&hits=1&sort=standard&minPrice=1000&formatVersion=2";
 
   try {
-    const res = await httpsGet(url, { Referer: RAKUTEN_REFERER });
+    const res = await httpsGet(url, {
+      Referer: RAKUTEN_REFERER,
+      Origin: RAKUTEN_ORIGIN,
+    });
     const bodyText = res.text;
     if (!res.ok) {
       console.error(`楽天API検索に失敗しました (HTTP ${res.status}): ${keyword}`);
