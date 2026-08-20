@@ -7,7 +7,7 @@ on:
   # GITHUB_TOKEN で行われた push は push イベントを発火させないため、
   # 各自動更新ワークフローの完了をトリガーとして追加する。
   workflow_run:
-    workflows: ["Update Latest Gadgets", "Update Trending Products"]
+    workflows: ["Update Latest Gadgets", "Update Trending Products", "Update Trending Products (Amazon)"]
     types: [completed]
     branches: ["main"]
 

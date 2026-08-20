@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "fetch:gadgets": "node scripts/fetch-latest-gadgets.mjs",
-    "fetch:trending": "node scripts/fetch-trending-products.mjs"
+    "fetch:trending": "node scripts/fetch-trending-products.mjs",
+    "fetch:trending-amazon": "node scripts/fetch-trending-products-amazon.mjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

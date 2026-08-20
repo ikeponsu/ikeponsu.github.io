@@ -110,6 +110,14 @@ Gemini 自身にも不謹慎な話題かどうかを判定させ、該当する�
 この値を変更する場合は両方を揃えて更新すること。fetch() は "Referer" ヘッダーを
 forbidden header として黙って除外するため、`node:https` を直接使っている。
 
+## トレンド商品記事の自動更新(Amazon版)
+
+`/posts/trending-products-amazon` は上記と同じ仕組みで、商品検索先を楽天ではなく
+Amazon Creators API にしたものです。`.github/workflows/update-trending-amazon.yml` によって
+同じく**2時間ごとに自動更新**されます。更新スクリプトは `scripts/fetch-trending-products-amazon.mjs`
+です。Secretsは `latest-gadgets` と共通(`AMAZON_CREATORS_CLIENT_ID` / `AMAZON_CREATORS_CLIENT_SECRET` /
+`AMAZON_PARTNER_TAG` / `GEMINI_API_KEY`)で、新規登録は不要です。
+
 **注意:** APIキーは絶対にコード・チャット・Issue等に平文で貼らず、GitHub Secretsにのみ
 保存してください。誤って外部に公開してしまった場合は、発行元のコンソールで速やかに
 キーを再発行（ローテーション）してください。
