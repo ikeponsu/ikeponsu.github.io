@@ -9,6 +9,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import https from "node:https";
 
 const RSS_URL = "https://trends.google.co.jp/trending/rss?geo=JP";
 const RAKUTEN_SEARCH_URL =
@@ -52,6 +53,26 @@ class RakutenMaintenanceError extends Error {}
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// fetch() は "Referer" を forbidden header として黙って除外してしまうため、
+// Referer 送信が必須な楽天APIへは node:https で直接リクエストする。
+function httpsGet(url, headers = {}) {
+  return new Promise((resolve, reject) => {
+    const req = https.request(url, { method: "GET", headers }, (res) => {
+      const chunks = [];
+      res.on("data", (chunk) => chunks.push(chunk));
+      res.on("end", () => {
+        resolve({
+          status: res.statusCode,
+          ok: res.statusCode >= 200 && res.statusCode < 300,
+          text: Buffer.concat(chunks).toString("utf8"),
+        });
+      });
+    });
+    req.on("error", reject);
+    req.end();
+  });
 }
 
 function decodeXmlText(raw) {
@@ -98,10 +119,8 @@ async function searchRakutenItem(keyword) {
     "&hits=1&sort=standard&minPrice=1000&formatVersion=2";
 
   try {
-    const res = await fetch(url, {
-      headers: { Referer: RAKUTEN_REFERER },
-    });
-    const bodyText = await res.text();
+    const res = await httpsGet(url, { Referer: RAKUTEN_REFERER });
+    const bodyText = res.text;
     if (!res.ok) {
       console.error(`楽天API検索に失敗しました (HTTP ${res.status}): ${keyword}`);
       console.error(bodyText);
@@ -232,6 +251,8 @@ async function main() {
       continue;
     }
 
+    await sleep(1200); // 楽天APIのレート制限に配慮 (成功/失敗にかかわらず一定間隔を空ける)
+
     let item;
     try {
       item = await searchRakutenItem(trend);
@@ -254,7 +275,6 @@ async function main() {
     }
 
     results.push({ trend, item, comment: text });
-    await sleep(1100);
   }
 
   if (results.length === 0) {
