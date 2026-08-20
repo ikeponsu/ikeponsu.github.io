@@ -1,105 +1,100 @@
 ---
 title: "今話題のトレンド × おすすめ商品"
-date: "2026-08-20T12:37:52.386Z"
+date: "2026-08-20T14:31:47.374Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連する楽天のおすすめ商品を紹介します。"
 tags: ["トレンド", "楽天"]
 ---
-## 1. 金正恩
+## 1. 熱闘甲子園
 
-[金正恩の革命思想 北朝鮮における指導理念の変遷 （筑摩選書　274） [ 平井 久志 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17748032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21160034%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[熱闘甲子園2022 ～第104回大会 48試合完全収録～ [ (スポーツ) ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17262300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20752482%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![金正恩の革命思想 北朝鮮における指導理念の変遷 （筑摩選書　274） [ 平井 久志 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7932/9784480017932_1_37.jpg?_ex=128x128)
+![熱闘甲子園2022 ～第104回大会 48試合完全収録～ [ (スポーツ) ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4554/4571519914554_1_2.jpg?_ex=128x128)
 
-ニュースの話題などで度々注目を集める金正恩委員長ですが、その北朝鮮の政治体制や指導理念がどのように形作られてきたのか気になるところですよね。本書『金正恩の革命思想 北朝鮮における指導理念の変遷』では、専門的な視点からその思想の変遷を紐解いており、現代の北朝鮮情勢を深く理解するための手助けとなる一冊です。
+夏の高校野球の熱戦が蘇る「熱闘甲子園」ですが、あの感動をご自宅でもじっくり味わいたい方には『熱闘甲子園2022 ～第104回大会 48試合完全収録～』がおすすめです。価格は5,871円で、第104回大会の全48試合を余すことなく収録したファン必見のBlu-ray/DVDとなっています。球児たちの熱いドラマを、ぜひ手元に残して何度でも振り返ってみてくださいね。
 
-価格: ¥2,090
+価格: ¥5,871
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17748032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21160034%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17262300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20752482%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 2. 猪狩蒼弥
+## 2. 那珂川
 
-[HiHi Jets 【猪狩蒼弥 】 はぴぬい 2024 オフィシャルグッズ ハピぬい ぬいぐるみ ぬいば チャーム 橋本涼 作間龍斗 猪狩蒼弥 井上瑞稀 高橋優斗 ジャニーズJr. ジュニア Johnnys HiHiJets HiHi JET Hi ハイハイジェッツ ハイ ハイハイ 猪狩 蒼弥](https://hb.afl.rakuten.co.jp/hgc/g00u0gwm.c5l9056b.g00u0gwm.c5l91fbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodslife%2F10001415%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodslife%2Fi%2F10001391%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【ふるさと納税】 新米 お米 米 訳あり 定期便 限定 選べる 玄米 白米 5000円 栃木県共通返礼品 2kg 4kg 5kg 10kg ｜コシヒカリ こしひかり とちぎの星 ミルキークイーン 密閉パック | 米 こめ コメ ごはん いちご お米 kome okome 栃木県 那珂川町 送料無料](https://hb.afl.rakuten.co.jp/hgc/g00unwtm.c5l9074f.g00unwtm.c5l917ee/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff094111-nakagawa%2Ftab09-tab16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff094111-nakagawa%2Fi%2F10000174%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![HiHi Jets 【猪狩蒼弥 】 はぴぬい 2024 オフィシャルグッズ ハピぬい ぬいぐるみ ぬいば チャーム 橋本涼 作間龍斗 猪狩蒼弥 井上瑞稀 高橋優斗 ジャニーズJr. ジュニア Johnnys HiHiJets HiHi JET Hi ハイハイジェッツ ハイ ハイハイ 猪狩 蒼弥](https://thumbnail.image.rakuten.co.jp/@0_gold/goodslife/bn/item/main-image/10001415/20240609212114_1.jpg?_ex=128x128)
+![【ふるさと納税】 新米 お米 米 訳あり 定期便 限定 選べる 玄米 白米 5000円 栃木県共通返礼品 2kg 4kg 5kg 10kg ｜コシヒカリ こしひかり とちぎの星 ミルキークイーン 密閉パック | 米 こめ コメ ごはん いちご お米 kome okome 栃木県 那珂川町 送料無料](https://thumbnail.image.rakuten.co.jp/@0_mall/f094111-nakagawa/cabinet/11766157/12079192/aj0001_01_.jpg?_ex=128x128)
 
-大人気グループHiHi Jetsの猪狩蒼弥さんの「はぴぬい」オフィシャルグッズは、ファンならぜひ手に入れたい注目のアイテムです。バッグやポーチにつけて一緒にお出かけできるサイズ感で、いつでも推しを身近に感じられる可愛いデザインが魅力です。
+豊かな自然と清流が育む美味しいお米が魅力の栃木県那珂川町から、お財布にも優しいお得なふるさと納税の返礼品が登場しました。
+コシヒカリやとちぎの星など人気の銘柄から選べるうえに、便利な密閉パックで届くためいつでも炊きたての美味しさが楽しめます。
+寄付額4,900円という手頃な価格も嬉しいポイントですので、毎日の食卓をちょっと贅沢に彩る選択肢としてチェックしてみてはいかがでしょうか。
 
-価格: ¥3,980
+価格: ¥4,900
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00u0gwm.c5l9056b.g00u0gwm.c5l91fbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodslife%2F10001415%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodslife%2Fi%2F10001391%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00unwtm.c5l9074f.g00unwtm.c5l917ee/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff094111-nakagawa%2Ftab09-tab16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff094111-nakagawa%2Fi%2F10000174%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 3. 笠松将
+## 3. 佐々木麟太郎
 
-[リング・ワンダリング [ 笠松将 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17263053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20758031%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[MLB 2025 Panini Prizm Baseball ホビーボックス 未開封 佐々木麟太郎](https://hb.afl.rakuten.co.jp/hgc/g00rgaam.c5l90340.g00rgaam.c5l913f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbasque%2Fspcardbv850ykliv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbasque%2Fi%2F10094790%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![リング・ワンダリング [ 笠松将 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0440/4988166200440.jpg?_ex=128x128)
+![MLB 2025 Panini Prizm Baseball ホビーボックス 未開封 佐々木麟太郎](https://thumbnail.image.rakuten.co.jp/@0_mall/basque/cabinet/card2/spcardbv850ykliv.jpg?_ex=128x128)
 
-いま大注目の俳優・笠松将さんの魅力が存分に詰まった映画『リング・ワンダリング』のDVD＆Blu-rayが、現在2,420円（税込）で発売中です。漫画家を目指す青年を演じた笠松さんの繊細な演技を、ぜひご自宅のスクリーンでじっくりと味わってみてはいかがでしょうか。
+高校通算最多本塁打記録を誇り、現在はアメリカの大学で挑戦を続ける佐々木麟太郎選手への注目が高まる中、MLBファンの間で話題となっているのが最新のベースボールカードです。
+「MLB 2025 Panini Prizm Baseball ホビーボックス 未開封」には、未来のスター候補たちの貴重なカードが封入されており、コレクションとしても非常に魅力的なアイテムとなっています。
+価格は82,500円となっておりますので、気になる方はぜひチェックしてみてください。
 
-価格: ¥2,420
+価格: ¥82,500
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17263053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20758031%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00rgaam.c5l90340.g00rgaam.c5l913f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbasque%2Fspcardbv850ykliv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbasque%2Fi%2F10094790%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 4. 糸井嘉男
+## 4. ホンダ シティ 新型
 
-[超人ソリューション～筋肉と向き合う哲学 心も豊かになる筋トレの法則 [ 糸井 嘉男 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17360932%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20835163%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[Savanini パドルシフト レッド すべての新型ホンダ シティ ハッチバック 2021 UP に適しています Savanini Paddle Shift RED Suitable For All New Honda City Hatchback 2021 UP 【並行輸入品】](https://hb.afl.rakuten.co.jp/hgc/g00sqpmm.c5l90d2f.g00sqpmm.c5l91f33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatu-souko%2Fitem-014578-3575%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatu-souko%2Fi%2F14614891%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![超人ソリューション～筋肉と向き合う哲学 心も豊かになる筋トレの法則 [ 糸井 嘉男 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0674/9784537220674_1_4.jpg?_ex=128x128)
+![Savanini パドルシフト レッド すべての新型ホンダ シティ ハッチバック 2021 UP に適しています Savanini Paddle Shift RED Suitable For All New Honda City Hatchback 2021 UP 【並行輸入品】](https://thumbnail.image.rakuten.co.jp/@0_mall/seikatu-souko/cabinet/14578/5/item-014578-3575.jpg?_ex=128x128)
 
-「超人」の愛称で知られる元プロ野球選手の糸井嘉男さんが、独自の哲学とトレーニング論をまとめた一冊『超人ソリューション～筋肉と向き合う哲学 心も豊かになる筋トレの法則』が大きな注目を集めています。身体を鍛えることだけでなく、前向きなメンタルや豊かな心を育むヒントが詰まっており、日々のモチベーションを高めたい方におすすめの書籍です（価格：1,870円）。
+話題の新型ホンダ シティのインテリアをさらにスポーティに演出してくれる、Savaniniのレッドパドルシフトが登場しました。鮮やかな赤色のアクセントが運転席の雰囲気をぐっと引き締め、より楽しいドライビング体験をサポートしてくれます。新型シティのカスタムを検討されている方に、ぜひチェックしていただきたいおすすめの逸品です。
 
-価格: ¥1,870
+価格: ¥83,600
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17360932%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20835163%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00sqpmm.c5l90d2f.g00sqpmm.c5l91f33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatu-souko%2Fitem-014578-3575%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatu-souko%2Fi%2F14614891%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 5. 日向灘
+## 5. 職員
 
-[【ふるさと納税】お刺身 定期便 6回 活〆 ヒラメ 真鯛 カンパチ 【着日指定】 高評価★4.77 延岡産 鮮魚 季節の魚 ブリ ハマチ 昆布〆 しゃぶしゃぶ カルパッチョ 請関水産 グルメ お取り寄せ 宮崎県 延岡市 送料無料](https://hb.afl.rakuten.co.jp/hgc/g00t69qm.c5l90130.g00t69qm.c5l918d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452033-nobeoka%2F303%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452033-nobeoka%2Fi%2F10000207%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[側章ポロシャツ【介護ユニフォーム 介護服 介護 介護用品 介護士 介護福祉士 職員 ケアワーカー 看護 病院 保育士 ケア ヘルパー 女性 レディース きれい かわいい ナースリー 人気 おすすめ】PL00077](https://hb.afl.rakuten.co.jp/hgc/g00r506m.c5l9019d.g00r506m.c5l9174e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkokohaku%2Fpl00077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkokohaku%2Fi%2F10011682%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【ふるさと納税】お刺身 定期便 6回 活〆 ヒラメ 真鯛 カンパチ 【着日指定】 高評価★4.77 延岡産 鮮魚 季節の魚 ブリ ハマチ 昆布〆 しゃぶしゃぶ カルパッチョ 請関水産 グルメ お取り寄せ 宮崎県 延岡市 送料無料](https://thumbnail.image.rakuten.co.jp/@0_mall/f452033-nobeoka/cabinet/f006/303-s01-241001.jpg?_ex=128x128)
+![側章ポロシャツ【介護ユニフォーム 介護服 介護 介護用品 介護士 介護福祉士 職員 ケアワーカー 看護 病院 保育士 ケア ヘルパー 女性 レディース きれい かわいい ナースリー 人気 おすすめ】PL00077](https://thumbnail.image.rakuten.co.jp/@0_mall/kokohaku/cabinet/codepl/pl00077_1000.jpg?_ex=128x128)
 
-宮崎県の日向灘は豊かな黒潮の恵みを受ける好漁場として知られていますが、その美しい海で育った新鮮な鮮魚を存分に楽しめるのがこちらの定期便です。職人の手で活〆されたヒラメや真鯛、カンパチなどの極上のお刺身が全6回にわたって自宅に届き、贅沢な海の幸を季節ごとに堪能できます。着日指定も可能なので、ご家族でのお祝い事や特別な日の食卓を彩るお取り寄せグルメとしてもぴったりです。
+日々の業務を頑張る職員の皆様へ、清潔感ときれいなシルエットを叶える「側章ポロシャツ」がおすすめです。動きやすさと可愛らしさを兼ね備えたデザインで、介護や保育の現場で働く女性スタッフの毎日の装いを快適にサポートします。
 
-価格: ¥95,000
+価格: ¥2,820
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00t69qm.c5l90130.g00t69qm.c5l918d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452033-nobeoka%2F303%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452033-nobeoka%2Fi%2F10000207%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00r506m.c5l9019d.g00r506m.c5l9174e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkokohaku%2Fpl00077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkokohaku%2Fi%2F10011682%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 6. 乃木坂
+## 6. 動画配信者
 
-[【10枚セット】是非に及ばず (初回仕様限定盤 CD＋Blu-ray Type-A) (特典なし) [ 乃木坂46 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18656597%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21981828%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[ボロタイ メンズ 純銅製 透かし彫り 手彫り 電気メッキ加工 中国風 エスニック レザーコード ループタイ ファッション小物 動画配信者 男性用 幾何学模様 おしゃれ カジュアル フォーマル プレゼント ギフト 男女兼用](https://hb.afl.rakuten.co.jp/hgc/g00ulvjm.c5l9078f.g00ulvjm.c5l91991/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsecure-depo%2F2l3iu3oyxrz2q4d5pwwuhuifva-als%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsecure-depo%2Fi%2F11204100%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【10枚セット】是非に及ばず (初回仕様限定盤 CD＋Blu-ray Type-A) (特典なし) [ 乃木坂46 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9369/2100015009369_1_2.jpg?_ex=128x128)
+![ボロタイ メンズ 純銅製 透かし彫り 手彫り 電気メッキ加工 中国風 エスニック レザーコード ループタイ ファッション小物 動画配信者 男性用 幾何学模様 おしゃれ カジュアル フォーマル プレゼント ギフト 男女兼用](https://thumbnail.image.rakuten.co.jp/@0_mall/secure-depo/cabinet/13113795/alb14009916axbt_1.jpg?_ex=128x128)
 
-大人気の乃木坂46待望の新作『是非に及ばず (初回仕様限定盤 CD＋Blu-ray Type-A)』が、ファン必見の10枚セットで登場しました！
-メンバーたちの魅力がたっぷり詰まった映像と音楽を、ぜひこの機会にまとめてゲットしてみてはいかがでしょうか。
+近頃の動画配信者たちの間では、個性を引き立てるユニークなファッション小物を取り入れるのがトレンドになっています。
+純銅製の透かし彫りと手彫りが施された中国風のエスニックなボロタイは、画面越しでも目を惹くおしゃれなアクセントとしてぴったりです。
+カジュアルからフォーマルまで幅広く合わせられるため、配信者ご本人の着用はもちろん、ギフトとしてもおすすめの一品です。
 
-価格: ¥16,798
+価格: ¥7,890
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18656597%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21981828%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00ulvjm.c5l9078f.g00ulvjm.c5l91991/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsecure-depo%2F2l3iu3oyxrz2q4d5pwwuhuifva-als%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsecure-depo%2Fi%2F11204100%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 7. おそ松さん
+## 7. jfeエンジニアリング
 
-[おそ松さんALL NEET THANKS BOX【Blu-ray】 [ 櫻井孝宏 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16915574%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20491262%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[JFEエンジニアリング LANEX-Tablet/m5W（Wi-Fi） 取り寄せ商品](https://hb.afl.rakuten.co.jp/hgc/g00rvxcm.c5l90314.g00rvxcm.c5l91c4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanos-sr%2F9760118184184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanos-sr%2Fi%2F11829091%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![おそ松さんALL NEET THANKS BOX【Blu-ray】 [ 櫻井孝宏 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6056/4580055356056_1_3.jpg?_ex=128x128)
+![JFEエンジニアリング LANEX-Tablet/m5W（Wi-Fi） 取り寄せ商品](https://thumbnail.image.rakuten.co.jp/@0_mall/nanos-sr/cabinet/newnoimg.gif?_ex=128x128)
 
-大人気アニメ『おそ松さん』の魅力を余すところなく堪能したい方には、豪華特典が詰まった『おそ松さんALL NEET THANKS BOX【Blu-ray】』がおすすめです。ファン必見のボリューム豊かなこのBOXで、6つ子たちのドタバタな日常をぜひご自宅でたっぷりとお楽しみください！
+JFEエンジニアリングの関連機器をご検討中の方に注目なのが、現場でのデータ確認や業務効率化に役立つ「JFEエンジニアリング LANEX-Tablet/m5W（Wi-Fi） 取り寄せ商品」です。
+各種プラントやインフラの現場で培われた同社の技術を背景に、スマートな情報管理をサポートする高信頼なタブレット端末となっております。
+価格は993,603円となっており、専門的な現場システムへの導入をご検討の際は、ぜひチェックしてみてください。
 
-価格: ¥54,552
+価格: ¥993,603
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16915574%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20491262%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-## 8. 増田貴久
-
-[増田貴久のカバー (通常盤) [ 増田貴久 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18555309%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21892312%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-![増田貴久のカバー (通常盤) [ 増田貴久 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8477/4582515778477_1_2.jpg?_ex=128x128)
-
-NEWSの増田貴久さんが歌声を届けてくれる話題のカバーアルバム『増田貴久のカバー (通常盤)』は、彼の魅力がたっぷりと詰まった注目の作品です。3,630円（税込）で手に入るこの一枚で、あの素敵な歌声をじっくりと堪能してみてはいかがでしょうか。
-
-価格: ¥3,630
-
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18555309%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21892312%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00rvxcm.c5l90314.g00rvxcm.c5l91c4c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanos-sr%2F9760118184184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanos-sr%2Fi%2F11829091%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
 ---
 
