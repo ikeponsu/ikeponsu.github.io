@@ -1,109 +1,105 @@
 ---
 title: "今話題のトレンド × おすすめ商品"
-date: "2026-08-20T10:24:40.148Z"
+date: "2026-08-20T12:37:52.386Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連する楽天のおすすめ商品を紹介します。"
 tags: ["トレンド", "楽天"]
 ---
-## 1. 橋下 徹
+## 1. 金正恩
 
-[政権変容論 （講談社＋α新書） [ 橋下 徹 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17915824%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21308162%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[金正恩の革命思想 北朝鮮における指導理念の変遷 （筑摩選書　274） [ 平井 久志 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17748032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21160034%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![政権変容論 （講談社＋α新書） [ 橋下 徹 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6851/9784065366851_1_2.jpg?_ex=128x128)
+![金正恩の革命思想 北朝鮮における指導理念の変遷 （筑摩選書　274） [ 平井 久志 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7932/9784480017932_1_37.jpg?_ex=128x128)
 
-メディアでの鋭い発言や独自の政治的スタンスが常に注目を集める橋下徹氏の思考の深層に迫る一冊です。本書『政権変容論』では、激動する日本の政治構造や権力のあり方について、実践的な視点から鋭く切り込んでいます。政治の現在地や今後のゆくえに関心がある方は、ぜひ手に取ってみてはいかがでしょうか。
+ニュースの話題などで度々注目を集める金正恩委員長ですが、その北朝鮮の政治体制や指導理念がどのように形作られてきたのか気になるところですよね。本書『金正恩の革命思想 北朝鮮における指導理念の変遷』では、専門的な視点からその思想の変遷を紐解いており、現代の北朝鮮情勢を深く理解するための手助けとなる一冊です。
 
-価格: ¥1,100
+価格: ¥2,090
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17915824%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21308162%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17748032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21160034%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 2. 高橋奎二
+## 2. 猪狩蒼弥
 
-[納期注意【東京ヤクルトスワローズ 刺繍ワッペン 高橋 ネーム】高橋奎二/プロ野球/刺繍/刺しゅう/ワッペン/応援グッズ【SG】/クリスマス/](https://hb.afl.rakuten.co.jp/hgc/g00re1pm.c5l904aa.g00re1pm.c5l91019/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaconquete%2Fn20200827002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flaconquete%2Fi%2F10013907%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[HiHi Jets 【猪狩蒼弥 】 はぴぬい 2024 オフィシャルグッズ ハピぬい ぬいぐるみ ぬいば チャーム 橋本涼 作間龍斗 猪狩蒼弥 井上瑞稀 高橋優斗 ジャニーズJr. ジュニア Johnnys HiHiJets HiHi JET Hi ハイハイジェッツ ハイ ハイハイ 猪狩 蒼弥](https://hb.afl.rakuten.co.jp/hgc/g00u0gwm.c5l9056b.g00u0gwm.c5l91fbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodslife%2F10001415%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodslife%2Fi%2F10001391%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![納期注意【東京ヤクルトスワローズ 刺繍ワッペン 高橋 ネーム】高橋奎二/プロ野球/刺繍/刺しゅう/ワッペン/応援グッズ【SG】/クリスマス/](https://thumbnail.image.rakuten.co.jp/@0_mall/laconquete/cabinet/08503618/imgrc0093212852.jpg?_ex=128x128)
+![HiHi Jets 【猪狩蒼弥 】 はぴぬい 2024 オフィシャルグッズ ハピぬい ぬいぐるみ ぬいば チャーム 橋本涼 作間龍斗 猪狩蒼弥 井上瑞稀 高橋優斗 ジャニーズJr. ジュニア Johnnys HiHiJets HiHi JET Hi ハイハイジェッツ ハイ ハイハイ 猪狩 蒼弥](https://thumbnail.image.rakuten.co.jp/@0_gold/goodslife/bn/item/main-image/10001415/20240609212114_1.jpg?_ex=128x128)
 
-東京ヤクルトスワローズの高橋奎二選手を熱く応援したい方にぴったりな、オリジナルのネーム刺繍ワッペンが登場しました！
-お持ちのユニフォームやバッグにアイロン等で簡単に圧着できるため、自分だけの特別な応援グッズを手軽に作ることができます。
-球場での観戦がさらに楽しくなるアイテムを、ぜひこの機会にチェックしてみてください！
+大人気グループHiHi Jetsの猪狩蒼弥さんの「はぴぬい」オフィシャルグッズは、ファンならぜひ手に入れたい注目のアイテムです。バッグやポーチにつけて一緒にお出かけできるサイズ感で、いつでも推しを身近に感じられる可愛いデザインが魅力です。
 
-価格: ¥1,999
+価格: ¥3,980
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00re1pm.c5l904aa.g00re1pm.c5l91019/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaconquete%2Fn20200827002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flaconquete%2Fi%2F10013907%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00u0gwm.c5l9056b.g00u0gwm.c5l91fbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodslife%2F10001415%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgoodslife%2Fi%2F10001391%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 3. reject
+## 3. 笠松将
 
-[REJECT アイマスク 睡眠用 【横寝OK 遮光率99.99%】圧迫感なし 男女兼用 携帯用袋付 洗濯可能 睡眠 遮光 飛行機 旅行 BLACKOUT ブラックアウト リジェクト](https://hb.afl.rakuten.co.jp/hgc/g00up3bm.c5l90525.g00up3bm.c5l917bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Fabu2meyw2dl44usqvydum7wf7q%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10478834%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[リング・ワンダリング [ 笠松将 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17263053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20758031%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![REJECT アイマスク 睡眠用 【横寝OK 遮光率99.99%】圧迫感なし 男女兼用 携帯用袋付 洗濯可能 睡眠 遮光 飛行機 旅行 BLACKOUT ブラックアウト リジェクト](https://thumbnail.image.rakuten.co.jp/@0_mall/yksakai/cabinet/13129236/44211597_1.jpg?_ex=128x128)
+![リング・ワンダリング [ 笠松将 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0440/4988166200440.jpg?_ex=128x128)
 
-最近ネットやSNSで話題のキーワード「reject」に関連して、睡眠の質を高めてくれる「REJECT アイマスク（3,225円）」をご紹介します。遮光率99.99%や横寝OKといった快適な睡眠をサポートする機能が備わっており、日々の疲れをしっかり癒やしたい方におすすめのアイテムです。旅行や出張の移動中など、リラックスしたいシーンにもぴったりですよ。
+いま大注目の俳優・笠松将さんの魅力が存分に詰まった映画『リング・ワンダリング』のDVD＆Blu-rayが、現在2,420円（税込）で発売中です。漫画家を目指す青年を演じた笠松さんの繊細な演技を、ぜひご自宅のスクリーンでじっくりと味わってみてはいかがでしょうか。
 
-価格: ¥3,225
+価格: ¥2,420
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00up3bm.c5l90525.g00up3bm.c5l917bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyksakai%2Fabu2meyw2dl44usqvydum7wf7q%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyksakai%2Fi%2F10478834%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17263053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20758031%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 4. 突破ファイル
+## 4. 糸井嘉男
 
-[THE突破ファイル マンガ推理クイズブック3 [ 日本テレビ ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18631817%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21957188%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[超人ソリューション～筋肉と向き合う哲学 心も豊かになる筋トレの法則 [ 糸井 嘉男 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17360932%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20835163%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![THE突破ファイル マンガ推理クイズブック3 [ 日本テレビ ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4927/9784791634927_1_4.jpg?_ex=128x128)
+![超人ソリューション～筋肉と向き合う哲学 心も豊かになる筋トレの法則 [ 糸井 嘉男 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0674/9784537220674_1_4.jpg?_ex=128x128)
 
-大人気番組「THE突破ファイル」のひらめき推理を、自宅でじっくり楽しめる『THE突破ファイル マンガ推理クイズブック3』が登場しました！マンガ形式でサクサク読めるので、子供から大人まで夢中になって謎解きに挑戦できるおすすめの一冊です（価格：1,320円）。
+「超人」の愛称で知られる元プロ野球選手の糸井嘉男さんが、独自の哲学とトレーニング論をまとめた一冊『超人ソリューション～筋肉と向き合う哲学 心も豊かになる筋トレの法則』が大きな注目を集めています。身体を鍛えることだけでなく、前向きなメンタルや豊かな心を育むヒントが詰まっており、日々のモチベーションを高めたい方におすすめの書籍です（価格：1,870円）。
 
-価格: ¥1,320
+価格: ¥1,870
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18631817%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21957188%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17360932%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20835163%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 5. クールジャパン機構
+## 5. 日向灘
 
-[三好製作所(Miyoshi Seisakujyo) GEL-COOL ジェルクール square 保冷剤一体型 四角 ランチボックス お弁当箱 ベリーブルー 11×9.4×5.5cm 220ml 1段 女性 子供 簡単クリップ バックル機構 保存容器 デザート用 サラダケース レンジ対応 & 食洗機対応(蓋を除く本体) 青 日本](https://hb.afl.rakuten.co.jp/hgc/g00tsrcm.c5l90933.g00tsrcm.c5l91fb1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fs4gshop%2F20250423143107_95%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fs4gshop%2Fi%2F10042068%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【ふるさと納税】お刺身 定期便 6回 活〆 ヒラメ 真鯛 カンパチ 【着日指定】 高評価★4.77 延岡産 鮮魚 季節の魚 ブリ ハマチ 昆布〆 しゃぶしゃぶ カルパッチョ 請関水産 グルメ お取り寄せ 宮崎県 延岡市 送料無料](https://hb.afl.rakuten.co.jp/hgc/g00t69qm.c5l90130.g00t69qm.c5l918d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452033-nobeoka%2F303%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452033-nobeoka%2Fi%2F10000207%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![三好製作所(Miyoshi Seisakujyo) GEL-COOL ジェルクール square 保冷剤一体型 四角 ランチボックス お弁当箱 ベリーブルー 11×9.4×5.5cm 220ml 1段 女性 子供 簡単クリップ バックル機構 保存容器 デザート用 サラダケース レンジ対応 & 食洗機対応(蓋を除く本体) 青 日本](https://thumbnail.image.rakuten.co.jp/@0_mall/s4gshop/cabinet/r_2025021501/20250423143107_95_1.jpg?_ex=128x128)
+![【ふるさと納税】お刺身 定期便 6回 活〆 ヒラメ 真鯛 カンパチ 【着日指定】 高評価★4.77 延岡産 鮮魚 季節の魚 ブリ ハマチ 昆布〆 しゃぶしゃぶ カルパッチョ 請関水産 グルメ お取り寄せ 宮崎県 延岡市 送料無料](https://thumbnail.image.rakuten.co.jp/@0_mall/f452033-nobeoka/cabinet/f006/303-s01-241001.jpg?_ex=128x128)
 
-日本の魅力的な文化やプロダクトに注目が集まる「クールジャパン機構」の話題ですが、今回は日常使いできる優れた国産デザインのアイテムをご紹介します。フタに保冷剤が一体となった三好製作所の「GEL-COOL ランチボックス」なら、暑い日でも美味しいお弁当を手軽に楽しめますよ。機能性と爽やかなベリーブルーの見た目を両立した、毎日のランチタイムが楽しみになるおすすめの保存容器です。
+宮崎県の日向灘は豊かな黒潮の恵みを受ける好漁場として知られていますが、その美しい海で育った新鮮な鮮魚を存分に楽しめるのがこちらの定期便です。職人の手で活〆されたヒラメや真鯛、カンパチなどの極上のお刺身が全6回にわたって自宅に届き、贅沢な海の幸を季節ごとに堪能できます。着日指定も可能なので、ご家族でのお祝い事や特別な日の食卓を彩るお取り寄せグルメとしてもぴったりです。
 
-価格: ¥1,688
+価格: ¥95,000
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tsrcm.c5l90933.g00tsrcm.c5l91fb1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fs4gshop%2F20250423143107_95%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fs4gshop%2Fi%2F10042068%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00t69qm.c5l90130.g00t69qm.c5l918d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff452033-nobeoka%2F303%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff452033-nobeoka%2Fi%2F10000207%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 6. 杉山遥希
+## 6. 乃木坂
 
-[【ピンク箔版 51/75】BBM ベースボールカード 293 杉山遙希(ROOKIE) 埼玉西武ライオンズ (レギュラーカード) 2024 1stバージョン](https://hb.afl.rakuten.co.jp/hgc/g00s43wm.c5l9038d.g00s43wm.c5l91b70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealize-store%2F241bbm012405tt739%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealize-store%2Fi%2F10473213%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【10枚セット】是非に及ばず (初回仕様限定盤 CD＋Blu-ray Type-A) (特典なし) [ 乃木坂46 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18656597%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21981828%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【ピンク箔版 51/75】BBM ベースボールカード 293 杉山遙希(ROOKIE) 埼玉西武ライオンズ (レギュラーカード) 2024 1stバージョン](https://thumbnail.image.rakuten.co.jp/@0_mall/realize-store/cabinet/bbm/g/24bbm1st00739.jpg?_ex=128x128)
+![【10枚セット】是非に及ばず (初回仕様限定盤 CD＋Blu-ray Type-A) (特典なし) [ 乃木坂46 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9369/2100015009369_1_2.jpg?_ex=128x128)
 
-今、野球ファンを中心に注目を集めている埼玉西武ライオンズの杉山遥希選手ですが、今回はコレクションアイテムとしても人気の2024年1stバージョン、ピンク箔版のレギュラーカードをご紹介します。
-限定75枚のうちの1枚という特別感があるシリアル入りで、ファンならぜひ手元に置いておきたい注目のルーキーカードです。
-価格は3,280円となっていますので、コレクションを充実させたい方はぜひチェックしてみてください。
+大人気の乃木坂46待望の新作『是非に及ばず (初回仕様限定盤 CD＋Blu-ray Type-A)』が、ファン必見の10枚セットで登場しました！
+メンバーたちの魅力がたっぷり詰まった映像と音楽を、ぜひこの機会にまとめてゲットしてみてはいかがでしょうか。
 
-価格: ¥3,280
+価格: ¥16,798
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00s43wm.c5l9038d.g00s43wm.c5l91b70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealize-store%2F241bbm012405tt739%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealize-store%2Fi%2F10473213%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18656597%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21981828%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 7. バレーボール日本女子代表
+## 7. おそ松さん
 
-[JAPAN NATIONAL VOLLEYBALL TEAM -女子日本代表ver.- ツインウエハース 2026 20個 BOX 食玩 賞味期限 2027/05](https://hb.afl.rakuten.co.jp/hgc/g00t2xqm.c5l90c29.g00t2xqm.c5l918e9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexicoast02%2Fb0gxt79hxm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fexicoast02%2Fi%2F10007661%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[おそ松さんALL NEET THANKS BOX【Blu-ray】 [ 櫻井孝宏 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16915574%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20491262%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![JAPAN NATIONAL VOLLEYBALL TEAM -女子日本代表ver.- ツインウエハース 2026 20個 BOX 食玩 賞味期限 2027/05](https://thumbnail.image.rakuten.co.jp/@0_mall/exicoast02/cabinet/13756927/imgrc0115948956.jpg?_ex=128x128)
+![おそ松さんALL NEET THANKS BOX【Blu-ray】 [ 櫻井孝宏 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6056/4580055356056_1_3.jpg?_ex=128x128)
 
-いま大注目のバレーボール日本女子代表を身近に感じられる、『JAPAN NATIONAL VOLLEYBALL TEAM -女子日本代表ver.- ツインウエハース 2026 20個 BOX』が登場しました！
-ファン必見のコレクションアイテムとして、推し選手を応援するお供にぜひチェックしてみてくださいね。
+大人気アニメ『おそ松さん』の魅力を余すところなく堪能したい方には、豪華特典が詰まった『おそ松さんALL NEET THANKS BOX【Blu-ray】』がおすすめです。ファン必見のボリューム豊かなこのBOXで、6つ子たちのドタバタな日常をぜひご自宅でたっぷりとお楽しみください！
 
-価格: ¥3,580
+価格: ¥54,552
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00t2xqm.c5l90c29.g00t2xqm.c5l918e9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexicoast02%2Fb0gxt79hxm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fexicoast02%2Fi%2F10007661%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16915574%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20491262%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 8. 丸亀
+## 8. 増田貴久
 
-[【楽券_eギフト】丸亀製麺 1,000円](https://hb.afl.rakuten.co.jp/hgc/g00u4q9m.c5l90c54.g00u4q9m.c5l91a82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakkenshop%2Frakken_127-208%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakkenshop%2Fi%2F10000090%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[増田貴久のカバー (通常盤) [ 増田貴久 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18555309%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21892312%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【楽券_eギフト】丸亀製麺 1,000円](https://thumbnail.image.rakuten.co.jp/@0_mall/rakkenshop/cabinet/10345128/11800662/imgrc0093020218.jpg?_ex=128x128)
+![増田貴久のカバー (通常盤) [ 増田貴久 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8477/4582515778477_1_2.jpg?_ex=128x128)
 
-大人気の「丸亀」で使えるお得なデジタルギフト【楽券_eギフト】丸亀製麺 1,000円は、ちょっとしたお礼や自分へのご褒美にもぴったりなアイテムです。スマホ画面を見せるだけで簡単にお支払いができるので、いつもの美味しいうどんをよりスマートに楽しめますよ。
+NEWSの増田貴久さんが歌声を届けてくれる話題のカバーアルバム『増田貴久のカバー (通常盤)』は、彼の魅力がたっぷりと詰まった注目の作品です。3,630円（税込）で手に入るこの一枚で、あの素敵な歌声をじっくりと堪能してみてはいかがでしょうか。
 
-価格: ¥1,000
+価格: ¥3,630
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00u4q9m.c5l90c54.g00u4q9m.c5l91a82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakkenshop%2Frakken_127-208%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakkenshop%2Fi%2F10000090%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18555309%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21892312%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
 ---
 
