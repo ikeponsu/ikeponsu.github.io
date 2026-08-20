@@ -3,6 +3,7 @@
 //
 // 必要な環境変数:
 //   RAKUTEN_APP_ID       - 楽天ウェブサービスの Application ID
+//   RAKUTEN_ACCESS_KEY   - 楽天ウェブサービスの Access Key (2026年の新API移行で必須化)
 //   RAKUTEN_AFFILIATE_ID - 楽天アフィリエイトID
 //   GEMINI_API_KEY        - 紹介コメント生成用 (Gemini API, 省略時はコメントなしで生成)
 
@@ -11,7 +12,9 @@ import path from "node:path";
 
 const RSS_URL = "https://trends.google.co.jp/trending/rss?geo=JP";
 const RAKUTEN_SEARCH_URL =
-  "https://app.rakuten.co.jp/services/api/IchibaItem/Search/20170706";
+  "https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260701";
+// アプリ作成時に "Allowed websites" へ登録したドメインと一致させる必要がある。
+const RAKUTEN_REFERER = "https://ikeponsu.github.io";
 const GEMINI_MODEL = "gemini-3.5-flash-lite";
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 const TARGET_COUNT = 10;
@@ -29,6 +32,7 @@ const NG_WORDS = [
 ];
 
 const RAKUTEN_APP_ID = process.env.RAKUTEN_APP_ID;
+const RAKUTEN_ACCESS_KEY = process.env.RAKUTEN_ACCESS_KEY;
 const RAKUTEN_AFFILIATE_ID = process.env.RAKUTEN_AFFILIATE_ID;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
@@ -40,6 +44,7 @@ function requireEnv(name, value) {
 }
 
 requireEnv("RAKUTEN_APP_ID", RAKUTEN_APP_ID);
+requireEnv("RAKUTEN_ACCESS_KEY", RAKUTEN_ACCESS_KEY);
 requireEnv("RAKUTEN_AFFILIATE_ID", RAKUTEN_AFFILIATE_ID);
 
 // 楽天API側のメンテナンス等、リトライしても無駄なエラーを区別するための例外。
@@ -87,12 +92,15 @@ async function fetchGoogleTrends() {
 async function searchRakutenItem(keyword) {
   const url =
     `${RAKUTEN_SEARCH_URL}?applicationId=${RAKUTEN_APP_ID}` +
+    `&accessKey=${RAKUTEN_ACCESS_KEY}` +
     `&affiliateId=${RAKUTEN_AFFILIATE_ID}` +
     `&keyword=${encodeURIComponent(keyword)}` +
     "&hits=1&sort=standard&minPrice=1000&formatVersion=2";
 
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      headers: { Referer: RAKUTEN_REFERER },
+    });
     const bodyText = await res.text();
     if (!res.ok) {
       console.error(`楽天API検索に失敗しました (HTTP ${res.status}): ${keyword}`);

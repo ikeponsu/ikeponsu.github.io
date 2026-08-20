@@ -100,8 +100,14 @@ Gemini 自身にも不謹慎な話題かどうかを判定させ、該当する�
 | Secret名 | 内容 |
 | --- | --- |
 | `RAKUTEN_APP_ID` | 楽天ウェブサービスの Application ID |
+| `RAKUTEN_ACCESS_KEY` | 楽天ウェブサービスの Access Key（2026年のAPI移行で必須化、新規アプリ登録で発行） |
 | `RAKUTEN_AFFILIATE_ID` | 楽天アフィリエイトID |
 | `GEMINI_API_KEY` | 上記のガジェット記事と共通（省略時はコメントなしで生成） |
+
+楽天ウェブサービスのアプリ作成フォームで `Allowed websites` に `ikeponsu.github.io` を
+登録しており、リクエスト時に `Referer: https://ikeponsu.github.io` ヘッダーを送っている
+（`scripts/fetch-trending-products.mjs` 内の `RAKUTEN_REFERER`）。この値を変更する場合は
+両方を揃えて更新すること。
 
 **注意:** APIキーは絶対にコード・チャット・Issue等に平文で貼らず、GitHub Secretsにのみ
 保存してください。誤って外部に公開してしまった場合は、発行元のコンソールで速やかに
