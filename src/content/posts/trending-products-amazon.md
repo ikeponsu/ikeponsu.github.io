@@ -1,70 +1,84 @@
 ---
 title: "今話題のトレンド × Amazonのおすすめ商品"
-date: "2026-08-21T06:31:30.150Z"
+date: "2026-08-21T08:29:25.979Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連するAmazonのおすすめ商品を紹介します。"
 tags: ["トレンド", "Amazon"]
 ---
-## 1. 日産 自動車
+## 1. ウォン 円
 
-[日産絶版車図鑑 60's～80's (M.B.MOOK)](https://www.amazon.co.jp/dp/4866402016?tag=ikeponsu0b-22)
+[ソウォン/願い(字幕版)](https://www.amazon.co.jp/dp/B0CMHGN8J6?tag=ikeponsu0b-22)
 
-![日産絶版車図鑑 60's～80's (M.B.MOOK)](https://m.media-amazon.com/images/I/61I7e0S+a7L._SL160_.jpg)
+![ソウォン/願い(字幕版)](https://m.media-amazon.com/images/I/41xqAyZACtL._SL160_.jpg)
 
-日産自動車の歴史や名車たちに改めて注目が集まる今、当時の魅力を深く知りたい方におすすめなのが『日産絶版車図鑑 60's～80's』です。
-1,200円という手頃な価格で、60年代から80年代にかけて日本のモータースポーツや街を彩った数々の名車の足跡をじっくりと振り返ることができます。
-当時の空気感を感じられる一冊を、ぜひ手にとってみてはいかがでしょうか。
+最近ニュースで話題の「ウォン・円」のレートが気になると、韓国への旅行や文化への関心も高まりますよね。そんな韓国の文化や心に深く触れられる名作映画『ソウォン／願い（字幕版）』が、今ならAmazonプライムビデオで追加料金なしの￥0で視聴できます。おうち時間で心温まる感動のストーリーに浸ってみてはいかがでしょうか。
 
-価格: ￥1,200
+価格: ￥0
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4866402016?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0CMHGN8J6?tag=ikeponsu0b-22)
 
-## 2. タイラー グラス ノー
+## 2. 巨人 対 広島
 
-[タイラー・グラスノー ロサンゼルス Name & Number トレーナー](https://www.amazon.co.jp/dp/B0F3CVBQG4?tag=ikeponsu0b-22)
+[フランケンシュタイン対地底怪獣(バラゴン)](https://www.amazon.co.jp/dp/B0G7Y9HJGX?tag=ikeponsu0b-22)
 
-![タイラー・グラスノー ロサンゼルス Name & Number トレーナー](https://m.media-amazon.com/images/I/41EGt9DG0TL._SL160_.jpg)
+![フランケンシュタイン対地底怪獣(バラゴン)](https://m.media-amazon.com/images/I/51pftcQhTaL._SL160_.jpg)
 
-ロサンゼルスで抜群の存在感を放つタイラー・グラスノー選手の活躍に、今とても熱い視線が集まっていますね。
-そんな彼のファンならぜひ手に入れたいのが、応援スタイルにぴったりの「Name & Number トレーナー」です。
-デイリーコーデに取り入れて、ますます盛り上がるシーズンを楽しく応援しましょう！
+熱戦が続く「巨人対広島」の試合展開にハラハラしている方も多いと思いますが、時にはレトロな怪獣映画で気分転換をしてみてはいかがでしょうか。名作特撮映画『フランケンシュタイン対地底怪獣(バラゴン)』なら、今ならAmazonプライムビデオで追加料金なしの￥0で楽しめます。おうち時間に迫力ある怪獣バトルを満喫してみてください。
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0F3CVBQG4?tag=ikeponsu0b-22)
+価格: ￥0
 
-## 3. オランダグランプリ
+[Amazonで見る](https://www.amazon.co.jp/dp/B0G7Y9HJGX?tag=ikeponsu0b-22)
 
-[ぼくとアールと彼女のさよなら](https://www.amazon.co.jp/dp/B0CW5XXTWP?tag=ikeponsu0b-22)
+## 3. ロッテ 対 日本ハム
 
-![ぼくとアールと彼女のさよなら](https://m.media-amazon.com/images/I/41x7aAjB6rL._SL160_.jpg)
+[2005ＢＢＭ ベースボールカード セカンドバージョン レギュラーカード(序盤戦ハイライトカード) No.724 4.18 日本ハム 対 ロッテ](https://www.amazon.co.jp/dp/B0DS9J6FVJ?tag=ikeponsu0b-22)
 
-オランダグランプリの熱気冷めやらぬ週末は、熱いレースの余韻に浸りながら感動的なヒューマンドラマに触れてみるのはいかがでしょうか。映画化もされた名作小説『ぼくとアールと彼女のさよなら』（税込500円）は、心揺さぶる青春の物語をじっくりと楽しみたい時にぴったりな一冊です。
+![2005ＢＢＭ ベースボールカード セカンドバージョン レギュラーカード(序盤戦ハイライトカード) No.724 4.18 日本ハム 対 ロッテ](https://m.media-amazon.com/images/I/51-g0rbYaCL._SL160_.jpg)
 
-価格: ￥500
+熱戦が続く「ロッテ 対 日本ハム」のカードですが、過去の歴史的な対戦を振り返ってみるのも野球ファンの醍醐味ですよね。
+当時を懐かしむコレクションとして、2005年BBMセカンドバージョンのレギュラーカード（4.18 日本ハム対ロッテ）を手元に置いてみてはいかがでしょうか。
+価格も220円とお手頃ですので、ファンの皆様のコレクションにぜひ加えてみてください。
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0CW5XXTWP?tag=ikeponsu0b-22)
+価格: ￥220
 
-## 4. 風、薫る
+[Amazonで見る](https://www.amazon.co.jp/dp/B0DS9J6FVJ?tag=ikeponsu0b-22)
 
-[連続テレビ小説　風、薫る　Ｐａｒｔ２ ＮＨＫドラマ・ガイド](https://www.amazon.co.jp/dp/B0HB28YHHK?tag=ikeponsu0b-22)
+## 4. dena 対 阪神
 
-![連続テレビ小説　風、薫る　Ｐａｒｔ２ ＮＨＫドラマ・ガイド](https://m.media-amazon.com/images/I/41SNWKdI35L._SL160_.jpg)
+[【BDC2-T02 中野拓夢 阪神タイガース (R レア) 】プロ野球デフォルメカードコレクション2025SPRING かきの種 ※カードのみ](https://www.amazon.co.jp/dp/B0F2ZQG1PQ?tag=ikeponsu0b-22)
 
-新緑の季節を迎え、「風、薫る」心地よい気候になってきましたね。この時期にぴったりなドラマの世界をより深く楽しめる『連続テレビ小説 風、薫る Ｐａｒｔ２ ＮＨＫドラマ・ガイド』（￥1,485）を手に、物語の舞台裏に浸ってみませんか？番組のファン必見の充実した内容が、日々のティータイムをさらに彩ってくれそうです。
+![【BDC2-T02 中野拓夢 阪神タイガース (R レア) 】プロ野球デフォルメカードコレクション2025SPRING かきの種 ※カードのみ](https://m.media-amazon.com/images/I/617QG1l+VHL._SL160_.jpg)
 
-価格: ￥1,485
+熱戦が続くDeNA対阪神の試合は、どちらのチームのファンも目が離せない展開ですね！
+そんなペナントレースの興奮を自宅でも楽しめる、「プロ野球デフォルメカードコレクション2025SPRING」の中野拓夢選手のレアカード（かきの種付属・カードのみ、価格：800円）が登場しています。
+おうち観戦のお供やコレクションの一つとして、ぜひチェックしてみてはいかがでしょうか。
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0HB28YHHK?tag=ikeponsu0b-22)
+価格: ￥800
 
-## 5. 政策金利
+[Amazonで見る](https://www.amazon.co.jp/dp/B0F2ZQG1PQ?tag=ikeponsu0b-22)
 
-[ゼロ金利との闘い: 日銀の金融政策を総括する](https://www.amazon.co.jp/dp/4532351839?tag=ikeponsu0b-22)
+## 5. 御母衣ダム
 
-![ゼロ金利との闘い: 日銀の金融政策を総括する](https://m.media-amazon.com/images/I/41XG7xKHBpL._SL160_.jpg)
+[御母衣ダムと荘白川地方の50年](https://www.amazon.co.jp/dp/4944168322?tag=ikeponsu0b-22)
 
-近年の「政策金利」の引き上げや金融政策の変更に、今後の経済や家計への影響が気になっている方も多いのではないでしょうか。『ゼロ金利との闘い: 日銀の金融政策を総括する』（税込1,870円）は、これまでの日銀の歩みを振り返りながら金融政策の背景を深く知るための参考として、手に取りやすい一冊です。
+![御母衣ダムと荘白川地方の50年](https://m.media-amazon.com/images/I/61nFiHG2oSL._SL160_.jpg)
 
-価格: ￥1,870
+話題の「御母衣ダム」の歴史や地域の歩みについてもっと詳しく知りたい方には、書籍『御母衣ダムと荘白川地方の50年』（￥1,320）がおすすめです。当時の貴重な記録や地域の人々の暮らしが丁寧に綴られており、ダムの背景にあるドラマを深く学ぶことができます。
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4532351839?tag=ikeponsu0b-22)
+価格: ￥1,320
+
+[Amazonで見る](https://www.amazon.co.jp/dp/4944168322?tag=ikeponsu0b-22)
+
+## 6. 全国中学校サッカー大会
+
+[副キャプテン司: 全国中学校サッカー大会編](https://www.amazon.co.jp/dp/B0CKRCWND9?tag=ikeponsu0b-22)
+
+![副キャプテン司: 全国中学校サッカー大会編](https://m.media-amazon.com/images/I/3193Zggd-AL._SL160_.jpg)
+
+熱戦が繰り広げられる「全国中学校サッカー大会」に注目が集まる中、大会をより深く楽しめる関連書籍として『副キャプテン司: 全国中学校サッカー大会編』（250円）をご紹介します。チームを支える副キャプテンの視点から描かれる熱いドラマは、サッカーファンなら共感すること間違いなしの一冊です。
+
+価格: ￥250
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B0CKRCWND9?tag=ikeponsu0b-22)
 
 ---
 
