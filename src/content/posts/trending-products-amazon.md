@@ -1,122 +1,81 @@
 ---
 title: "今話題のトレンド × Amazonのおすすめ商品"
-date: "2026-08-21T14:26:06.443Z"
+date: "2026-08-21T16:22:46.014Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連するAmazonのおすすめ商品を紹介します。"
 tags: ["トレンド", "Amazon"]
 ---
-## 1. 楽天イーグルス
+## 1. ihi
 
-[タカラトミー(TAKARA TOMY) トミカ プロ野球トミカ2025 東北楽天ゴールデンイーグルス マスコットカー ミニカー おもちゃ 3歳以上](https://www.amazon.co.jp/dp/B0DZXD78YM?tag=ikeponsu0b-22)
+[[山善] IHコンロ IHクッキングヒーター 卓上 小型 一人暮らし 二人暮らし 1400W 高火力 火力調整6段階 保温 IH調理器 マグネットプラグ仕様 ブラック YEN-S140(B)](https://www.amazon.co.jp/dp/B08G17DYSG?tag=ikeponsu0b-22)
 
-![タカラトミー(TAKARA TOMY) トミカ プロ野球トミカ2025 東北楽天ゴールデンイーグルス マスコットカー ミニカー おもちゃ 3歳以上](https://m.media-amazon.com/images/I/41QcxP7OqsL._SL160_.jpg)
+![[山善] IHコンロ IHクッキングヒーター 卓上 小型 一人暮らし 二人暮らし 1400W 高火力 火力調整6段階 保温 IH調理器 マグネットプラグ仕様 ブラック YEN-S140(B)](https://m.media-amazon.com/images/I/41-1YCctOeS._SL160_.jpg)
 
-今シーズンの活躍が期待される楽天イーグルスファン必見のアイテムとして、チームのマスコットカーをモチーフにした可愛らしいトミカが登場しました。手頃な価格でお子様のおもちゃとしてはもちろん、デスク周りのちょっとしたコレクションや観戦のお供にもぴったりな一品です。
+IH関連の話題で注目を集める「IHI」ですが、自宅のキッチンを手軽にアップデートなら、便利な卓上IHコンロもチェックしておきたいアイテムです。
+山善の「YEN-S140(B)」は、1400Wの高火力と6段階の火力調整機能を備えながら、約5,980円というお手頃価格で一人暮らしや二人暮らしの自炊生活をしっかりとサポートしてくれます。
 
-価格: ￥209
+価格: ￥5,980
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0DZXD78YM?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B08G17DYSG?tag=ikeponsu0b-22)
 
-## 2. 小手伸也
+## 2. マイ・フィクション
 
-[劇場版『TOKYO MER～走る緊急救命室～南海ミッション』](https://www.amazon.co.jp/dp/B0GQSWBB6V?tag=ikeponsu0b-22)
+[オリジナル・サウンドトラック「マイ・フィクション」](https://www.amazon.co.jp/dp/B0H73TM7DC?tag=ikeponsu0b-22)
 
-![劇場版『TOKYO MER～走る緊急救命室～南海ミッション』](https://m.media-amazon.com/images/I/51YLUJiBcCL._SL160_.jpg)
+![オリジナル・サウンドトラック「マイ・フィクション」](https://m.media-amazon.com/images/I/51u3IX72CKL._SL160_.jpg)
 
-劇場版『TOKYO MER～走る緊急救命室～南海ミッション』には、話題の俳優である小手伸也さんも出演しており、緊迫感あふれる医療現場での熱演が作品を大いに盛り上げています。劇場版ならではのスケールで描かれるドラマの行方を、ぜひチェックしてみてください。
+今話題の「マイ・フィクション」の世界観をより深く楽しみたい方には、オリジナル・サウンドトラックがおすすめです。作品の雰囲気を彩る印象的な楽曲の数々を、手元でじっくりと堪能することができます。価格は2,970円（税込）です。
 
-価格: ￥0
+価格: ￥2,970
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0GQSWBB6V?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H73TM7DC?tag=ikeponsu0b-22)
 
-## 3. 中村剛也
+## 3. ブラックラグーン
 
-[中村剛也: 埼玉西武ライオンズTAKE THE DREAM.舞い上がれ、日本一のホ-ムラン。 (スポーツアルバム No. 32)](https://www.amazon.co.jp/dp/4583618603?tag=ikeponsu0b-22)
+[ブラック・ラグーン（１４） (サンデーGXコミックス)](https://www.amazon.co.jp/dp/B0HCBH425R?tag=ikeponsu0b-22)
 
-![中村剛也: 埼玉西武ライオンズTAKE THE DREAM.舞い上がれ、日本一のホ-ムラン。 (スポーツアルバム No. 32)](https://m.media-amazon.com/images/I/51Dhke6i9rL._SL160_.jpg)
+![ブラック・ラグーン（１４） (サンデーGXコミックス)](https://m.media-amazon.com/images/I/51CQMFvtN4L._SL160_.jpg)
 
-埼玉西武ライオンズのレジェンド、中村剛也選手の一打に魅了されたファン必見の一冊です。『埼玉西武ライオンズTAKE THE DREAM.舞い上がれ、日本一のホームラン。』では、その圧倒的なアーチの軌跡や名場面をたっぷりと振り返ることができます。価格も手頃ですので、これまでの偉大な足跡を手元に残したい方はぜひチェックしてみてください。
+大人気アクション漫画『ブラック・ラグーン』のファン必見、待望の最新刊となる第14巻が発売中です！前巻からのストーリーの続きや緊迫感あふれる展開を、ぜひ手元じっくりと楽しんでみませんか。
 
-価格: ￥1,150
+価格: ￥759
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4583618603?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0HCBH425R?tag=ikeponsu0b-22)
 
-## 4. newno吉祥寺
+## 4. 不二家 ケーキ半額
 
-[ウッディジョー 1/75 鹿苑寺 金閣寺 ゴールド仕様](https://www.amazon.co.jp/dp/B086VMXV7Y?tag=ikeponsu0b-22)
+[不二家 公式 69%糖質オフ チョコ生ケーキ 5号 14.5cm 誕生日 お祝い 記念日 冷凍 糖質制限 チョコレート ハイカカオ バースデー チョコ 低糖質](https://www.amazon.co.jp/dp/B0D78MTRKT?tag=ikeponsu0b-22)
 
-![ウッディジョー 1/75 鹿苑寺 金閣寺 ゴールド仕様](https://m.media-amazon.com/images/I/41W3EkWHERL._SL160_.jpg)
+![不二家 公式 69%糖質オフ チョコ生ケーキ 5号 14.5cm 誕生日 お祝い 記念日 冷凍 糖質制限 チョコレート ハイカカオ バースデー チョコ 低糖質](https://m.media-amazon.com/images/I/51z7RFtySPL._SL160_.jpg)
 
-今話題の「newno吉祥寺」でのショッピングの合間に、おうち時間を充実させる本格的なホビーを楽しんでみてはいかがでしょうか。
-「ウッディジョー 1/75 鹿苑寺 金閣寺 ゴールド仕様（46,860円）」は、細部までこだわり抜かれた美しい輝きを自宅でじっくりと組み立てながら堪能できるおすすめの逸品です。
+「不二家 ケーキ半額」の話題で甘いものが食べたくなったら、おうち時間をヘルシーに楽しめる不二家の「69%糖質オフ チョコ生ケーキ」がおすすめです。糖質を抑えつつも本格的なチョコレートの味わいが楽しめるので、罪悪感なく特別な日のお祝いやデザートを満喫できますよ。価格は3,500円（税込）です。
 
-価格: ￥46,860
+価格: ￥3,500
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B086VMXV7Y?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0D78MTRKT?tag=ikeponsu0b-22)
 
-## 5. ジブリ
+## 5. モータルシェル2
 
-[ジブリパークができるまで。 [第1期]　Vol.1　～みんなが主役になれる場所～](https://www.amazon.co.jp/dp/B0CGPGXKY3?tag=ikeponsu0b-22)
+[Mortal Shell II - PS5](https://www.amazon.co.jp/dp/B0H85HCPMG?tag=ikeponsu0b-22)
 
-![ジブリパークができるまで。 [第1期]　Vol.1　～みんなが主役になれる場所～](https://m.media-amazon.com/images/I/61DCwvc-g6L._SL160_.jpg)
+![Mortal Shell II - PS5](https://m.media-amazon.com/images/I/4110k5pcypL._SL160_.jpg)
 
-世界中から注目を集める「ジブリ」の魅力をもっと深く味わいたい方には、ドキュメンタリーDVD『ジブリパークができるまで。 [第1期] Vol.1 ～みんなが主役になれる場所～』（￥2,000）がおすすめです。あの夢の世界がどのように形作られていったのか、制作の裏側をたっぷりと見ることができますよ。ファンの心をくすぐる貴重な記録を、ぜひご自宅でも楽しんでみてください。
+現在話題を集めている「モータルシェル2」を存分に楽しむなら、PS5版『Mortal Shell II』がおすすめです。高精細なグラフィックと圧倒的な没入感で、ダークな世界観を存分に体験することができます。価格は5,300円となっていますので、気になっている方はぜひチェックしてみてください。
 
-価格: ￥2,000
+価格: ￥5,300
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0CGPGXKY3?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H85HCPMG?tag=ikeponsu0b-22)
 
-## 6. povo
+## 6. ライオンズ
 
-[【リチャージWiFi】バッテリーレス ケーブル 一体型 100GB 365日 ギガ付き ポケット WiFi 月額 0円【M4-100GB/365日】](https://www.amazon.co.jp/dp/B0DXVNKZ8T?tag=ikeponsu0b-22)
+[井上酒造 20°飫肥杉ライオンズボトル [ 焼酎 20度 宮崎県 720ml ]](https://www.amazon.co.jp/dp/B07HQDMYJH?tag=ikeponsu0b-22)
 
-![【リチャージWiFi】バッテリーレス ケーブル 一体型 100GB 365日 ギガ付き ポケット WiFi 月額 0円【M4-100GB/365日】](https://m.media-amazon.com/images/I/41IOwNNTCyL._SL160_.jpg)
+![井上酒造 20°飫肥杉ライオンズボトル [ 焼酎 20度 宮崎県 720ml ]](https://m.media-amazon.com/images/I/41CNmO4QwwL._SL160_.jpg)
 
-povoのように基本料金0円で使える回線も便利ですが、より安定した通信環境をいつでも持ち歩きたいなら「リチャージWiFi」のギガ付きポケットWi-Fiもおすすめです。
-チャージ式で月額料金がかからないため、使いたい時だけムダなくデータ通信を利用したい方にぴったりなアイテムです。
+熱い応援を送る「ライオンズ」ファンの皆様必見のアイテムといえば、宮崎県・井上酒造の「20°飫肥杉ライオンズボトル」です。チームカラーを思わせるデザインが目を引くこの本格芋焼酎は、価格も1,760円と手頃で、試合観戦のお供やコレクションとしても楽しめます。
 
-価格: ￥7,980
+価格: ￥1,760
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0DXVNKZ8T?tag=ikeponsu0b-22)
-
-## 7. 今日の月
-
-[今日も月が綺麗 (ディアプラス・コミックス)](https://www.amazon.co.jp/dp/B00NOTHN2W?tag=ikeponsu0b-22)
-
-![今日も月が綺麗 (ディアプラス・コミックス)](https://m.media-amazon.com/images/I/513RdCPmicL._SL160_.jpg)
-
-今夜の空に浮かぶ「今日の月」を眺めた後は、心温まるストーリーに浸ってみませんか。
-話題のBLコミック『今日も月が綺麗』（ディアプラス・コミックス／￥660）は、月を眺めるような穏やかな時間を楽しめるおすすめの一冊です。
-夜長の読書のお供に、ぜひチェックしてみてくださいね。
-
-価格: ￥660
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B00NOTHN2W?tag=ikeponsu0b-22)
-
-## 8. dカード
-
-[prendre グリーティングカード ポップアップカード 3Dカード ドラム 音楽 お祝い 誕生日 プレゼント メッセージカード バンド PR-DORACARD](https://www.amazon.co.jp/dp/B0DG89GXZ3?tag=ikeponsu0b-22)
-
-![prendre グリーティングカード ポップアップカード 3Dカード ドラム 音楽 お祝い 誕生日 プレゼント メッセージカード バンド PR-DORACARD](https://m.media-amazon.com/images/I/317nPxl14yL._SL160_.jpg)
-
-dカードでのポイント活用や日常のお買い物がもっと楽しくなるこの季節、大切な方への贈り物には心を込めたメッセージを添えてみませんか？「prendre グリーティングカード ポップアップカード 3Dカード ドラム 音楽 お祝い 誕生日 プレゼント メッセージカード バンド PR-DORACARD」（￥750）は、開いた瞬間にドラムの立体モチーフが飛び出す遊び心満載のアイテムです。音楽好きの方への誕生日祝いや特別な日のプレゼントに、ぜひチェックしてみてくださいね。
-
-価格: ￥750
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0DG89GXZ3?tag=ikeponsu0b-22)
-
-## 9. ジャルジャル
-
-[2024年のジャルジャル DVD-BOX ジャルジャルののじゃら＆ジャルジャルのはじゃら (2枚組) [DVD]](https://www.amazon.co.jp/dp/B0GX5T1FLG?tag=ikeponsu0b-22)
-
-![2024年のジャルジャル DVD-BOX ジャルジャルののじゃら＆ジャルジャルのはじゃら (2枚組) [DVD]](https://m.media-amazon.com/images/I/61jeR7FKwnL._SL160_.jpg)
-
-独自のコントの世界観で常に話題を集めるお笑いコンビ・ジャルジャルですが、ファン必見の最新DVD-BOX『ジャルジャルののじゃら＆ジャルジャルのはじゃら』が発売中です。
-本作には彼らの魅力が詰まった新作コントがたっぷりと収録されており、価格も6,636円（税込）とお手頃になっています。
-おうち時間を思いっきり笑って過ごしたい方は、ぜひチェックしてみてはいかがでしょうか！
-
-価格: ￥6,636
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0GX5T1FLG?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B07HQDMYJH?tag=ikeponsu0b-22)
 
 ---
 
