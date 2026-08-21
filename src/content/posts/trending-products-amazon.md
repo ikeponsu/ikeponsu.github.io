@@ -1,104 +1,86 @@
 ---
 title: "今話題のトレンド × Amazonのおすすめ商品"
-date: "2026-08-21T10:21:20.986Z"
+date: "2026-08-21T12:29:24.436Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連するAmazonのおすすめ商品を紹介します。"
 tags: ["トレンド", "Amazon"]
 ---
-## 1. アジア大会
+## 1. earthquake
 
-[【Aichi-Nagoya 2026】アジア大会 公式ライセンス フェイスタオル エンブレム 約34×80cm 綿100％ スポーツタオル 応援タオル 観戦グッズ 記念グッズ 公式グッズ OFFICIAL LICENSED PRODUCT](https://www.amazon.co.jp/dp/B0H8WYPS5W?tag=ikeponsu0b-22)
+[アイリスオーヤマ 家具転倒防止伸縮棒Lサイズ 防災グッズ KTB-60R ホワイト](https://www.amazon.co.jp/dp/B0DF77MTXB?tag=ikeponsu0b-22)
 
-![【Aichi-Nagoya 2026】アジア大会 公式ライセンス フェイスタオル エンブレム 約34×80cm 綿100％ スポーツタオル 応援タオル 観戦グッズ 記念グッズ 公式グッズ OFFICIAL LICENSED PRODUCT](https://m.media-amazon.com/images/I/41w63vWQLCL._SL160_.jpg)
+![アイリスオーヤマ 家具転倒防止伸縮棒Lサイズ 防災グッズ KTB-60R ホワイト](https://m.media-amazon.com/images/I/21Sd-vBEtNL._SL160_.jpg)
 
-まもなく開催に向けて盛り上がりを見せるアジア大会ですが、現地の熱気を感じながら応援するなら公式グッズの準備が欠かせませんよね。そこでおすすめなのが、記念にもぴったりな「【Aichi-Nagoya 2026】アジア大会 公式ライセンス フェイスタオル（税込1,320円）」です。大会エンブレムがデザインされた綿100％のスポーツタオルで、自宅での観戦や現地での応援グッズとしてぜひチェックしてみてください。
+最近各地でearthquake（地震）への備えへの意識が高まっていますが、ご自宅の家具の固定は万全でしょうか。アイリスオーヤマの「家具転倒防止伸縮棒Lサイズ KTB-60R ホワイト」（￥1,998）は、天井と家具をしっかり固定し、いざという時のリスクを軽減してくれるおすすめの防災グッズです。
 
-価格: ￥1,320
+価格: ￥1,998
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0H8WYPS5W?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0DF77MTXB?tag=ikeponsu0b-22)
 
-## 2. 日刊スポーツ
+## 2. ピティナ特級
 
-[乃木坂46新聞2026特集号](https://www.amazon.co.jp/dp/B0HFHM3KXB?tag=ikeponsu0b-22)
+[第49回ピティナ・ピアノコンペティション特級2025 - 入賞者記念コンサート - (ライブ)](https://www.amazon.co.jp/dp/B0H2NBV27C?tag=ikeponsu0b-22)
 
-![乃木坂46新聞2026特集号](https://m.media-amazon.com/images/I/5183bl2bgpL._SL160_.jpg)
+![第49回ピティナ・ピアノコンペティション特級2025 - 入賞者記念コンサート - (ライブ)](https://m.media-amazon.com/images/I/51FTM8BGKcL._SL160_.jpg)
 
-日刊スポーツが発行する「乃木坂46新聞2026特集号」は、グループの最新の魅力やメンバーのインタビューがたっぷり詰まったファン必見の一冊です。880円（税込）という手頃な価格で、読み応えのある特集を手軽にお楽しみいただけます。
+今年で第49回目を迎える伝統ある「ピティナ・ピアノコンペティション特級」の熱気をご自宅でも楽しめるライブ音源が登場しました。若き才能たちが繰り広げる白熱の演奏会の模様を、記念コンサートのライブ配信（または音源）として税込1,500円でお楽しみいただけます。これからの音楽界を担うピアニストたちの瑞々しい表現力に、ぜひ耳を傾けてみませんか。
 
-価格: ￥880
+価格: ￥1,500
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0HFHM3KXB?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H2NBV27C?tag=ikeponsu0b-22)
 
-## 3. mer
+## 3. 地震速報 今
 
-[劇場版『TOKYO MER～走る緊急救命室～南海ミッション』](https://www.amazon.co.jp/dp/B0GQSZRJYN?tag=ikeponsu0b-22)
+[エフ・アール・シー NEXTEC 防災ラジオ NX-W109RDBKW 緊急地震速報・緊急津波速報・緊急警報放送・防災同報無線(アナログのみ)対応｜選べる3色展開 (ブラック)](https://www.amazon.co.jp/dp/B07RMT22KD?tag=ikeponsu0b-22)
 
-![劇場版『TOKYO MER～走る緊急救命室～南海ミッション』](https://m.media-amazon.com/images/I/51YLUJiBcCL._SL160_.jpg)
+![エフ・アール・シー NEXTEC 防災ラジオ NX-W109RDBKW 緊急地震速報・緊急津波速報・緊急警報放送・防災同報無線(アナログのみ)対応｜選べる3色展開 (ブラック)](https://m.media-amazon.com/images/I/41NUnLsU4sL._SL160_.jpg)
 
-今話題のキーワード「mer」に関連して、大ヒット医療ドラマの映画化第2弾となる劇場版『TOKYO MER～走る緊急救命室～南海ミッション』をご紹介します。臨場感あふれる救命医療のドラマを、ぜひこの機会にチェックしてみてはいかがでしょうか。
+地震速報や緊急情報をリアルタイムでキャッチしたい今、万が一への備えとして手元に置いておきたいのが防災ラジオです。エフ・アール・シーの「NEXTEC NX-W109RDBKW」は、緊急地震速報や緊急津波速報に対応しており、￥4,980という手頃な価格で安心感を得られるおすすめのアイテムです。日常の備えを見直すきっかけに、ぜひチェックしてみてはいかがでしょうか。
 
-価格: ￥0
+価格: ￥4,980
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0GQSZRJYN?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B07RMT22KD?tag=ikeponsu0b-22)
 
-## 4. オリンピック
+## 4. 坂本誠志郎
 
-[オリンピックと商業主義 (集英社新書)](https://www.amazon.co.jp/dp/4087206459?tag=ikeponsu0b-22)
+[阪神タイガース×ハードコアチョコレート'26（#12 坂本誠志郎） (JP, アルファベット, XL, ブラック)](https://www.amazon.co.jp/dp/B0H3FB3MZ2?tag=ikeponsu0b-22)
 
-![オリンピックと商業主義 (集英社新書)](https://m.media-amazon.com/images/I/31rHM3KO3AL._SL160_.jpg)
+![阪神タイガース×ハードコアチョコレート'26（#12 坂本誠志郎） (JP, アルファベット, XL, ブラック)](https://m.media-amazon.com/images/I/415G5ZLXepL._SL160_.jpg)
 
-世界的なスポーツの祭典であるオリンピックは、感動的な名場面を生み出す一方で、巨額のお金が動くビジネスの一面も持っています。新書『オリンピックと商業主義』では、私たちが普段楽しむ大会の裏側にある経済的な仕組みや歴史的背景を分かりやすく解説しています。価格も902円（税込）とお手頃なので、大会を違った視点からも楽しみたい方の読書にいかがでしょうか。
+今季も攻守にわたる活躍でチームを引っ張る坂本誠志郎選手のファンなら見逃せないのが、「阪神タイガース×ハードコアチョコレート'26」のコラボTシャツです！
+ハードコアチョコレートならではのハードでインパクトのあるデザインは、球場観戦はもちろん普段のカジュアルコーデのアクセントとしてもぴったりな一着となっています。
+背番号「12」を背負う坂本選手への熱い声援を、ぜひこの特別なブラックボディのTシャツを着てさらに盛り上げていきましょう！
 
-価格: ￥902
+価格: ￥5,500
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4087206459?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H3FB3MZ2?tag=ikeponsu0b-22)
 
-## 5. 木村沙織
+## 5. yahoo 地震
 
-[SAORI KIMURA 232 days in Turke: 木村沙織フォトブック (日本文化出版ムック)](https://www.amazon.co.jp/dp/4890842152?tag=ikeponsu0b-22)
+[Ｌｅ ｐｕｍｏ【防災士監修】耐震マット 耐震ジェル 透明 滑り止め 転倒防止 ロング 震度7対応 地震対策 耐震ベルト 耐久 地震 家具転倒防止 防災グッズ (ロング型)](https://www.amazon.co.jp/dp/B0DKNB9ZQV?tag=ikeponsu0b-22)
 
-![SAORI KIMURA 232 days in Turke: 木村沙織フォトブック (日本文化出版ムック)](https://m.media-amazon.com/images/I/41ZSvAo1fzL._SL160_.jpg)
+![Ｌｅ ｐｕｍｏ【防災士監修】耐震マット 耐震ジェル 透明 滑り止め 転倒防止 ロング 震度7対応 地震対策 耐震ベルト 耐久 地震 家具転倒防止 防災グッズ (ロング型)](https://m.media-amazon.com/images/I/41O3BUwE5YL._SL160_.jpg)
 
-元バレーボール日本代表の木村沙織さんのファンなら見逃せないのが、トルコでの日々を収めたフォトブック『SAORI KIMURA 232 days in Turkey』です。現地での貴重なオフショットや等身大の魅力がたっぷり詰まった一冊が、現在300円という手頃な価格で手に入ります。アスリートとしての姿とはひと味違う、彼女の素顔をぜひこの機会にチェックしてみてください。
+Yahoo!の地震速報を見て日頃からの備えを見直したくなる方も多いと思いますが、そんな時におすすめなのがこちらの防災士監修の耐震マットです。
+震度7の揺れにも対応し、大切な家具や家電の転倒をしっかり防止できるロング型の耐震ジェルです（価格：税込1,499円）。
+手軽にできる地震対策として、お部屋の安全確保にぜひ取り入れてみてはいかがでしょうか。
 
-価格: ￥300
+価格: ￥1,499
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4890842152?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0DKNB9ZQV?tag=ikeponsu0b-22)
 
-## 6. 香港
+## 6. 地震 いま
 
-[香港食べもの史-伝説のおかずから現代の監獄飯まで (単行本)](https://www.amazon.co.jp/dp/412006042X?tag=ikeponsu0b-22)
+[首都直下地震にいますぐ備える本](https://www.amazon.co.jp/dp/430927322X?tag=ikeponsu0b-22)
 
-![香港食べもの史-伝説のおかずから現代の監獄飯まで (単行本)](https://m.media-amazon.com/images/I/41wabQCiWcL._SL160_.jpg)
+![首都直下地震にいますぐ備える本](https://m.media-amazon.com/images/I/510Y9NrR7DL._SL160_.jpg)
 
-今、改めて注目を集めている香港の文化や歴史を深く知りたい方には、『香港食べもの史-伝説のおかずから現代の監獄飯まで』（税込2,970円）という書籍がおすすめです。本書では、定番のローカルフードからディープな食事情まで、興味深いエピソードを通じて香港の知られざる歴史を楽しく学ぶことができます。
+「地震 いま」と検索して不安を感じている方も多いと思いますが、日頃からの備えが何より大切です。
+『首都直下地震にいますぐ備える本』（￥400）は、いざという時に役立つ具体的な対策を分かりやすくまとめた一冊です。
+手頃な価格で今すぐ始められる防災の第一歩として、ぜひチェックしてみてください。
 
-価格: ￥2,970
+価格: ￥400
 
-[Amazonで見る](https://www.amazon.co.jp/dp/412006042X?tag=ikeponsu0b-22)
-
-## 7. 鈴木宗男
-
-[最後の停戦論　ウクライナとロシアを躍らせた黒幕の正体](https://www.amazon.co.jp/dp/B0CD2L4WLN?tag=ikeponsu0b-22)
-
-![最後の停戦論　ウクライナとロシアを躍らせた黒幕の正体](https://m.media-amazon.com/images/I/51c0e-h2c+L._SL160_.jpg)
-
-鈴木宗男氏の動きや独自の発言が度々ニュースでも注目を集める中、ウクライナ情勢の裏側に迫る一冊として『最後の停戦論 ウクライナとロシアを躍らせた黒幕の正体』（税込1,725円）が話題になっています。複雑な国際情勢や外交の舞台裏に関心がある方は、ぜひチェックしてみてはいかがでしょうか。
-
-価格: ￥1,725
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0CD2L4WLN?tag=ikeponsu0b-22)
-
-## 8. 荒川静香
-
-[荒川静香 Moment ~Beautiful skating~ [DVD]](https://www.amazon.co.jp/dp/B000BRBPFG?tag=ikeponsu0b-22)
-
-![荒川静香 Moment ~Beautiful skating~ [DVD]](https://m.media-amazon.com/images/I/41ht1yFSfuL._SL160_.jpg)
-
-トリノオリンピック金メダリストであり、現在も美しいスケーティングで魅了し続ける荒川静香さんの華麗な演技をご自宅でも楽しめるのが、DVD『荒川静香 Moment ~Beautiful skating~』です。氷上の芸術とも言える数々の名演技や美しいモーメントがたっぷり詰まっており、ファン必見の作品がお手頃な価格（￥1,280）で手に入ります。テレビの前で、あの感動的なパフォーマンスをゆっくりと堪能してみてはいかがでしょうか。
-
-価格: ￥1,280
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B000BRBPFG?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/430927322X?tag=ikeponsu0b-22)
 
 ---
 
