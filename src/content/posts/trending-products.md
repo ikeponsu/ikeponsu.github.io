@@ -1,58 +1,82 @@
 ---
 title: "今話題のトレンド × おすすめ商品"
-date: "2026-08-22T00:57:10.317Z"
+date: "2026-08-22T02:50:01.817Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連する楽天のおすすめ商品を紹介します。"
 tags: ["トレンド", "楽天"]
 ---
-## 1. 冷凍ブルーベリー
+## 1. 北海道マラソン
 
-[【ふるさと納税】冷凍ブルーベリー（2kg）](https://hb.afl.rakuten.co.jp/hgc/g00tgvem.c5l90f49.g00tgvem.c5l9127a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff024244-higashidoori%2F10000010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff024244-higashidoori%2Fi%2F10000010%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【マラソン限定！最大2000円OFFクーポン】富良野 バタじゃが 5個 × 5袋 （25個）[南富良野町振興公社] 【 食品 北海道産じゃがいもとバターがドッキング ほっかいどう 北海道 じゃがバター ばたじゃが 無添加 空知 そらち まとめ買い】](https://hb.afl.rakuten.co.jp/hgc/g00r7kkm.c5l90284.g00r7kkm.c5l9112d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsutsu-uraura%2Fminamifurano-butter5-5s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsutsu-uraura%2Fi%2F10003898%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【ふるさと納税】冷凍ブルーベリー（2kg）](https://thumbnail.image.rakuten.co.jp/@0_mall/f024244-higashidoori/cabinet/11638442/imgrc0123533768.jpg?_ex=128x128)
+![【マラソン限定！最大2000円OFFクーポン】富良野 バタじゃが 5個 × 5袋 （25個）[南富良野町振興公社] 【 食品 北海道産じゃがいもとバターがドッキング ほっかいどう 北海道 じゃがバター ばたじゃが 無添加 空知 そらち まとめ買い】](https://thumbnail.image.rakuten.co.jp/@0_mall/tsutsu-uraura/cabinet/productpic/minami_hurano/minami-butter-401.jpg?_ex=128x128)
 
-いま話題の冷凍ブルーベリーを手軽にたっぷり楽しむなら、人気のふるさと納税を活用するのがおすすめです。
-容量2kg（寄付金額15,000円）の返礼品なら、朝食のヨーグルトやスムージーにいつでも気軽に使えてとっても便利ですよ。
+北海道マラソンに挑戦した後のご褒美や、秋の味覚を楽しみたい時に、北海道の豊かな恵みが詰まった「富良野 バタじゃが」はいかがでしょうか。
+ほくほくの北海道産じゃがいもにバターの風味がしっかりと染み込んだ、運動後のお腹にも嬉しい美味しい逸品です。
+まとめ買いでお得に楽しめるこの味わいを、ぜひご自宅で手軽に満喫してみてください！
 
-価格: ¥15,000
+価格: ¥3,837
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tgvem.c5l90f49.g00tgvem.c5l9127a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff024244-higashidoori%2F10000010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff024244-higashidoori%2Fi%2F10000010%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00r7kkm.c5l90284.g00r7kkm.c5l9112d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsutsu-uraura%2Fminamifurano-butter5-5s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsutsu-uraura%2Fi%2F10003898%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 2. プロ 志望 届
+## 2. 東野圭吾
 
-[【中古】 プログラマー志望者のためのコンピュータ読本 / 百木 孝行 / エイチ・ビー・ジェイ [単行本]【ネコポス発送】](https://hb.afl.rakuten.co.jp/hgc/g00svqpm.c5l90e07.g00svqpm.c5l91cc1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmottainaihonpo%2F4833783002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmottainaihonpo%2Fi%2F12139491%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[永遠の記憶 [ 東野 圭吾 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18664673%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21985087%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【中古】 プログラマー志望者のためのコンピュータ読本 / 百木 孝行 / エイチ・ビー・ジェイ [単行本]【ネコポス発送】](https://thumbnail.image.rakuten.co.jp/@0_mall/mottainaihonpo/cabinet/07652347/bkmhb2taawg6edd5.jpg?_ex=128x128)
+![永遠の記憶 [ 東野 圭吾 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1327/9784163921327_1_14.jpg?_ex=128x128)
 
-プログラマー志望の皆様にぜひ手に取っていただきたいのが、基礎からしっかり学べる『プログラマー志望者のためのコンピュータ読本』です。
-将来のプロ志望に向けた確かな技術の土台作りとして、この一冊でコンピュータの仕組みを深く理解してみませんか？
+東野圭吾さんの最新作『永遠の記憶』は、ミステリーファン必見の注目の一冊です。価格は2,310円で、物語の続きが気になって一気に読み進めてしまう魅力的な作品に仕上がっています。読書の秋やリラックスタイムのお供に、ぜひ手に取ってみてはいかがでしょうか。
 
-価格: ¥30,273
+価格: ¥2,310
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00svqpm.c5l90e07.g00svqpm.c5l91cc1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmottainaihonpo%2F4833783002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmottainaihonpo%2Fi%2F12139491%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18664673%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21985087%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 3. キューバ
+## 3. 裁判
 
-[【プレミアムシガー】（バラ売り）コイーバ　エクスクイジートス[]〔パナテラ系〕(強さ：●●●〇〇)※キューバ産](https://hb.afl.rakuten.co.jp/hgc/g00pq7am.c5l9018b.g00pq7am.c5l917d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplaza%2F439410%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplaza%2Fi%2F10000283%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[四日目の裁判官　司法の小窓から見た事件と世間 【電子書籍】[ 加藤新太郎 ]](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F0f4bc662ac8e32e1815ee432d22d904a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F23537070%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【プレミアムシガー】（バラ売り）コイーバ　エクスクイジートス[]〔パナテラ系〕(強さ：●●●〇〇)※キューバ産](https://thumbnail.image.rakuten.co.jp/@0_mall/plaza/cabinet/cigar_premium/imgrc0113855030.jpg?_ex=128x128)
+![四日目の裁判官　司法の小窓から見た事件と世間 【電子書籍】[ 加藤新太郎 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3066/2000015183066.jpg?_ex=128x128)
 
-今、何かと話題を集めるキューバの文化や雰囲気を自宅でじっくり楽しみたい方には、本場の上質な味わいが魅力の「コイーバ エクスクイジートス」がおすすめです。厳選されたキューバ産葉巻ならではの贅沢なひとときを、ぜひこの機会に味わってみてはいかがでしょうか？（価格：7,480円）
+ニュースで「裁判」という言葉を耳にする機会が増え、司法の世界に興味を持つ方も多いのではないでしょうか。元裁判官である著者が独自の視点で事件や世間を切り取る本書『四日目の裁判官』は、身近なテーマから裁判の裏側まで深く知ることができる一冊です。裁判の仕組みをより身近に感じてみたい方は、ぜひチェックしてみてください。
 
-価格: ¥7,480
+価格: ¥2,530
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00pq7am.c5l9018b.g00pq7am.c5l917d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplaza%2F439410%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplaza%2Fi%2F10000283%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F0f4bc662ac8e32e1815ee432d22d904a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F23537070%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 4. サタプラ
+## 4. 韓国の航空
 
-[サタプラ ひたすら試してランキング で紹介 【限定大特価】 50ピンチ 引っ張るだけ ピンチハンガー 洗濯ハンガー 角ハンガー 洗濯 室内物干し 部屋干し ハンガー 洗濯ばさみ ホワイト ひっぱるだけ スチール 丈夫 長持ち 日本製 送料無料 洗濯物干し タオル干し](https://hb.afl.rakuten.co.jp/hgc/g00rzjzm.c5l90a7a.g00rzjzm.c5l91d51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnishida2%2F2024051702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnishida2%2Fi%2F10001015%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[航空情報 2022年 09月号 [雑誌] 特集 韓国の航空力 KAIのすべて／ジェットスタージャパンA31LRで富士山遊覧飛行 / せきれい社](https://hb.afl.rakuten.co.jp/hgc/g00upvnm.c5l90cdd.g00upvnm.c5l91b7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgunjisenshodo%2F3925429011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgunjisenshodo%2Fi%2F10005288%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![サタプラ ひたすら試してランキング で紹介 【限定大特価】 50ピンチ 引っ張るだけ ピンチハンガー 洗濯ハンガー 角ハンガー 洗濯 室内物干し 部屋干し ハンガー 洗濯ばさみ ホワイト ひっぱるだけ スチール 丈夫 長持ち 日本製 送料無料 洗濯物干し タオル干し](https://thumbnail.image.rakuten.co.jp/@0_mall/nishida2/cabinet/sale/imgrc0126440014.jpg?_ex=128x128)
+![航空情報 2022年 09月号 [雑誌] 特集 韓国の航空力 KAIのすべて／ジェットスタージャパンA31LRで富士山遊覧飛行 / せきれい社](https://thumbnail.image.rakuten.co.jp/@0_mall/gunjisenshodo/cabinet/item00/mag-aireview/3925429011.jpg?_ex=128x128)
 
-テレビ番組「サタプラ」のひたすら試してランキングでも注目を集めた、引っ張るだけで簡単に取り込める便利な洗濯ハンガーがお得な大特価で登場です！丈夫なスチール製で毎日の部屋干しや室内物干しを快適にしてくれる、ぜひチェックしておきたいアイテムです。
+今話題を集めている「韓国の航空」についてもっと深く知りたい方には、韓国の航空力やKAIのすべてを特集した『航空情報 2022年 09月号』がおすすめです。巻頭特集を通じて、現在の韓国の航空産業の動向を詳しく読み解くことができます。価格は1,426円（税込）です。
 
-価格: ¥2,980
+価格: ¥1,426
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00rzjzm.c5l90a7a.g00rzjzm.c5l91d51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnishida2%2F2024051702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnishida2%2Fi%2F10001015%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00upvnm.c5l90cdd.g00upvnm.c5l91b7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgunjisenshodo%2F3925429011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgunjisenshodo%2Fi%2F10005288%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 5. ミゲル・バルガス
+
+[【公式グッズ】MLB ホワイトソックス ミゲル・バルガス ホーム ユニフォーム （レプリカ） Nike/ナイキ メンズ ホワイト (Men's Nike 1.0 Replica Player Jersey)](https://hb.afl.rakuten.co.jp/hgc/g00u9m1m.c5l90719.g00u9m1m.c5l919de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffanatics-store%2F202854909%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffanatics-store%2Fi%2F10318734%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![【公式グッズ】MLB ホワイトソックス ミゲル・バルガス ホーム ユニフォーム （レプリカ） Nike/ナイキ メンズ ホワイト (Men's Nike 1.0 Replica Player Jersey)](https://thumbnail.image.rakuten.co.jp/@0_mall/fanatics-store/cabinet/202503281515/40689530_01.jpg?_ex=128x128)
+
+今注目を集めるミゲル・バルガス選手の活躍を応援するなら、シカゴ・ホワイトソックスの公式ホームユニフォームがおすすめです。Nike製の本格的なレプリカ仕様で、ファン必携のアイテムとなっています。球場観戦や日常のコーディネートに取り入れて、熱い声援を送ってみませんか？
+
+価格: ¥33,635
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00u9m1m.c5l90719.g00u9m1m.c5l919de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffanatics-store%2F202854909%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffanatics-store%2Fi%2F10318734%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 6. 八村倫太郎
+
+[【楽天ブックス限定特典】八村倫太郎ファースト写真集 『 record 』(限定カバー) [ 八村 倫太郎 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17518939%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20977108%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![【楽天ブックス限定特典】八村倫太郎ファースト写真集 『 record 』(限定カバー) [ 八村 倫太郎 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4997/9784847084997_1_2.jpg?_ex=128x128)
+
+大人気グループ・WATWINGのメンバーとして、また俳優としても大活躍中の八村倫太郎さんの待望のファースト写真集『 record 』が発売決定しました！楽天ブックス限定特典の限定カバー付きとなっているため、ファンなら絶対に手に入れたい記念すべき一冊です。現在の彼の魅力がたっぷり詰まった永久保存版のフォトブックを、ぜひこの機会にチェックしてみてくださいね！
+
+価格: ¥3,080
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17518939%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20977108%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
 ---
 
