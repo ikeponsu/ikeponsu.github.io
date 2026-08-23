@@ -1,117 +1,134 @@
 ---
 title: "今話題のトレンド × Amazonのおすすめ商品"
-date: "2026-08-23T08:19:48.605Z"
+date: "2026-08-23T10:15:05.212Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連するAmazonのおすすめ商品を紹介します。"
 tags: ["トレンド", "Amazon"]
 ---
-## 1. キングオブコント
+## 1. yrp
 
-[キングオブコント2011 [DVD]](https://www.amazon.co.jp/dp/B005OHE0DW?tag=ikeponsu0b-22)
+[[山善] 電子レンジ オーブンレンジ 18L 一人暮らし 二人暮らし フラットテーブル トースト機能付き オーブン機能付き 自動メニュー18種類 簡単お手入れ グリル機能 ホワイト YRP-F181TV(W)](https://www.amazon.co.jp/dp/B0CTJGD2YH?tag=ikeponsu0b-22)
 
-![キングオブコント2011 [DVD]](https://m.media-amazon.com/images/I/51jdERX+RQL._SL160_.jpg)
+![[山善] 電子レンジ オーブンレンジ 18L 一人暮らし 二人暮らし フラットテーブル トースト機能付き オーブン機能付き 自動メニュー18種類 簡単お手入れ グリル機能 ホワイト YRP-F181TV(W)](https://m.media-amazon.com/images/I/41kUYkv2ruL._SL160_.jpg)
 
-キングオブコントの歴史を振り返るなら、名作と名高い『キングオブコント2011 [DVD]』（￥3,455）は見逃せない必見のタイトルです。
-当時の熱気と練り上げられたコントの数々を、ご自宅でじっくりとお楽しみいただけます。
+新生活の準備などで検索されることの多い「yrp」ですが、今回は一人暮らしや二人暮らしにぴったりの山善「オーブンレンジ YRP-F181TV(W)」をご紹介します。フラットテーブルでお手入れがしやすく、トースト機能や18種類の自動メニューも搭載されているため、毎日の自炊をぐっと快適にしてくれる便利な一台です。
 
-価格: ￥3,455
+価格: ￥18,800
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B005OHE0DW?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0CTJGD2YH?tag=ikeponsu0b-22)
 
-## 2. 国立競技場
+## 2. ちいかわコラボ
 
-[国立代々木競技場|未来への継承](https://www.amazon.co.jp/dp/4910032150?tag=ikeponsu0b-22)
+[v i cks × ちいかわ コラボ携帯ケース付き](https://www.amazon.co.jp/dp/B0G7R58DL1?tag=ikeponsu0b-22)
 
-![国立代々木競技場|未来への継承](https://m.media-amazon.com/images/I/51k5ONbrVZL._SL160_.jpg)
+![v i cks × ちいかわ コラボ携帯ケース付き](https://m.media-amazon.com/images/I/517esLGZShL._SL160_.jpg)
 
-近年、イベントや観光地としても大きな注目を集める「国立競技場」ですが、日本の近代建築の歴史を振り返るなら、歴史的な名建築である「国立代々木競技場」の存在も外せません。書籍『国立代々木競技場|未来への継承』（税込2,750円）では、その画期的なデザインや時代を超えて受け継がれる建築美の魅力に深く迫っています。建築やデザインに関心のある方は、ぜひ手にとってみてはいかがでしょうか。
+今話題の「ちいかわコラボ」から、大人気商品「vicks × ちいかわ コラボ携帯ケース付き」が登場しました！
+価格も2,499円と手頃で、ファンなら見逃せない注目のアイテムとなっています。
 
-価格: ￥2,750
+価格: ￥2,499
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4910032150?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0G7R58DL1?tag=ikeponsu0b-22)
 
-## 3. 石田靖
+## 3. バナナマンのせっかくグルメ
 
-[アンアフェア the unknown](https://www.amazon.co.jp/dp/B0GL9K9P3T?tag=ikeponsu0b-22)
+[バナナマンのせっかくグルメ！！ オフィシャルまんぷく旅ガイド (JTBのMOOK)](https://www.amazon.co.jp/dp/4533159265?tag=ikeponsu0b-22)
 
-![アンアフェア the unknown](https://m.media-amazon.com/images/I/51x1AMwHIUL._SL160_.jpg)
+![バナナマンのせっかくグルメ！！ オフィシャルまんぷく旅ガイド (JTBのMOOK)](https://m.media-amazon.com/images/I/51WgdWSo9IL._SL160_.jpg)
 
-タレントの石田靖さんのファンや、サスペンス映画がお好きな方にぜひチェックしていただきたいのが『アンアフェア the unknown』です。現在、こちらの作品はなんと￥0でお楽しみいただけますので、この機会にぜひ気軽な気持ちで鑑賞してみてはいかがでしょうか。
+大人気番組『バナナマンのせっかくグルメ！！』の公式ムック本が登場しました！番組で紹介された全国の美味しい絶品グルメがこれ一冊に詰まっており、見ているだけでお腹が空いてくるような満腹間違いなしのガイドブックです（￥1,375）。次の旅行や食べ歩きの計画に、ぜひチェックしてみてはいかがでしょうか。
 
-価格: ￥0
+価格: ￥1,375
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0GL9K9P3T?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/4533159265?tag=ikeponsu0b-22)
 
-## 4. 全 中 サッカー
+## 4. 佐賀競馬
 
-[コラソン サッカー魂 コミック 全9巻完結セット (ヤンマガKCスペシャル)](https://www.amazon.co.jp/dp/B00B4818M6?tag=ikeponsu0b-22)
+[佐賀競馬ウマてなし](https://www.amazon.co.jp/dp/B0GNHPLR67?tag=ikeponsu0b-22)
 
-![コラソン サッカー魂 コミック 全9巻完結セット (ヤンマガKCスペシャル)](https://m.media-amazon.com/images/I/51dm+6bSPDL._SL160_.jpg)
+![佐賀競馬ウマてなし](https://m.media-amazon.com/images/I/51RQtGcBTSL._SL160_.jpg)
 
-中学サッカーの熱い戦いが注目を集める中、部活のリアルな青春を描いた名作マンガ『コラソン サッカー魂』全9巻セットがおすすめです。ピッチを駆ける少年たちのひたむきな姿に、サッカーの魅力を改めて感じられる完結済みの人気作です。価格は1,388円となっています。
+近年ますます盛り上がりを見せる佐賀競馬ですが、現地の魅力をさらに深く楽しみたい方には「佐賀競馬ウマてなし」（2,160円）がおすすめです。
+ファンの心をくすぐるアイテムとして、観戦のお供や記念にチェックしてみてはいかがでしょうか。
 
-価格: ￥1,388
+価格: ￥2,160
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B00B4818M6?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0GNHPLR67?tag=ikeponsu0b-22)
 
-## 5. カーリング
+## 5. weリーグ
 
-[カーリング作戦術理論　改訂版](https://www.amazon.co.jp/dp/B0H1VG6LKC?tag=ikeponsu0b-22)
+[Plenusなでしこリーグ オフィシャルガイドブック 2026 (ぴあMOOK)](https://www.amazon.co.jp/dp/4835645936?tag=ikeponsu0b-22)
 
-![カーリング作戦術理論　改訂版](https://m.media-amazon.com/images/I/51irdhWAxYL._SL160_.jpg)
+![Plenusなでしこリーグ オフィシャルガイドブック 2026 (ぴあMOOK)](https://m.media-amazon.com/images/I/61BCTJE6iTL._SL160_.jpg)
 
-氷上のチェスとも称される奥深い「カーリング」の戦術や戦略をより深く理解したい方には、『カーリング作戦術理論 改訂版』（2,178円）がおすすめです。試合を見る視点が変わり、観戦がさらに面白くなる一冊です。
+盛り上がりを見せるWEリーグをはじめとする女子サッカー界の現在地を知るなら、毎年恒例の『Plenusなでしこリーグ オフィシャルガイドブック 2026』が必携の一冊です。選手名鑑や詳細なデータが網羅されており、観戦のお供やリーグの歴史を深く楽しむためのファン必見のアイテムとなっています（価格：1,500円）。
 
-価格: ￥2,178
+価格: ￥1,500
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0H1VG6LKC?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/4835645936?tag=ikeponsu0b-22)
 
-## 6. 吉岡里帆
+## 6. 石田裕太郎
 
-[吉岡里帆写真集 里帆採取 by Asami Kiyokawa 週プレ PHOTO BOOK](https://www.amazon.co.jp/dp/B0BWRQCMBL?tag=ikeponsu0b-22)
+[BBM2024ルーキーエディション■レギュラーカード■021/石田裕太郎/横浜DeNA ≪ベースボールカード≫](https://www.amazon.co.jp/dp/B0CWNW5JGN?tag=ikeponsu0b-22)
 
-![吉岡里帆写真集 里帆採取 by Asami Kiyokawa 週プレ PHOTO BOOK](https://m.media-amazon.com/images/I/51ImJVSBkjL._SL160_.jpg)
+![BBM2024ルーキーエディション■レギュラーカード■021/石田裕太郎/横浜DeNA ≪ベースボールカード≫](https://m.media-amazon.com/images/I/419sWhPPLfL._SL160_.jpg)
 
-大人気俳優・吉岡里帆さんの魅力がたっぷり詰まった話題の写真集『里帆採取 by Asami Kiyokawa 週プレ PHOTO BOOK』は、ファン必見の一冊です（￥2,530）。アートディレクター清川あさみさんとのコラボレーションによる、彼女の多彩な表情や美しさをじっくりと堪能できます。
+今話題を集める横浜DeNAベイスターズの石田裕太郎選手ですが、ファンなら手に入れたいのがルーキー時代の貴重なカードですよね。
+「BBM2024ルーキーエディション」のレギュラーカードが、なんと税込100円というお手頃価格で手に入るチャンスです。
+コレクションの仲間入りや応援の記念に、ぜひチェックしてみてはいかがでしょうか？
 
-価格: ￥2,530
+価格: ￥100
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0BWRQCMBL?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0CWNW5JGN?tag=ikeponsu0b-22)
 
-## 7. ドラゴンズ
+## 7. ゴッドバレー
 
-[球団90周年記念SPECIAL BOOK DragonsDays 2026 (玄光社MOOK)](https://www.amazon.co.jp/dp/4768331777?tag=ikeponsu0b-22)
+[Banpresto - ワンピース - ゴッドバレー事件 エドワード・ニューゲート メガワールド コレクションフィギュア](https://www.amazon.co.jp/dp/B0G11HZX84?tag=ikeponsu0b-22)
 
-![球団90周年記念SPECIAL BOOK DragonsDays 2026 (玄光社MOOK)](https://m.media-amazon.com/images/I/51m2c9SfxRL._SL160_.jpg)
+![Banpresto - ワンピース - ゴッドバレー事件 エドワード・ニューゲート メガワールド コレクションフィギュア](https://m.media-amazon.com/images/I/416wgMo2BvL._SL160_.jpg)
 
-中日ドラゴンズの話題が盛り上がる中、球団の歴史と魅力を深く味わえるファン必見の一冊『球団90周年記念SPECIAL BOOK DragonsDays 2026』が登場しました。記念すべき節目の年に刊行された本書は（価格：￥1,980）、チームの歩みや思い出を振り返るのにぴったりのアイテムです。
+「ワンピース」作中の伝説的な事件として話題を集める「ゴッドバレー」ですが、その歴史的な一幕を彩るエドワード・ニューゲートが迫力あるメガワールドコレクショングッズとして登場しました。若き日の白ひげの勇姿を再現したフィギュアが、手頃な価格でお手元に揃うファン必見のアイテムです。
 
-価格: ￥1,980
+価格: ￥1,248
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4768331777?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0G11HZX84?tag=ikeponsu0b-22)
 
-## 8. 町田ゼルビア
+## 8. 橋上秀樹
 
-[勝つ、ではなく、負けない。　結果を出せず、悩んでいるリーダーへ](https://www.amazon.co.jp/dp/4344043359?tag=ikeponsu0b-22)
+[だから、野球は難しい (扶桑社ＢＯＯＫＳ新書)](https://www.amazon.co.jp/dp/B0D82F273F?tag=ikeponsu0b-22)
 
-![勝つ、ではなく、負けない。　結果を出せず、悩んでいるリーダーへ](https://m.media-amazon.com/images/I/51CFS30kxHL._SL160_.jpg)
+![だから、野球は難しい (扶桑社ＢＯＯＫＳ新書)](https://m.media-amazon.com/images/I/51Z0uts0eLL._SL160_.jpg)
 
-今シーズンのJ1リーグで旋風を巻き起こしている町田ゼルビアの戦い方から、組織づくりのヒントを得たいと考えている方も多いのではないでしょうか。書籍『勝つ、ではなく、負けない。　結果を出せず、悩んでいるリーダーへ』（￥1,470）は、厳しい競争社会で結果を求められるリーダーたちの視点を広げる一冊として参考になります。チームや組織のマネジメントに悩む方は、ぜひチェックしてみてください。
+元プロ野球選手の橋上秀樹氏の深い洞察や解説が話題を集めていますが、その野球の奥深さをさらに堪能したい方には新書『だから、野球は難しい』がおすすめです。元選手・コーチとしての豊富な経験から紡ぎ出される一冊で、価格も税込891円とお手頃です。ペリカンのように一歩引いた視点から戦術や選手の心理を紐解いていく本書は、日々の観戦をより一層面白くしてくれるでしょう。
 
-価格: ￥1,470
+価格: ￥891
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4344043359?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0D82F273F?tag=ikeponsu0b-22)
 
-## 9. vivant イベント
+## 9. stardom 5★star gp
 
-[エイリアン (吹替版)](https://www.amazon.co.jp/dp/B00GAVZRMO?tag=ikeponsu0b-22)
+[STARDOM 5★STAR GP 2013 [DVD]](https://www.amazon.co.jp/dp/B00H3AM6C0?tag=ikeponsu0b-22)
 
-![エイリアン (吹替版)](https://m.media-amazon.com/images/I/51xVsWAD7NL._SL160_.jpg)
+![STARDOM 5★STAR GP 2013 [DVD]](https://m.media-amazon.com/images/I/61eQKhCfEQL._SL160_.jpg)
 
-大ヒットドラマ『VIVANT』の壮大なスケールや予測不能な展開に夢中になった方は、未知の生物との極限の戦いを描いたSF映画の金字塔『エイリアン (吹替版)』（￥1,600）もきっと楽しめるはずです。映像作品ならではの圧倒的な緊迫感を、ぜひご自宅で体験してみてください。
+女子プロレスの真夏の最強を決める祭典「stardom 5★star gp」の熱戦をご自宅でもじっくりと振り返りたい方には、『STARDOM 5★STAR GP 2013 [DVD]』がおすすめです（￥12,948）。当時の白熱した名勝負の数々を、ぜひお手元のコレクションに加えてみてはいかがでしょうか。
 
-価格: ￥1,600
+価格: ￥12,948
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B00GAVZRMO?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B00H3AM6C0?tag=ikeponsu0b-22)
+
+## 10. 市況
+
+[対TOPIX業種指数チャートの動きに乗る 個人投資家のための「市況株」短期トレード](https://www.amazon.co.jp/dp/B07F7L26W1?tag=ikeponsu0b-22)
+
+![対TOPIX業種指数チャートの動きに乗る 個人投資家のための「市況株」短期トレード](https://m.media-amazon.com/images/I/51HRxHJ1OXL._SL160_.jpg)
+
+日々の「市況」の変化を敏感に読み解き、効率的なトレードを目指したい方にぴったりの一冊です。
+本書では対TOPIX業種指数チャートの動きを活用した短期トレードの手法が解説されており、実践的なアプローチを学ぶことができます。
+価格は1,650円（税込）ですので、投資スキルをさらに高めたい方はぜひチェックしてみてください。
+
+価格: ￥1,650
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B07F7L26W1?tag=ikeponsu0b-22)
 
 ---
 
