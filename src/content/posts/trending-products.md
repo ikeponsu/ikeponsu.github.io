@@ -1,69 +1,93 @@
 ---
 title: "今話題のトレンド × おすすめ商品"
-date: "2026-08-23T04:31:56.267Z"
+date: "2026-08-23T06:33:10.664Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連する楽天のおすすめ商品を紹介します。"
 tags: ["トレンド", "楽天"]
 ---
-## 1. 兼近大樹
+## 1. 小笠原慎之介
 
-[【楽天ブックス限定特典】「あくまでも個人の見解です。」～こじらせ男のひとり言(限定絵柄フォトカード1枚) [ 兼近　大樹 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18753665%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22076252%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[納期注意【中日ドラゴンズ 刺繍ワッペン 小笠原　サイン】小笠原慎之介/刺しゅう/ワッペン/応援グッズ](https://hb.afl.rakuten.co.jp/hgc/g00re1pm.c5l904aa.g00re1pm.c5l91019/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaconquete%2Fn20190419005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flaconquete%2Fi%2F10014288%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【楽天ブックス限定特典】「あくまでも個人の見解です。」～こじらせ男のひとり言(限定絵柄フォトカード1枚) [ 兼近　大樹 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0346/2100015130346_1_3.jpg?_ex=128x128)
+![納期注意【中日ドラゴンズ 刺繍ワッペン 小笠原　サイン】小笠原慎之介/刺しゅう/ワッペン/応援グッズ](https://thumbnail.image.rakuten.co.jp/@0_mall/laconquete/cabinet/08584710/imgrc0093458599.jpg?_ex=128x128)
 
-EXITの兼近大樹さんによる初の半自伝的小説『「あくまでも個人の見解です。」～こじらせ男のひとり言』は、彼のリアルな思考が垣間見える注目の1冊です。楽天ブックス限定特典として限定絵柄フォトカードが付いてくるので、ファンの方はぜひチェックしてみてくださいね。
+中日ドラゴンズの小笠原慎之介選手を熱く応援したい方にぴったりの、直筆風サインが入った刺繍ワッペンが登場しました。お持ちのユニフォームやバッグにアイロン等で簡単に貼り付けることができ、球場での観戦グッズとしてもおすすめのアイテムです。
 
-価格: ¥2,860
+価格: ¥1,599
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18753665%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22076252%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00re1pm.c5l904aa.g00re1pm.c5l91019/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaconquete%2Fn20190419005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flaconquete%2Fi%2F10014288%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 2. 物価
+## 2. wasj
 
-[物価を考える デフレの謎、インフレの謎 [ 渡辺努 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18048481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21437908%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[アクティブシェルジャケット World Dive ブリザテック 撥水 防水 透湿 防風 フード付きジャケット 袖口調整 ベルクロ 裾ドローコード 調整可能 ダイビング 防寒 アウトドア タウンユース WASJ](https://hb.afl.rakuten.co.jp/hgc/g00q0gum.c5l908a0.g00q0gum.c5l91f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdiving-hid%2F60440003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdiving-hid%2Fi%2F10033286%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![物価を考える デフレの謎、インフレの謎 [ 渡辺努 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0901/9784296120901_1_66.jpg?_ex=128x128)
+![アクティブシェルジャケット World Dive ブリザテック 撥水 防水 透湿 防風 フード付きジャケット 袖口調整 ベルクロ 裾ドローコード 調整可能 ダイビング 防寒 アウトドア タウンユース WASJ](https://thumbnail.image.rakuten.co.jp/@0_mall/diving-hid/cabinet/60/60440003-r1.jpg?_ex=128x128)
 
-連日のニュースで物価の変動が気になる今、私たちの生活にどう影響しているのか気になるところですよね。本書『物価を考える デフレの謎、インフレの謎』では、身近な物価の仕組みや歴史的背景を分かりやすく紐解いてくれます。経済のニュースをより深く理解したいという方に、ぜひ読んでいただきたい一冊です。（価格：1,980円）
+今話題の「wasj」に関連してチェックしておきたいのが、こちらの「ワールドダイブ アクティブシェルジャケット」です。優れた撥水・防水・透湿・防風性を備えており、ダイビングの防寒からアウトドア、タウンユースまで幅広く活躍してくれる一着です（価格：27,979円）。
 
-価格: ¥1,980
+価格: ¥27,979
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18048481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21437908%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q0gum.c5l908a0.g00q0gum.c5l91f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdiving-hid%2F60440003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdiving-hid%2Fi%2F10033286%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 3. 戸郷翔征
+## 3. 貴景勝
 
-[覚悟 【電子書籍】[ 戸郷翔征 ]](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F0aba1946305630349e3f7d79a58485ff%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F25929095%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[貴景勝光信関　優勝ミニ額 大相撲ミニ額 大相撲優勝額　令和2（2020）年11月場所 優勝 大関 貴景勝光信関（2回目の優勝）優勝記念品 相撲グッズ 力士グッズ 相撲取りグッズ 国技館 限定品 記念品 コレクション 写真 R0211](https://hb.afl.rakuten.co.jp/hgc/g00tjlgm.c5l90781.g00tjlgm.c5l91f91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgift-hiroba%2Fsumo-202011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgift-hiroba%2Fi%2F10004438%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![覚悟 【電子書籍】[ 戸郷翔征 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2394/2000019602394.jpg?_ex=128x128)
+![貴景勝光信関　優勝ミニ額 大相撲ミニ額 大相撲優勝額　令和2（2020）年11月場所 優勝 大関 貴景勝光信関（2回目の優勝）優勝記念品 相撲グッズ 力士グッズ 相撲取りグッズ 国技館 限定品 記念品 コレクション 写真 R0211](https://thumbnail.image.rakuten.co.jp/@0_mall/gift-hiroba/cabinet/sumo/sumo-202011.jpg?_ex=128x128)
 
-ジャイアンツのエースとしてチームを引っ張り続ける戸郷翔征選手の素顔や野球に対する姿勢に迫る一冊、『覚悟 【電子書籍】[ 戸郷翔征 ]』が話題を集めています。マウンドで見せる気迫の裏にある思いや、プロとしての哲学が詰まったファン必読の書籍です（価格：税込1,210円）。
+大相撲で圧倒的な強さを見せた貴景勝関のファンなら見逃せないのが、令和2年11月場所の栄光を自宅でいつでも振り返られるこちらの「優勝ミニ額」です。国技館の限定品としても注目を集める記念コレクションは、お部屋のインテリアや相撲ファンへの特別な贈り物としてもぴったりのアイテムです。
 
-価格: ¥1,210
+価格: ¥13,980
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F0aba1946305630349e3f7d79a58485ff%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F25929095%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tjlgm.c5l90781.g00tjlgm.c5l91f91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgift-hiroba%2Fsumo-202011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgift-hiroba%2Fi%2F10004438%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 4. 吉田麻也
+## 4. 黒人女性
 
-[吉田麻也　レジリエンスーー負けない力 【電子書籍】[ 吉田麻也 ]](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F9f8cfffc4d4e31f8b49ea2b95133e911%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F17257392%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[アメリカ黒人女性史[本/雑誌] (再解釈のアメリカ史) / ダイナ・レイミー・ベリー/著 カリ・ニコール・グロス/著 兼子歩/訳 坂下史子/訳 土屋和代/訳](https://hb.afl.rakuten.co.jp/hgc/g00q63am.c5l90165.g00q63am.c5l9119c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneowing-r%2Fneobk-2796005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneowing-r%2Fi%2F14606655%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![吉田麻也　レジリエンスーー負けない力 【電子書籍】[ 吉田麻也 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8735/2000006168735.jpg?_ex=128x128)
+![アメリカ黒人女性史[本/雑誌] (再解釈のアメリカ史) / ダイナ・レイミー・ベリー/著 カリ・ニコール・グロス/著 兼子歩/訳 坂下史子/訳 土屋和代/訳](https://thumbnail.image.rakuten.co.jp/@0_mall/neowing-r/cabinet/item_img_2030/neobk-2796005.jpg?_ex=128x128)
 
-日本代表のキャプテンとして長年チームを牽引し、世界最高峰の舞台で戦い続ける吉田麻也さんの著書『吉田麻也 レジリエンスーー負けない力』は、どんな逆境をも乗り越えるためのヒントが詰まった一冊です（価格：税込1,540円）。困難に直面したときや自分のメンタルを強く保ちたいときに、トップアスリートの思考法から多くの学びを得ることができます。電子書籍版なら、通勤中やスキマ時間にも手軽に読むことができるのでおすすめです。
+近年、多様性や人権問題への関心が高まる中で「黒人女性」の歴史や社会的役割に改めて注目が集まっています。本書『アメリカ黒人女性史』は、過酷な状況の中でも力強く生き抜いてきた彼女たちの足跡を多角的な視点から再解釈し、深く学ぶことができる一冊です。現代社会を理解するための新たな気づきを得るために、ぜひ手に取ってみてはいかがでしょうか。（価格：3,960円）
 
-価格: ¥1,540
+価格: ¥3,960
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F9f8cfffc4d4e31f8b49ea2b95133e911%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F17257392%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q63am.c5l90165.g00q63am.c5l9119c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneowing-r%2Fneobk-2796005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneowing-r%2Fi%2F14606655%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 5. のど自慢
+## 5. 落合博満
 
-[トロフィー カラオケ 高さ31.9cm 優勝 トロフィー カラオケ トロフィー のど自慢 大会 優勝トロフィー カラオケバトル カラオケまつり 音楽 歌うま 民謡 合唱 コンクール 発表会 声楽部 合唱部 卒業記念品 名入れ 1個から スピーチ コンテスト 名入れ トロフィー 青 ブルー](https://hb.afl.rakuten.co.jp/hgc/g00sqbim.c5l901ad.g00sqbim.c5l917a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsukushi-mfg%2Ftht00708b-karaoke%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsukushi-mfg%2Fi%2F10000553%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[落合博満　バッティングの理屈 三冠王が考え抜いた「野球の基本」 [ 落合　博満 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13277599%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F17480543%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![トロフィー カラオケ 高さ31.9cm 優勝 トロフィー カラオケ トロフィー のど自慢 大会 優勝トロフィー カラオケバトル カラオケまつり 音楽 歌うま 民謡 合唱 コンクール 発表会 声楽部 合唱部 卒業記念品 名入れ 1個から スピーチ コンテスト 名入れ トロフィー 青 ブルー](https://thumbnail.image.rakuten.co.jp/@0_mall/tsukushi-mfg/cabinet/samuraiblue/tht00708b_karaoke1.jpg?_ex=128x128)
+![落合博満　バッティングの理屈 三冠王が考え抜いた「野球の基本」 [ 落合　博満 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1916/9784478061916_1_2.jpg?_ex=128x128)
 
-テレビやイベントでおなじみの「のど自慢」大会やカラオケの発表会をさらに盛り上げるアイテムとして、華やかなデザインの優勝トロフィーがおすすめです。
-高さ31.9cmの程よい存在感があり、1個から名入れにも対応しているため、音楽コンクールや歌の大会の記念品としてぴったりです。
+プロ野球界のレジェンド・落合博満さんの思考や技術に迫る『落合博満 バッティングの理屈 三冠王が考え抜いた「野球の基本」』は、多くの野球ファンや指導者から大きな注目を集めている話題の一冊です。三冠王を獲得した著者が独自の視点で考え抜いたバッティングの基本が丁寧に解説されており、日々の練習や理論の深化に役立つ内容となっています。価格は2,640円（税込）で、野球の技術論を深く学びたい方におすすめの書籍です。
 
-価格: ¥3,380
+価格: ¥2,640
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00sqbim.c5l901ad.g00sqbim.c5l917a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsukushi-mfg%2Ftht00708b-karaoke%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsukushi-mfg%2Fi%2F10000553%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13277599%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F17480543%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 6. 土田龍空
+
+[納期注意【中日ドラゴンズ 刺繍ワッペン 龍空 名前 】土田龍空/刺しゅう/ワッペン/応援グッズ](https://hb.afl.rakuten.co.jp/hgc/g00re1pm.c5l904aa.g00re1pm.c5l91019/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaconquete%2F10016620%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flaconquete%2Fi%2F10016620%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![納期注意【中日ドラゴンズ 刺繍ワッペン 龍空 名前 】土田龍空/刺しゅう/ワッペン/応援グッズ](https://thumbnail.image.rakuten.co.jp/@0_mall/laconquete/cabinet/08618352/imgrc0102762573.jpg?_ex=128x128)
+
+中日ドラゴンズの未来を担う土田龍空選手のファンならぜひ手に入れたいのが、応援グッズの定番である名前の刺繍ワッペンです。
+お気に入りのユニフォームにアイロン等で簡単に圧着できるため、球場観戦の際の一体感を高めるアイテムとしておすすめです。
+
+価格: ¥2,499
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00re1pm.c5l904aa.g00re1pm.c5l91019/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flaconquete%2F10016620%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flaconquete%2Fi%2F10016620%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 7. 高橋尚子
+
+[生きる 一歩一歩、前へ [ Shoko　(高橋　尚子） ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17260467%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20749402%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![生きる 一歩一歩、前へ [ Shoko　(高橋　尚子） ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7339/9784828207339_1_2.jpg?_ex=128x128)
+
+シドニー五輪金メダリストの高橋尚子さんの言葉や生き様に触れられる著書『生きる 一歩一歩、前へ』（価格：1,430円）は、日々の生活で前を向くための勇気をくれる一冊です。困難を乗り越えてきた彼女の珠玉のメッセージは、スポーツファンだけでなく、何か新しい挑戦をしたい人の背中をそっと押してくれます。
+
+価格: ¥1,430
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17260467%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20749402%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
 ---
 
