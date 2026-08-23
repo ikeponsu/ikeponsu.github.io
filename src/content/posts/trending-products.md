@@ -1,111 +1,69 @@
 ---
 title: "今話題のトレンド × おすすめ商品"
-date: "2026-08-23T02:58:12.598Z"
+date: "2026-08-23T04:31:56.267Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連する楽天のおすすめ商品を紹介します。"
 tags: ["トレンド", "楽天"]
 ---
-## 1. venue101
+## 1. 兼近大樹
 
-[ガーター用ストッキング Leg Avenue 1011](https://hb.afl.rakuten.co.jp/hgc/g00pvtpm.c5l9006d.g00pvtpm.c5l9179f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarsha%2Fl1011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarsha%2Fi%2F10000181%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【楽天ブックス限定特典】「あくまでも個人の見解です。」～こじらせ男のひとり言(限定絵柄フォトカード1枚) [ 兼近　大樹 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18753665%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22076252%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![ガーター用ストッキング Leg Avenue 1011](https://thumbnail.image.rakuten.co.jp/@0_mall/sarsha/cabinet/000/l1011.jpg?_ex=128x128)
+![【楽天ブックス限定特典】「あくまでも個人の見解です。」～こじらせ男のひとり言(限定絵柄フォトカード1枚) [ 兼近　大樹 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0346/2100015130346_1_3.jpg?_ex=128x128)
 
-音楽番組『Venue101』でのアーティストの衣装やスタイリングが話題になる中、ステージ映えするファッションアイテムとして「Leg Avenue 1011 ガーター用ストッキング」（¥1,100）が注目を集めています。手頃な価格でありながらコーディネートのアクセントになるため、ライブやイベント用の衣装を探している方におすすめの一品です。
+EXITの兼近大樹さんによる初の半自伝的小説『「あくまでも個人の見解です。」～こじらせ男のひとり言』は、彼のリアルな思考が垣間見える注目の1冊です。楽天ブックス限定特典として限定絵柄フォトカードが付いてくるので、ファンの方はぜひチェックしてみてくださいね。
 
-価格: ¥1,100
+価格: ¥2,860
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00pvtpm.c5l9006d.g00pvtpm.c5l9179f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsarsha%2Fl1011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsarsha%2Fi%2F10000181%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18753665%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22076252%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 2. 鳥居さくら
+## 2. 物価
 
-[LAKELUUYAA 巻物画日本風景武士芸者盆栽鳥居桜絵画ポスターインテリア壁画アートデコレーション日本の美を感じる素晴らしいインテリアアイテム (6, 30x40cm, フレーム付き)](https://hb.afl.rakuten.co.jp/hgc/g00uld1m.c5l90fa8.g00uld1m.c5l91ac7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffleurette01%2Fgr-e9z0exevee%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffleurette01%2Fi%2F10318416%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[物価を考える デフレの謎、インフレの謎 [ 渡辺努 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18048481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21437908%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![LAKELUUYAA 巻物画日本風景武士芸者盆栽鳥居桜絵画ポスターインテリア壁画アートデコレーション日本の美を感じる素晴らしいインテリアアイテム (6, 30x40cm, フレーム付き)](https://thumbnail.image.rakuten.co.jp/@0_mall/fleurette01/cabinet/g/88/e9z0exevee-1.jpg?_ex=128x128)
+![物価を考える デフレの謎、インフレの謎 [ 渡辺努 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0901/9784296120901_1_66.jpg?_ex=128x128)
 
-今話題の「鳥居さくら」をモチーフにした美しい世界観をご自宅でも楽しめる、「LAKELUUYAA 巻物画日本風景武士芸者盆栽鳥居桜絵画ポスター（フレーム付き）」がとても素敵です。日本の美を感じる洗練されたデザインは、お部屋のインテリアをぐっと引き立ててくれるおすすめのアイテムです。
+連日のニュースで物価の変動が気になる今、私たちの生活にどう影響しているのか気になるところですよね。本書『物価を考える デフレの謎、インフレの謎』では、身近な物価の仕組みや歴史的背景を分かりやすく紐解いてくれます。経済のニュースをより深く理解したいという方に、ぜひ読んでいただきたい一冊です。（価格：1,980円）
 
-価格: ¥3,246
+価格: ¥1,980
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00uld1m.c5l90fa8.g00uld1m.c5l91ac7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffleurette01%2Fgr-e9z0exevee%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffleurette01%2Fi%2F10318416%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18048481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21437908%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 3. 祭
+## 3. 戸郷翔征
 
-[着物風 羽織り カジュアル 日本デザイン和装 刺繍 和柄 和風 祭 着物 甚平 法被 侍 忍者 羽織 父の日 Favolic GT-LINE](https://hb.afl.rakuten.co.jp/hgc/g00tcaqm.c5l907f3.g00tcaqm.c5l91b6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffavolic%2Fsd-kaya-0028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffavolic%2Fi%2F10000644%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[覚悟 【電子書籍】[ 戸郷翔征 ]](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F0aba1946305630349e3f7d79a58485ff%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F25929095%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![着物風 羽織り カジュアル 日本デザイン和装 刺繍 和柄 和風 祭 着物 甚平 法被 侍 忍者 羽織 父の日 Favolic GT-LINE](https://thumbnail.image.rakuten.co.jp/@0_mall/favolic/cabinet/item/compass1631586792.jpg?_ex=128x128)
+![覚悟 【電子書籍】[ 戸郷翔征 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2394/2000019602394.jpg?_ex=128x128)
 
-今年も各地で熱気あふれる「祭」の季節がやってきますが、そんなイベント気分を盛り上げてくれるのがこの着物風カジュアル羽織りです。
-日本らしい和柄や刺繍が施された本格的なデザインでありながら、普段着としても気軽に羽織れるのが魅力の一着です。
-お祭りのコーディネートはもちろん、夏の装いにちょっとしたアクセントを加えたい方にもおすすめのアイテムとなっています。
+ジャイアンツのエースとしてチームを引っ張り続ける戸郷翔征選手の素顔や野球に対する姿勢に迫る一冊、『覚悟 【電子書籍】[ 戸郷翔征 ]』が話題を集めています。マウンドで見せる気迫の裏にある思いや、プロとしての哲学が詰まったファン必読の書籍です（価格：税込1,210円）。
 
-価格: ¥6,680
+価格: ¥1,210
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tcaqm.c5l907f3.g00tcaqm.c5l91b6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffavolic%2Fsd-kaya-0028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffavolic%2Fi%2F10000644%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F0aba1946305630349e3f7d79a58485ff%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F25929095%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 4. lionel messi
+## 4. 吉田麻也
 
-[予告マラソン期間中エントリーでP5倍＆1110円OFFクーポン★リオネル・メッシ LIONEL MESSI メッシ オードパルファム EDP SP 100ml 【香水】【当日出荷_休止中】【送料無料】](https://hb.afl.rakuten.co.jp/hgc/g00ss3zm.c5l900c7.g00ss3zm.c5l91c5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkousuiandco%2Fmes001-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkousuiandco%2Fi%2F10022794%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[吉田麻也　レジリエンスーー負けない力 【電子書籍】[ 吉田麻也 ]](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F9f8cfffc4d4e31f8b49ea2b95133e911%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F17257392%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![予告マラソン期間中エントリーでP5倍＆1110円OFFクーポン★リオネル・メッシ LIONEL MESSI メッシ オードパルファム EDP SP 100ml 【香水】【当日出荷_休止中】【送料無料】](https://thumbnail.image.rakuten.co.jp/@0_mall/kousuiandco/cabinet/00_3/mes001-100_1.jpg?_ex=128x128)
+![吉田麻也　レジリエンスーー負けない力 【電子書籍】[ 吉田麻也 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8735/2000006168735.jpg?_ex=128x128)
 
-世界的なサッカー界のスター、リオネル・メッシの魅力を身近に感じられるシグネチャーフレグランス「メッシ オードパルファム」が登場しました。洗練された香りは日常使いから特別な日まで幅広く楽しめ、ファンならぜひコレクションに加えたいアイテムです。
+日本代表のキャプテンとして長年チームを牽引し、世界最高峰の舞台で戦い続ける吉田麻也さんの著書『吉田麻也 レジリエンスーー負けない力』は、どんな逆境をも乗り越えるためのヒントが詰まった一冊です（価格：税込1,540円）。困難に直面したときや自分のメンタルを強く保ちたいときに、トップアスリートの思考法から多くの学びを得ることができます。電子書籍版なら、通勤中やスキマ時間にも手軽に読むことができるのでおすすめです。
 
-価格: ¥9,295
+価格: ¥1,540
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00ss3zm.c5l900c7.g00ss3zm.c5l91c5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkousuiandco%2Fmes001-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkousuiandco%2Fi%2F10022794%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00reb4m.c5l90fc0.g00reb4m.c5l91c6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F9f8cfffc4d4e31f8b49ea2b95133e911%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F17257392%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 5. ミルウォーキー・ブルワーズ
+## 5. のど自慢
 
-[＜全品10%OFFクーポン発行中＞ リザードスキンズ（Lizard Skins）　DSPBW1MIL　野球　グリップテープ 1.1mm MLB　BREWERS ミルウォーキー・ブルワーズ　22FW](https://hb.afl.rakuten.co.jp/hgc/g00uigjm.c5l90665.g00uigjm.c5l9149a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanspo%2Fliz-dspbw1mil%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanspo%2Fi%2F10001094%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[トロフィー カラオケ 高さ31.9cm 優勝 トロフィー カラオケ トロフィー のど自慢 大会 優勝トロフィー カラオケバトル カラオケまつり 音楽 歌うま 民謡 合唱 コンクール 発表会 声楽部 合唱部 卒業記念品 名入れ 1個から スピーチ コンテスト 名入れ トロフィー 青 ブルー](https://hb.afl.rakuten.co.jp/hgc/g00sqbim.c5l901ad.g00sqbim.c5l917a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsukushi-mfg%2Ftht00708b-karaoke%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsukushi-mfg%2Fi%2F10000553%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![＜全品10%OFFクーポン発行中＞ リザードスキンズ（Lizard Skins）　DSPBW1MIL　野球　グリップテープ 1.1mm MLB　BREWERS ミルウォーキー・ブルワーズ　22FW](https://thumbnail.image.rakuten.co.jp/@0_mall/anspo/cabinet/2/0001420393000.jpg?_ex=128x128)
+![トロフィー カラオケ 高さ31.9cm 優勝 トロフィー カラオケ トロフィー のど自慢 大会 優勝トロフィー カラオケバトル カラオケまつり 音楽 歌うま 民謡 合唱 コンクール 発表会 声楽部 合唱部 卒業記念品 名入れ 1個から スピーチ コンテスト 名入れ トロフィー 青 ブルー](https://thumbnail.image.rakuten.co.jp/@0_mall/tsukushi-mfg/cabinet/samuraiblue/tht00708b_karaoke1.jpg?_ex=128x128)
 
-今話題のミルウォーキー・ブルワーズを応援するなら、チームカラーを取り入れた公式ライセンスのグリップテープがおすすめです！
-リザードスキンズの人気アイテム「DSPBW1」なら、優れたグリップ力でバッティングをしっかりとサポートしてくれます。
-価格も税込2,310円とお手頃なので、ファン必見のアイテムをぜひチェックしてみてください！
+テレビやイベントでおなじみの「のど自慢」大会やカラオケの発表会をさらに盛り上げるアイテムとして、華やかなデザインの優勝トロフィーがおすすめです。
+高さ31.9cmの程よい存在感があり、1個から名入れにも対応しているため、音楽コンクールや歌の大会の記念品としてぴったりです。
 
-価格: ¥2,310
+価格: ¥3,380
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00uigjm.c5l90665.g00uigjm.c5l9149a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanspo%2Fliz-dspbw1mil%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanspo%2Fi%2F10001094%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-## 6. パドレス
-
-[シティコネクト ニューエラ キャップ 59FIFTY サンディエゴ パドレス MLB CITY CONNECT FITTED CAP MINT NEW ERA SAN DIEGO PADRES 帽子 メンズ レディース 男女兼用 キャップ オーセンティック ON-FIELD オンフィールド ミント /MINT 5950 26_7RE_0715](https://hb.afl.rakuten.co.jp/hgc/g00qzium.c5l909b9.g00qzium.c5l917db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-amazingstore%2Fus60231697%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-amazingstore%2Fi%2F10039228%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-![シティコネクト ニューエラ キャップ 59FIFTY サンディエゴ パドレス MLB CITY CONNECT FITTED CAP MINT NEW ERA SAN DIEGO PADRES 帽子 メンズ レディース 男女兼用 キャップ オーセンティック ON-FIELD オンフィールド ミント /MINT 5950 26_7RE_0715](https://thumbnail.image.rakuten.co.jp/@0_mall/auc-amazingstore/cabinet/05509204/imgrc0123243031.jpg?_ex=128x128)
-
-今、大きな注目を集めているパドレスをファッショナブルに応援するなら、爽やかなミントカラーが目を惹く「シティコネクト ニューエラ キャップ」がおすすめです。
-球場観戦はもちろん、普段のコーディネートの主役としても映える男女兼用のデザインで、熱狂的なファンならぜひ手に入れたいアイテムとなっています。
-
-価格: ¥15,180
-
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00qzium.c5l909b9.g00qzium.c5l917db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-amazingstore%2Fus60231697%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-amazingstore%2Fi%2F10039228%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-## 7. 全米 オープン
-
-[【即納】【あす楽対応】スコッティキャメロン 2023 全米オープン スコッティヒルズ ヘッドカバー ネービー/レッド/ホワイト　SCOTTY CAMERON 2023 US OPEN SCOTTY HILLS HEADCOVER NAVY/RED/WHITE 104](https://hb.afl.rakuten.co.jp/hgc/g00qn4hm.c5l90e27.g00qn4hm.c5l915e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fputter-island%2Fscphc2023-105116%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fputter-island%2Fi%2F10004172%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-![【即納】【あす楽対応】スコッティキャメロン 2023 全米オープン スコッティヒルズ ヘッドカバー ネービー/レッド/ホワイト　SCOTTY CAMERON 2023 US OPEN SCOTTY HILLS HEADCOVER NAVY/RED/WHITE 104](https://thumbnail.image.rakuten.co.jp/@0_mall/putter-island/cabinet/09812086/imgrc0083786179.jpg?_ex=128x128)
-
-全米オープンの熱気が高まる中、大会記念の限定アイテムとして注目を集めている「スコッティキャメロン 2023 全米オープン スコッティヒルズ ヘッドカバー」が入荷しました。ネイビーを基調にレッドとホワイトが映えるスタイリッシュなデザインは、ゴルフ場のラウンドでもひときわ存在感を放ちます。コレクションとしてもおすすめのアイテムですので、この機会にぜひチェックしてみてください。
-
-価格: ¥36,300
-
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00qn4hm.c5l90e27.g00qn4hm.c5l915e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fputter-island%2Fscphc2023-105116%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fputter-island%2Fi%2F10004172%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-## 8. タナー・スコット
-
-[【公式グッズ】MLB ドジャース タナー・スコット ホーム ユニフォーム （レプリカ） Nike/ナイキ メンズ ホワイト (Nike 2026 Men's Replica RP26 Core Jersey - Starter Player)](https://hb.afl.rakuten.co.jp/hgc/g00u9m1m.c5l90719.g00u9m1m.c5l919de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffanatics-store%2F2001978488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffanatics-store%2Fi%2F10369042%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-![【公式グッズ】MLB ドジャース タナー・スコット ホーム ユニフォーム （レプリカ） Nike/ナイキ メンズ ホワイト (Nike 2026 Men's Replica RP26 Core Jersey - Starter Player)](https://thumbnail.image.rakuten.co.jp/@0_mall/fanatics-store/cabinet/13164237/41691554_01.jpg?_ex=128x128)
-
-話題沸騰中のタナー・スコット選手を応援するなら、やっぱり身につけたいのが専用のオフィシャルアイテムです。
-今回ご紹介するのは、選手名が刻まれたNike製のドジャース ホーム レプリカユニフォーム（¥33,635）です。
-熱狂的なファン必見のアイテムを手に入れて、球場や自宅からの観戦をさらに盛り上げましょう！
-
-価格: ¥33,635
-
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00u9m1m.c5l90719.g00u9m1m.c5l919de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffanatics-store%2F2001978488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffanatics-store%2Fi%2F10369042%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00sqbim.c5l901ad.g00sqbim.c5l917a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsukushi-mfg%2Ftht00708b-karaoke%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsukushi-mfg%2Fi%2F10000553%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
 ---
 
