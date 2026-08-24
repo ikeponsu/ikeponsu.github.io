@@ -1,59 +1,96 @@
 ---
 title: "今話題のトレンド × おすすめ商品"
-date: "2026-08-24T02:59:09.234Z"
+date: "2026-08-24T04:39:55.057Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連する楽天のおすすめ商品を紹介します。"
 tags: ["トレンド", "楽天"]
 ---
-## 1. 藤井聡太
+## 1. 天海祐希
 
-[藤井聡太全局集　令和5年度版・下　防衛ロード編 [ 将棋書籍編集部編 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18050164%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21439695%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【先着特典】緊急取調室 4th SEASON DVD-BOX(抽選キャンペーン応募シリアルコード(後日配信)) [ 天海祐希 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16887423%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20472945%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![藤井聡太全局集　令和5年度版・下　防衛ロード編 [ 将棋書籍編集部編 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8265/9784839988265_1_3.jpg?_ex=128x128)
+![【先着特典】緊急取調室 4th SEASON DVD-BOX(抽選キャンペーン応募シリアルコード(後日配信)) [ 天海祐希 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3305/4571519903305_1_2.jpg?_ex=128x128)
 
-常に将棋界の頂点を走り続け、話題を集める藤井聡太竜王・名人の熱戦の軌跡を振り返るなら、『藤井聡太全局集　令和5年度版・下　防衛ロード編』がおすすめです。
-激闘の数々が詳細に収録されており（価格：2,794円）、ファン必携の一冊となっています。
+圧倒的な存在感と迫真の演技力で常に話題を集める天海祐希さんですが、彼女の魅力が凝縮された代表作といえば『緊急取調室 4th SEASON』は見逃せません。緊迫感あふれる取調室での心理戦を、手元に置いてじっくりと楽しみたい方におすすめのDVD-BOXです。
 
-価格: ¥2,794
+価格: ¥17,160
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18050164%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21439695%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16887423%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20472945%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 2. 瀬戸康史
+## 2. 相続
 
-[瀬戸康史in　Hawaii　MEN’S　PHOTORE（vol．1） フォトカードマガジン （［バラエティ］） [ 瀬戸康史 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F6926082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F14317084%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[一番わかりやすい【図解】相続＆贈与のすべてわかる本 令和8年度改正対応版 （扶桑社ムック） [ 曽根 恵子 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18318340%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21683658%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![瀬戸康史in　Hawaii　MEN’S　PHOTORE（vol．1） フォトカードマガジン （［バラエティ］） [ 瀬戸康史 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8633/86336129.jpg?_ex=128x128)
+![一番わかりやすい【図解】相続＆贈与のすべてわかる本 令和8年度改正対応版 （扶桑社ムック） [ 曽根 恵子 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4125/9784594624125_1_3.jpg?_ex=128x128)
 
-俳優として幅広い役柄で魅了し続ける瀬戸康史さんの、ハワイの魅力がたっぷり詰まったフォトカードマガジンです！
-開放的なロケーションで見せるリラックスした表情や、ここでしか見られない素顔の魅力が満載の一冊となっています。
-ファン必見の貴重な姿を、ぜひお手元でじっくり楽しんでみませんか？
+「相続」の手続きや法律の仕組みは複雑で、いざという時に戸惑ってしまう方も少なくありません。
+本書では、複雑なお金や手続きの流れを豊富な図解で丁寧に解説しており、初めての方でもスムーズに理解を深めることができます。
+令和8年度の改正内容にも対応しているため、これからの備えとして手元に置いておきたい一冊です。（価格：1,320円）
 
-価格: ¥2,619
+価格: ¥1,320
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F6926082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F14317084%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18318340%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21683658%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 3. 江川 卓
+## 3. 中国 鎖国
 
-[怪物 江川卓伝 [ 松永 多佳倫 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18412693%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21772547%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[天下統一から鎖国へ (日本中世の歴史 7)](https://hb.afl.rakuten.co.jp/hgc/g00s303m.c5l90fb3.g00s303m.c5l91000/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooksdream%2F1-241002572658%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooksdream%2Fi%2F10988305%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![怪物 江川卓伝 [ 松永 多佳倫 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2181/9784087902181_1_50.jpg?_ex=128x128)
+![天下統一から鎖国へ (日本中世の歴史 7)](https://thumbnail.image.rakuten.co.jp/@0_mall/booksdream/cabinet/racoon_841/4642064079.jpg?_ex=128x128)
 
-プロ野球界の「怪物」として昭和の時代を圧倒的な投球で沸かせた江川卓さんの知られざる素顔や半生に迫る一冊です。『怪物 江川卓伝』では、数々の伝説の裏にあった真実や当時の知られざるドラマが丹念に描かれており、往年の野球ファンはもちろん、現代のスポーツファンにとっても読みごたえのある内容となっています。
+近年ふたたび注目を集めている「中国」と「鎖国」というキーワードの背景を深く知るには、当時のアジア情勢と日本が歩んだ外交の歴史を紐解くことが大切です。吉川弘文館から出版されている『天下統一から鎖国へ (日本中世の歴史 7)』（価格：税込1,238円）は、天下統一のプロセスから江戸幕府の体制確立に至るまでのダイナミックな変化を分かりやすく解説しており、歴史の繋がりを多角的に学ぶのにぴったりの一冊です。
 
-価格: ¥2,420
+価格: ¥1,238
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18412693%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21772547%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00s303m.c5l90fb3.g00s303m.c5l91000/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbooksdream%2F1-241002572658%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbooksdream%2Fi%2F10988305%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 4. 六ヶ所村
+## 4. 田鎖ブラザーズ
 
-[六ヶ所村の記録　下 核燃料サイクル基地の素顔 （岩波現代文庫　社会233） [ 鎌田　慧 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F11448325%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F15647226%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[田鎖ブラザーズ Blu-ray BOX【Blu-ray】 [ 岡田将生 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18678273%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22003328%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![六ヶ所村の記録　下 核燃料サイクル基地の素顔 （岩波現代文庫　社会233） [ 鎌田　慧 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2333/9784006032333.jpg?_ex=128x128)
+![田鎖ブラザーズ Blu-ray BOX【Blu-ray】 [ 岡田将生 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4490/4571519944490.jpg?_ex=128x128)
 
-ニュースや議論の焦点となることが多い「六ヶ所村」の現状を深く知るためには、現地の実態に迫ったドキュメントを読むのが近道です。本書『六ヶ所村の記録 下 核燃料サイクル基地の素顔』では、長年にわたり取材を重ねた記録を通じて、この地域の複雑な側面を静かに見つめ直すことができます。価格は1,496円（税込）です。
+今話題の「田鎖ブラザーズ」の世界を深く堪能したい方には、岡田将生さんが出演する『田鎖ブラザーズ Blu-ray BOX【Blu-ray】』（¥24,066）がおすすめです。映像作品として手元に残し、いつでもお気に入りのシーンを見返すことができます。気になった方はぜひチェックしてみてください！
 
-価格: ¥1,496
+価格: ¥24,066
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F11448325%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F15647226%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18678273%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22003328%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 5. 現代ビジネス
+
+[音声DL　BOOK　杉田敏の　現代ビジネス英語　2026年　夏号 （語学シリーズ） [ 杉田 敏 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18618225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21945613%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![音声DL　BOOK　杉田敏の　現代ビジネス英語　2026年　夏号 （語学シリーズ） [ 杉田 敏 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4427/9784142134427_1_3.jpg?_ex=128x128)
+
+ビジネスパーソンに必須の「現代ビジネス」をテーマにするなら、最新のトレンド語彙や実践的な英語表現を効率よく学べる音声DL BOOKがおすすめです。本書を活用すれば、仕事で役立つ洗練されたコミュニケーション力を手軽にブラッシュアップできます。
+
+価格: ¥1,540
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18618225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21945613%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 6. 広島東洋カープ
+
+[広島東洋カープグッズ カープご当地マンホールTシャツ ラッピング可](https://hb.afl.rakuten.co.jp/hgc/g00r5pdm.c5l90112.g00r5pdm.c5l911d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F89kingdom%2Fwag007-017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F89kingdom%2Fi%2F10007131%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![広島東洋カープグッズ カープご当地マンホールTシャツ ラッピング可](https://thumbnail.image.rakuten.co.jp/@0_mall/89kingdom/cabinet/wag007-017-1.jpg?_ex=128x128)
+
+熱狂的なファンが多い広島東洋カープですが、日常のコーディネートにもカープ愛を取り入れられるユニークなアイテムが登場しています。中でも「カープご当地マンホールTシャツ」は、地元愛を感じさせるデザインが魅力の一枚です（価格：2,750円）。観戦時はもちろん、普段のお出かけにもおすすめの商品となっています。
+
+価格: ¥2,750
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00r5pdm.c5l90112.g00r5pdm.c5l911d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F89kingdom%2Fwag007-017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F89kingdom%2Fi%2F10007131%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 7. マイ・フィクション
+
+[【楽天ブックス限定先着特典】マイ・フィクション Blu-ray BOX【Blu-ray】(B6クリアファイル(青)) [ 玉森裕太 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18779312%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22077778%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![【楽天ブックス限定先着特典】マイ・フィクション Blu-ray BOX【Blu-ray】(B6クリアファイル(青)) [ 玉森裕太 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4501/2100015164501_1_2.jpg?_ex=128x128)
+
+話題のドラマ『マイ・フィクション』の世界観を自宅でじっくり楽しみたい方には、玉森裕太さんが出演する『マイ・フィクション Blu-ray BOX』がおすすめです。
+今なら楽天ブックス限定の先着特典として、嬉しいB6クリアファイル（青）も付いてきます！
+ファン必見のアイテムとなっていますので、ぜひチェックしてみてくださいね。
+
+価格: ¥25,245
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18779312%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22077778%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
 ---
 
