@@ -1,125 +1,92 @@
 ---
 title: "今話題のトレンド × おすすめ商品"
-date: "2026-08-23T22:17:00.799Z"
+date: "2026-08-24T00:59:53.441Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連する楽天のおすすめ商品を紹介します。"
 tags: ["トレンド", "楽天"]
 ---
-## 1. スネル
+## 1. カズレーザー
 
-[【公式】スネルゴルフ GET SUM イエロー 黄色 ゴルフボール 2ピース 飛距離 低スピン 直進性 打感ソフト ディスタンスボール 公認球](https://hb.afl.rakuten.co.jp/hgc/g00uu8sm.c5l90536.g00uu8sm.c5l917c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsnellgolf%2Fgetsum-y-2024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsnellgolf%2Fi%2F10000006%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【カズレーザーと学ぶで話題】アルロース 600g 【送料無料】【メール便で郵便ポストにお届け】【代引不可】【時間指定不可】 希少糖 香川大学の研究成果で生まれた自然由来の甘味料 フラクトオリゴ糖配合 プシコース [05] NICHIGA(ニチガ)](https://hb.afl.rakuten.co.jp/hgc/g00qwojm.c5l9094e.g00qwojm.c5l91d87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F2023070603%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10001769%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【公式】スネルゴルフ GET SUM イエロー 黄色 ゴルフボール 2ピース 飛距離 低スピン 直進性 打感ソフト ディスタンスボール 公認球](https://thumbnail.image.rakuten.co.jp/@0_mall/snellgolf/cabinet/13299554/imgrc0131603853.jpg?_ex=128x128)
+![【カズレーザーと学ぶで話題】アルロース 600g 【送料無料】【メール便で郵便ポストにお届け】【代引不可】【時間指定不可】 希少糖 香川大学の研究成果で生まれた自然由来の甘味料 フラクトオリゴ糖配合 プシコース [05] NICHIGA(ニチガ)](https://thumbnail.image.rakuten.co.jp/@0_mall/auc-garlic/cabinet/allulose/r-allulose_600m.jpg?_ex=128x128)
 
-話題の「スネル」のゴルフボールをお探しなら、高初速とソフトな打感を両立した「スネルゴルフ GET SUM イエロー」がおすすめです。鮮やかな黄色で視認性も高く、優れた直進性と飛距離性能を備えた公認球となっています。価格も3,630円とお手頃なので、次のラウンドに向けてぜひ試してみてはいかがでしょうか。
+テレビ番組「カズレーザーと学ぶ。」でも注目を集めた「アルロース」は、香川大学の研究成果から生まれた話題の自然由来の甘味料です。フラクトオリゴ糖も配合されており、毎日のヘルシーな食生活を手軽に取り入れたい方にぴったりなアイテムです。送料無料のメール便でお届けできるので、ぜひこの機会にチェックしてみてください！
 
-価格: ¥3,630
+価格: ¥2,190
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00uu8sm.c5l90536.g00uu8sm.c5l917c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsnellgolf%2Fgetsum-y-2024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsnellgolf%2Fi%2F10000006%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00qwojm.c5l9094e.g00qwojm.c5l91d87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-garlic%2F2023070603%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-garlic%2Fi%2F10001769%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 2. 水上 オートバイ
+## 2. 科研費
 
-[マリン スピーカー 5.25インチ 100ワット防水 耐水 ホワイト 2個セット DBS5004W国内発送 在庫有 水上オートバイ ボートなどに](https://hb.afl.rakuten.co.jp/hgc/g00qv8lm.c5l90966.g00qv8lm.c5l913c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshiroi-taiyaki-group%2F10004755%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshiroi-taiyaki-group%2Fi%2F10004755%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[科研費獲得の方法とコツ　第9版 [ 児島　将康 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18233949%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21609238%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![マリン スピーカー 5.25インチ 100ワット防水 耐水 ホワイト 2個セット DBS5004W国内発送 在庫有 水上オートバイ ボートなどに](https://thumbnail.image.rakuten.co.jp/@0_mall/shiroi-taiyaki-group/cabinet/02610077/02787764/imgrc0085550464.jpg?_ex=128x128)
+![科研費獲得の方法とコツ　第9版 [ 児島　将康 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1354/9784758121354_1_4.jpg?_ex=128x128)
 
-これからの季節、水上オートバイでのツーリングをさらに盛り上げてくれる防水マリンスピーカーをご紹介します。5.25インチで100ワットのパワーを備えたホワイトカラーの2個セットは、ボートや水上バイクのドレスアップにもぴったりです。国内発送ですぐ手に入るので、マリンスポーツの音響環境をアップグレードしたい方にぜひチェックしていただきたいアイテムです（価格：6,639円）。
+研究者の間で常に注目を集める「科研費」の申請準備に悩んでいませんか？ベストセラーとして知られる『科研費獲得の方法とコツ　第9版』は、申請書の書き方や採択されるためのポイントを分かりやすく解説しており、準備を進める研究者の強い味方となる一冊です（価格：4,730円）。
 
-価格: ¥6,639
+価格: ¥4,730
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00qv8lm.c5l90966.g00qv8lm.c5l913c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshiroi-taiyaki-group%2F10004755%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshiroi-taiyaki-group%2Fi%2F10004755%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18233949%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21609238%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 3. 杉浦悠太
+## 3. 御母衣ダム
 
-[【30% OFF】TOMMY HILFIGER GOLF トミーヒルフィガー ゴルフTHMA602 MEN メンズカラ-ブロック 半袖ポロシャツ杉浦悠太プロ着用モデル](https://hb.afl.rakuten.co.jp/hgc/g00s382m.c5l90b81.g00s382m.c5l91651/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgolf-club-daiju%2F10021442%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgolf-club-daiju%2Fi%2F10009435%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[御母衣ダムと荘白川地方の50年 [ 浜本篤史 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F11330234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F15545777%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【30% OFF】TOMMY HILFIGER GOLF トミーヒルフィガー ゴルフTHMA602 MEN メンズカラ-ブロック 半袖ポロシャツ杉浦悠太プロ着用モデル](https://thumbnail.image.rakuten.co.jp/@0_mall/golf-club-daiju/cabinet/12771887/12983916/imgrc0344953708.jpg?_ex=128x128)
+![御母衣ダムと荘白川地方の50年 [ 浜本篤史 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8323/9784944168323.jpg?_ex=128x128)
 
-今注目を集める杉浦悠太プロが着用していることでも話題の、TOMMY HILFIGER GOLFのカラーブロック半袖ポロシャツが、今なら30%OFFの税込10,010円でお求めいただけます。
-洗練されたデザインとゴルフシーンに嬉しい機能性を兼ね備えた、ファン必見のアイテムです。
-コーディネートに取り入れるだけで、プロのようなスタイリッシュなゴルフスタイルを楽しめます。
+世界初のロックフィル式ダムとして知られる「御母衣ダム」の歴史や、水没した荘川・白川地方の記憶に関心がある方には、書籍『御母衣ダムと荘白川地方の50年』（浜本篤史・著／税込1,320円）がおすすめです。当時の貴重な記録や地域の歩みを深く知ることができる一冊として、現地を訪れる前後の予習・復習にもぴったりです。
 
-価格: ¥10,010
+価格: ¥1,320
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00s382m.c5l90b81.g00s382m.c5l91651/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgolf-club-daiju%2F10021442%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgolf-club-daiju%2Fi%2F10009435%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F11330234%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F15545777%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 4. 田中希実
+## 4. windy
 
-[希わくばの詩 [ 田中希実 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18531697%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21872051%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【8/25限定！ポイント10倍】すっきりデザインの学習机・学習デスク 3点セット100cm幅（デスク+ミドル上棚+ワゴン）WINDY（ウィンディ）デスクセット 堀田木工所 スタディコーナー 棚付き ナチュラル 子供 勉強机 学習机セット 学習デスクセット オンライン](https://hb.afl.rakuten.co.jp/hgc/g00plblm.c5l90d8f.g00plblm.c5l91fbb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkagunosato%2F97-0174%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkagunosato%2Fi%2F10026964%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![希わくばの詩 [ 田中希実 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5053/9784418265053_1_2.jpg?_ex=128x128)
+![【8/25限定！ポイント10倍】すっきりデザインの学習机・学習デスク 3点セット100cm幅（デスク+ミドル上棚+ワゴン）WINDY（ウィンディ）デスクセット 堀田木工所 スタディコーナー 棚付き ナチュラル 子供 勉強机 学習机セット 学習デスクセット オンライン](https://thumbnail.image.rakuten.co.jp/@0_mall/kagunosato/cabinet/97-1/97-0174.jpg?_ex=128x128)
 
-陸上界で常に注目を集め続ける田中希実選手の「今」と素顔に迫る書籍『希わくばの詩』は、ファン必見の一冊です（¥1,870）。ピュアな言葉で紡がれる彼女の軌跡や思いに触れることで、日々のレース観戦がさらに熱くなること間違いなしの魅力的な商品です。
+最近話題の「windy」にちなんで、お部屋の雰囲気を爽やかに整えてくれる堀田木工所の学習机「WINDY（ウィンディ）デスクセット」をご紹介します。すっきりとしたナチュラルなデザインの3点セット（147,500円）は、お子様の学習スペースを心地よい空間にしてくれるおすすめのアイテムです。
 
-価格: ¥1,870
+価格: ¥147,500
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18531697%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21872051%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00plblm.c5l90d8f.g00plblm.c5l91fbb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkagunosato%2F97-0174%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkagunosato%2Fi%2F10026964%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 5. きゃりーぱみゅぱみゅ
+## 5. 男川駅
 
-[THE SPOOKY OBAKEYASHIKI ～PUMPKINS STRIKE BACK ～ [ きゃりーぱみゅぱみゅ ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15463109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19120582%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[男川駅 (おとがわえき) 書道Tシャツ 半袖 名入れ対応可 漢字 習字 書道家が書き上げた 筆文字プリント 【 駅名・鉄道 】 メンズ レディース キッズ 大きいサイズ S-XXL 120-150｜ギフト 人気 定番 プレゼント](https://hb.afl.rakuten.co.jp/hgc/g00s58rm.c5l90c47.g00s58rm.c5l91e40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworkpro%2Fcus-500101-z270799%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworkpro%2Fi%2F10027475%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![THE SPOOKY OBAKEYASHIKI ～PUMPKINS STRIKE BACK ～ [ きゃりーぱみゅぱみゅ ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3217/4943674283217.jpg?_ex=128x128)
+![男川駅 (おとがわえき) 書道Tシャツ 半袖 名入れ対応可 漢字 習字 書道家が書き上げた 筆文字プリント 【 駅名・鉄道 】 メンズ レディース キッズ 大きいサイズ S-XXL 120-150｜ギフト 人気 定番 プレゼント](https://thumbnail.image.rakuten.co.jp/@0_mall/workpro/cabinet/cus/thumbnail-1/5001-14/cus-500101-z270799.jpg?_ex=128x128)
 
-独特の世界観とポップな楽曲で常に話題を集める、きゃりーぱみゅぱみゅさんの魅力が詰まったライブ映像作品です。
-『THE SPOOKY OBAKEYASHIKI ～PUMPKINS STRIKE BACK ～』は、お化け屋敷をテーマにした幻想的でエンターテインメント性溢れるステージを自宅で存分に楽しめます。
-ファン必見のライブBlu-ray/DVD（価格：5,500円）で、彼女の唯一無二のパフォーマンスをぜひ体感してみてください。
+愛知県岡崎市にある名鉄名古屋本線の「男川駅」周辺でお出かけの計画を立てている方や、鉄道グッズが好きな方にぴったりなアイテムが登場しました。駅名が大胆にデザインされた「男川駅 書道Tシャツ」は、書道家が書き上げた力強い筆文字プリントが魅力の一着です。普段使いはもちろん、鉄道ファンへのユニークなプレゼントやギフトとしてもおすすめですよ！
 
-価格: ¥5,500
+価格: ¥2,980
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15463109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19120582%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00s58rm.c5l90c47.g00s58rm.c5l91e40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fworkpro%2Fcus-500101-z270799%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fworkpro%2Fi%2F10027475%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 6. ダイハツ・コペン
+## 6. 改造車
 
-[トミカ トミカギフト オープンカー セレクション ランボルギーニ・ヴェネーノロードスター、ホンダS660、ダイハツ・コペン、マツダ・ロードスターの4種【 送料無料！】 おもちゃ プレゼント 誕生日](https://hb.afl.rakuten.co.jp/hgc/g00u79bm.c5l90024.g00u79bm.c5l91c69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobido%2F10000426%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobido%2Fi%2F10000426%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[街道レーサー MAGAZINE　伝説の改造車名鑑 （スコラムック）](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17439939%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20902212%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![トミカ トミカギフト オープンカー セレクション ランボルギーニ・ヴェネーノロードスター、ホンダS660、ダイハツ・コペン、マツダ・ロードスターの4種【 送料無料！】 おもちゃ プレゼント 誕生日](https://thumbnail.image.rakuten.co.jp/@0_gold/kobido/tomika/op-700.jpg?_ex=128x128)
+![街道レーサー MAGAZINE　伝説の改造車名鑑 （スコラムック）](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9750/9784777829750_1_2.jpg?_ex=128x128)
 
-大人気の軽オープンカー「ダイハツ・コペン」が気になる方には、人気車種を集めた「トミカ トミカギフト オープンカー セレクション」がおすすめです！
-コペンをはじめ、ホンダS660やマツダ・ロードスター、ランボルギーニといった憧れのオープンカー4台がセットになっており、価格は6,980円（送料無料）となっています。
-おもちゃとしてお子様へのプレゼントにはもちろん、大人のコレクションとしても楽しめる魅力的なアイテムです。
+近年ふたたびアツい視線を集めている「改造車」カルチャーですが、その歴史や熱気を深く知るなら当時の空気をそのまま閉じ込めたムック本がぴったりです。『街道レーサー MAGAZINE 伝説の改造車名鑑』なら、あの頃のカスタムシーンを鮮烈に思い出させてくれる一冊として、¥2,500で手軽に当時の世界観に浸ることができますよ。
 
-価格: ¥6,980
+価格: ¥2,500
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00u79bm.c5l90024.g00u79bm.c5l91c69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobido%2F10000426%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobido%2Fi%2F10000426%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17439939%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20902212%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 7. 今永昇太
+## 7. ラヴィット
 
-[エムエルビー（MLB）（メンズ）野球ウェア ネーム&ナンバー 半袖Tシャツ シカゴ カブス 今永昇太 N199-4EW-EJ9-D2B](https://hb.afl.rakuten.co.jp/hgc/g00radhm.c5l9025a.g00radhm.c5l913d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersportsxebio%2F108816047011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupersportsxebio%2Fi%2F21233161%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[Quick Japan Special 『ラヴィット！』](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17571006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21014956%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![エムエルビー（MLB）（メンズ）野球ウェア ネーム&ナンバー 半袖Tシャツ シカゴ カブス 今永昇太 N199-4EW-EJ9-D2B](https://thumbnail.image.rakuten.co.jp/@0_mall/supersportsxebio/cabinet/1/7230303_48/8816047_m.jpg?_ex=128x128)
+![Quick Japan Special 『ラヴィット！』](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8871/9784778318871_1_3.jpg?_ex=128x128)
 
-メジャーリーガーとして大活躍を見せ、連日大きな話題を集めている今永昇太選手のシカゴ・カブス公式ネーム＆ナンバーTシャツが登場しました。背番号と名前が入ったファン必見のデザインで、応援スタイルにはもちろん普段のカジュアルコーデにもぴったりの一着です。価格は4,389円（税込）となっておりますので、この機会にぜひチェックしてみてください！
+大人気バラエティ番組『ラヴィット！』の魅力がたっぷり詰まった『Quick Japan Special 『ラヴィット！』』が発売され、ファン必見の一冊となっています。番組の裏側や出演者たちの素顔に迫る充実の内容となっており、価格も1,540円とお手頃です。番組をもっと楽しみたい方は、ぜひチェックしてみてはいかがでしょうか。
 
-価格: ¥4,389
+価格: ¥1,540
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00radhm.c5l9025a.g00radhm.c5l913d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersportsxebio%2F108816047011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupersportsxebio%2Fi%2F21233161%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-## 8. ピッツバーグ・パイレーツ
-
-[47 キャップ パイレーツ メンズ レディース 47BRAND 秋冬 帽子 ブランド フォーティーセブン PIRATES CROSSROPE HITCH コーデュロイ ブラック ロゴキャップ おしゃれ ユニセックス ロゴキャップ フリーサイズ ピッツバーグ・パイレーツ MLB 父の日](https://hb.afl.rakuten.co.jp/hgc/g00rc5hm.c5l90533.g00rc5hm.c5l9194a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-elehelm-hatstore%2Fcsrop20ewp-bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-elehelm-hatstore%2Fi%2F10026538%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-![47 キャップ パイレーツ メンズ レディース 47BRAND 秋冬 帽子 ブランド フォーティーセブン PIRATES CROSSROPE HITCH コーデュロイ ブラック ロゴキャップ おしゃれ ユニセックス ロゴキャップ フリーサイズ ピッツバーグ・パイレーツ MLB 父の日](https://thumbnail.image.rakuten.co.jp/@0_mall/auc-elehelm-hatstore/cabinet/item/135/csrop20ewp-bk.jpg?_ex=128x128)
-
-MLBの人気チーム「ピッツバーグ・パイレーツ」のファン必見、秋冬コーデにぴったりの「47（フォーティーセブン）」製コーデュロイキャップが登場しました。
-温かみのある素材感とフロントのロゴ刺繍がアクセントになり、大人のカジュアルスタイルをおしゃれに演出してくれるユニセックスアイテムです。
-普段使いはもちろん、スポーツ観戦や大切な方へのギフトとしてもおすすめの逸品です（価格：7,700円）。
-
-価格: ¥7,700
-
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00rc5hm.c5l90533.g00rc5hm.c5l9194a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-elehelm-hatstore%2Fcsrop20ewp-bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-elehelm-hatstore%2Fi%2F10026538%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-## 9. クマ
-
-[【送料無料】クマ オーガニック カベルネ・ソーヴィニヨン 750ml×12本 [赤ワイン フルボディ アルゼンチン] 【北海道・東北・四国・九州・沖縄県は必ず送料がかかります】](https://hb.afl.rakuten.co.jp/hgc/g00rryxm.c5l9073a.g00rryxm.c5l91ad8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F2262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquor-boss%2Fi%2F10009133%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
-
-![【送料無料】クマ オーガニック カベルネ・ソーヴィニヨン 750ml×12本 [赤ワイン フルボディ アルゼンチン] 【北海道・東北・四国・九州・沖縄県は必ず送料がかかります】](https://thumbnail.image.rakuten.co.jp/@0_mall/liquor-boss/cabinet/260701_1/2262.jpg?_ex=128x128)
-
-「クマ」というキーワードが気になる季節ですが、今回はホッと一息つける癒やしの時間にぴったりな、アルゼンチン産の赤ワインをご紹介します！
-可愛い「クマ（KUMA）」のエチケットが印象的なオーガニック・カベルネ・ソーヴィニヨンは、まとめ買いでお得に本格的なフルボディの味わいを楽しめるおすすめの12本セットです。
-
-価格: ¥11,699
-
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00rryxm.c5l9073a.g00rryxm.c5l91ad8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F2262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquor-boss%2Fi%2F10009133%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17571006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21014956%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
 ---
 
