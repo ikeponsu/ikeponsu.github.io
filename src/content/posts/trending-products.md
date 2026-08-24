@@ -1,86 +1,131 @@
 ---
 title: "今話題のトレンド × おすすめ商品"
-date: "2026-08-24T14:37:00.494Z"
+date: "2026-08-24T16:31:33.186Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連する楽天のおすすめ商品を紹介します。"
 tags: ["トレンド", "楽天"]
 ---
-## 1. アジア大会
+## 1. 小栗旬
 
-[【記念硬貨】広島アジア競技大会記念 500円白銅貨C「跳ぶ」 平成6年(1994年)第12回アジア大会 【記念貨】](https://hb.afl.rakuten.co.jp/hgc/g00rqhum.c5l903a5.g00rqhum.c5l91087/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamabun-r%2Faa6a0019r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamabun-r%2Fi%2F10000826%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[フロントライン【Blu-ray】 [ 小栗旬 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18359994%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21734136%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【記念硬貨】広島アジア競技大会記念 500円白銅貨C「跳ぶ」 平成6年(1994年)第12回アジア大会 【記念貨】](https://thumbnail.image.rakuten.co.jp/@0_mall/yamabun-r/cabinet/03318965/03339840/03345042/asiatobu.jpg?_ex=128x128)
+![フロントライン【Blu-ray】 [ 小栗旬 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8707/4580055368707_1_2.jpg?_ex=128x128)
 
-熱気冷めやまぬアジア大会の話題ですが、過去の国内開催大会に思いを馳せてみるのはいかがでしょうか。
-1994年の広島アジア競技大会を記念して発行されたこちらの500円白銅貨は、躍動感のある「跳ぶ」のデザインが魅力の一品です。
-歴史的スポーツイベントの記念アイテムとして、コレクションに加えてみてはいかがでしょうか。
+俳優として数々の話題作で圧倒的な存在感を放つ小栗旬さんの魅力を堪能したいなら、映画『フロントライン』のBlu-rayがおすすめです。臨場感あふれる映像と迫力のストーリーを、ぜひご自宅でじっくりとお楽しみください。
 
-価格: ¥1,320
+価格: ¥5,984
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00rqhum.c5l903a5.g00rqhum.c5l91087/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamabun-r%2Faa6a0019r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamabun-r%2Fi%2F10000826%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18359994%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21734136%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 2. 満島ひかり
+## 2. ana
 
-[海辺の生と死【Blu-ray】 [ 満島ひかり ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15240276%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F18892103%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【ANA's Sky Kitchen】おうちで旅気分！！ANA国際線エコノミークラス機内食 メインディッシュ ブルーリストランテ特別便 夏福袋 冷凍弁当 お弁当 お取り寄せグルメ 温めるだけ 簡単 時短 洋食 和食 ana アナ機内食 冷凍 食べ物 ギフト仕送り夜食](https://hb.afl.rakuten.co.jp/hgc/g00tm5pm.c5l90dd4.g00tm5pm.c5l917ed/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fana-findelish%2F10000911%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fana-findelish%2Fi%2F10000055%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![海辺の生と死【Blu-ray】 [ 満島ひかり ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5799/4988021715799.jpg?_ex=128x128)
+![【ANA's Sky Kitchen】おうちで旅気分！！ANA国際線エコノミークラス機内食 メインディッシュ ブルーリストランテ特別便 夏福袋 冷凍弁当 お弁当 お取り寄せグルメ 温めるだけ 簡単 時短 洋食 和食 ana アナ機内食 冷凍 食べ物 ギフト仕送り夜食](https://thumbnail.image.rakuten.co.jp/@0_mall/ana-findelish/cabinet/2026/801282_top.jpg?_ex=128x128)
 
-圧倒的な演技力と独特の存在感で人々を魅了し続ける俳優、満島ひかりさん。
-彼女の魅力が存分に詰まった名作映画『海辺の生と死』のBlu-rayは、ファンなら手元に残しておきたい珠玉の一作です（価格：税込5,453円）。
-スクリーンからあふれ出る圧倒的な表現力を、ぜひご自宅でじっくりと堪能してみてはいかがでしょうか。
+話題の「ANA」の味を自宅で手軽に楽しめる、【ANA's Sky Kitchen】の機内食メインディッシュセットをご紹介します。温めるだけでまるで空の旅をしているかのような気分を味わえるので、おうち時間をちょっと贅沢にしたい時や特別なギフトにもぴったりです。
 
-価格: ¥5,453
+価格: ¥10,980
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15240276%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F18892103%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tm5pm.c5l90dd4.g00tm5pm.c5l917ed/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fana-findelish%2F10000911%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fana-findelish%2Fi%2F10000055%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 3. 加藤綾子
+## 3. 灯籠
 
-[会話は、とぎれていい 愛される48のヒント [ 加藤綾子 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15856845%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19562298%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【マラソンP5倍+クーポン】【即日発送】 盆提灯 一対 『【一対入り】廻転灯付提灯 回転 名月（PC製）』 対 お盆 提灯 盆ちょうちん お盆提灯 岐阜提灯 灯篭 盆灯篭 燈籠 行灯 回転灯 初盆 新盆飾り 新盆 お盆飾り 初盆飾り 盆飾り 新盆提灯 盆 霊前灯 対入 贈答](https://hb.afl.rakuten.co.jp/hgc/g00q09im.c5l90f8d.g00q09im.c5l91108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkb-hayashi%2F130pca-2606-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkb-hayashi%2Fi%2F10017792%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![会話は、とぎれていい 愛される48のヒント [ 加藤綾子 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1221/9784866511221.jpg?_ex=128x128)
+![【マラソンP5倍+クーポン】【即日発送】 盆提灯 一対 『【一対入り】廻転灯付提灯 回転 名月（PC製）』 対 お盆 提灯 盆ちょうちん お盆提灯 岐阜提灯 灯篭 盆灯篭 燈籠 行灯 回転灯 初盆 新盆飾り 新盆 お盆飾り 初盆飾り 盆飾り 新盆提灯 盆 霊前灯 対入 贈答](https://thumbnail.image.rakuten.co.jp/@0_mall/kb-hayashi/cabinet/01b/130pca-2302-j-2.jpg?_ex=128x128)
 
-テレビで見せる自然体なトークが魅力の加藤綾子さんの著書『会話は、とぎれていい 愛される48のヒント』は、コミュニケーションのヒントが詰まった一冊です（1,298円）。無理のない会話術を学ぶことで、毎日の人間関係がより心地よいものになるかもしれません。
+お盆の準備に欠かせない「灯籠」をお探しの方には、伝統的な美しさと華やかさを添えてくれる「盆提灯」のセットがおすすめです。こちらは上品な廻転灯付きの一対セットとなっており、ご自宅用はもちろん大切な方への贈り物としても安心してお使いいただけます。
 
-価格: ¥1,298
+価格: ¥12,650
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15856845%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19562298%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q09im.c5l90f8d.g00q09im.c5l91108/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkb-hayashi%2F130pca-2606-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkb-hayashi%2Fi%2F10017792%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 4. 客室 乗務員
+## 4. ana 国内線
 
-[【期間限定!最安6480円～!】現役CA監修 パイロット推奨 スーツケース キャリーケース 機内持ち込み ファスナー式 キャリーバッグ 軽量 静音 大型 Sサイズ Mサイズ Lサイズ 旅行 出張 修学旅行 海外旅行 キャスター交換可能](https://hb.afl.rakuten.co.jp/hgc/g00uj41m.c5l90882.g00uj41m.c5l91554/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvelskyf%2Fvelskyf01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvelskyf%2Fi%2F10000000%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[数量限定 ANAシート使用 スクエアトートバッグ グリーン B747国内線 A320国内線 ANAウィングフェローズ・ヴイ王子](https://hb.afl.rakuten.co.jp/hgc/g00pxmsm.c5l90986.g00pxmsm.c5l911f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fheimat%2F8000546%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fheimat%2Fi%2F10003224%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【期間限定!最安6480円～!】現役CA監修 パイロット推奨 スーツケース キャリーケース 機内持ち込み ファスナー式 キャリーバッグ 軽量 静音 大型 Sサイズ Mサイズ Lサイズ 旅行 出張 修学旅行 海外旅行 キャスター交換可能](https://thumbnail.image.rakuten.co.jp/@0_mall/velskyf/cabinet/10571032/imgrc0098354723.jpg?_ex=128x128)
+![数量限定 ANAシート使用 スクエアトートバッグ グリーン B747国内線 A320国内線 ANAウィングフェローズ・ヴイ王子](https://thumbnail.image.rakuten.co.jp/@0_mall/heimat/cabinet/00703849/8000546.jpg?_ex=128x128)
 
-客室乗務員として数多くのフライトを経験した現役CAが監修し、パイロットも推奨するこだわりのスーツケースです。機内持ち込み対応サイズから大型まで揃っており、静音設計やキャスター交換可能といった快適な移動をサポートする機能が備わっています。期間限定でお得な価格から手に入るこの機会に、次の旅行や出張の準備を始めてみませんか？
+ANAの国内線で実際に使用されていたシート素材を再利用した、数量限定のスクエアトートバッグ（グリーン）が登場しました。B747やA320といった航空ファンお馴染みの機体の歴史を感じられる、特別感のあるアイテムです。お出かけのコーディネートにアクセントを添える、こだわりの逸品をぜひチェックしてみてください。
 
-価格: ¥6,480
+価格: ¥13,000
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00uj41m.c5l90882.g00uj41m.c5l91554/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvelskyf%2Fvelskyf01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvelskyf%2Fi%2F10000000%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00pxmsm.c5l90986.g00pxmsm.c5l911f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fheimat%2F8000546%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fheimat%2Fi%2F10003224%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 5. パルちゃん
+## 5. 草刈り
 
-[【パルちゃん静岡おでん】静岡 名物 おでん 静岡おでん エスパルス 鍋 レトルト 大根 7種類 ご当地 惣菜 牛すじ おでん たまご こんにゃく ごぼう巻 黒はんぺん ちくわ お取り寄せグルメ おつまみ ご当地 名産](https://hb.afl.rakuten.co.jp/hgc/g00so9hm.c5l9010f.g00so9hm.c5l91ab2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasuboshi%2Foden-pulchan%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsasuboshi%2Fi%2F10000230%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【お買い物マラソン最大2,000円OFFクーポン配布中！】＜週間ランキング1位＞ 充電式草刈機 コードレス草刈り機 草刈り機 刈払機 電動 エンジン式 除草軽量 庭 園芸 雑草 刈払機 充電 軽量 安全 無線 替刃3種類 角度調整 バッテリー2セット 1年保証 送料無料 PSE認証](https://hb.afl.rakuten.co.jp/hgc/g00tq13m.c5l909d0.g00tq13m.c5l91aaf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmomo-nextinnovation%2Fb08gqw9ggt2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmomo-nextinnovation%2Fi%2F10001250%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【パルちゃん静岡おでん】静岡 名物 おでん 静岡おでん エスパルス 鍋 レトルト 大根 7種類 ご当地 惣菜 牛すじ おでん たまご こんにゃく ごぼう巻 黒はんぺん ちくわ お取り寄せグルメ おつまみ ご当地 名産](https://thumbnail.image.rakuten.co.jp/@0_mall/sasuboshi/cabinet/oden/oden-pulchan/image.jpg?_ex=128x128)
+![【お買い物マラソン最大2,000円OFFクーポン配布中！】＜週間ランキング1位＞ 充電式草刈機 コードレス草刈り機 草刈り機 刈払機 電動 エンジン式 除草軽量 庭 園芸 雑草 刈払機 充電 軽量 安全 無線 替刃3種類 角度調整 バッテリー2セット 1年保証 送料無料 PSE認証](https://thumbnail.image.rakuten.co.jp/@0_mall/momo-nextinnovation/cabinet/11965347/1111.jpg?_ex=128x128)
 
-話題のパルちゃんといえば、サッカーファンにおなじみの人気マスコットですが、実はご当地の美味しい名物グルメとしても楽しめるのをご存知ですか？清水エスパルスの雰囲気を自宅でも味わえる「パルちゃん静岡おでん」は、牛すじや黒はんぺんなど7種類の具材がたっぷり入ったレトルト商品です。価格も1,140円とお手頃なので、サッカー観戦のおつまみや手軽なお取り寄せグルメとしてぜひチェックしてみてください！
+暖かくなってくると急に伸びてくる雑草にお困りではありませんか？そんな草刈りの負担をグッと軽減してくれるコードレスの充電式草刈機が、今ならお得なクーポン付きで手に入ります。軽量設計で扱いやすく、初心者でも手軽に庭のお手入れができるおすすめのアイテムです！
 
-価格: ¥1,140
+価格: ¥4,200
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00so9hm.c5l9010f.g00so9hm.c5l91ab2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasuboshi%2Foden-pulchan%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsasuboshi%2Fi%2F10000230%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tq13m.c5l909d0.g00tq13m.c5l91aaf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmomo-nextinnovation%2Fb08gqw9ggt2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmomo-nextinnovation%2Fi%2F10001250%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 6. ちいかわしまむら
+## 6. jal 国内線
 
-[【中古】アクセサリー(非金属) ちいかわ＆ハチワレ キッズ ヘアゴム 2点セット 「ちいかわ なんか小さくてかわいいやつ×しまむら」](https://hb.afl.rakuten.co.jp/hgc/g00qk9am.c5l90c88.g00qk9am.c5l91107/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsurugaya-a-too%2F128063228-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsurugaya-a-too%2Fi%2F356558983%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【ふるさと納税】JAL国内線ファーストクラスに採用！「前（さき）純米大吟醸 純米酒セット」（日本酒） 019-D105 【 日本酒 佐賀地酒 酒 お酒 飲み比べ 2本セット 晩酌 純米酒 アルコール やや辛口 四合瓶 嗜好品 冷酒 冷や ぬる燗 日本酒セット 古伊万里 贈り物 嗜好品 】](https://hb.afl.rakuten.co.jp/hgc/g00tnnkm.c5l90fa8.g00tnnkm.c5l91229/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff412058-imari%2F10000085%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff412058-imari%2Fi%2F10000085%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![【中古】アクセサリー(非金属) ちいかわ＆ハチワレ キッズ ヘアゴム 2点セット 「ちいかわ なんか小さくてかわいいやつ×しまむら」](https://thumbnail.image.rakuten.co.jp/@0_mall/surugaya-a-too/cabinet/8190/871849642m.jpg?_ex=128x128)
+![【ふるさと納税】JAL国内線ファーストクラスに採用！「前（さき）純米大吟醸 純米酒セット」（日本酒） 019-D105 【 日本酒 佐賀地酒 酒 お酒 飲み比べ 2本セット 晩酌 純米酒 アルコール やや辛口 四合瓶 嗜好品 冷酒 冷や ぬる燗 日本酒セット 古伊万里 贈り物 嗜好品 】](https://thumbnail.image.rakuten.co.jp/@0_mall/f412058-imari/cabinet/item/019/d105-01.jpg?_ex=128x128)
 
-大人気の「ちいかわ」としまむらのコラボグッズは、発売のたびに大きな話題を集める見逃せないアイテムです。
-今回ご紹介するのは、ちいかわ＆ハチワレのモチーフがとっても可愛いキッズ用ヘアゴム2点セットです。
-普段のコーディネートのワンポイントにぴったりのアクセサリーを、ぜひチェックしてみてくださいね！
+JAL国内線ファーストクラスの機内食として採用された実績を持つ、佐賀の銘酒「前（さき）純米大吟醸 純米酒セット」は、自宅での晩酌や贈り物にぴったりの逸品です。旅行気分を味わいながら、こだわりの日本酒の飲み比べを楽しんでみてはいかがでしょうか。
 
-価格: ¥1,000
+価格: ¥17,000
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00qk9am.c5l90c88.g00qk9am.c5l91107/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsurugaya-a-too%2F128063228-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsurugaya-a-too%2Fi%2F356558983%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tnnkm.c5l90fa8.g00tnnkm.c5l91229/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff412058-imari%2F10000085%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff412058-imari%2Fi%2F10000085%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 7. 三浦大輔
+
+[踏み出せば何かが変わる [ 三浦大輔 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15318881%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F18957688%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![踏み出せば何かが変わる [ 三浦大輔 ]](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0583/9784865900583.jpg?_ex=128x128)
+
+横浜DeNAベイスターズの指揮官として熱い注目を集める、三浦大輔監督の書籍『踏み出せば何かが変わる』は、ファンの間でも話題の一冊です（1,430円）。苦難を乗り越えて挑戦し続けるその生き様や言葉の数々は、日々を前向きに生きるための大きなヒントを与えてくれます。気になった方は、ぜひチェックしてみてはいかがでしょうか。
+
+価格: ¥1,430
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15318881%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F18957688%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 8. カグラバチ
+
+[[新品]カグラバチ (1-11巻 最新刊) 全巻セット](https://hb.afl.rakuten.co.jp/hgc/g00qci0m.c5l9000c.g00qci0m.c5l91ff5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmangazenkan%2Fm8880499183%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmangazenkan%2Fi%2F10314970%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![[新品]カグラバチ (1-11巻 最新刊) 全巻セット](https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/syncip_0055/m8880499183_01.jpg?_ex=128x128)
+
+話題沸騰中の大人気ダークファンタジー『カグラバチ』をイッキ読みしたい方には、全巻セットでの購入がおすすめです。
+最新刊の11巻まで揃っているので、物語の世界観にどっぷりと浸かりながら一気に楽しむことができます。
+
+価格: ¥6,292
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00qci0m.c5l9000c.g00qci0m.c5l91ff5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmangazenkan%2Fm8880499183%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmangazenkan%2Fi%2F10314970%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 9. ルーンファクトリー6
+
+[[Switch] 龍の国 ルーンファクトリー （ダウンロード版）　※6,400ポイントまでご利用可 ●](https://hb.afl.rakuten.co.jp/hgc/g00pul2m.c5l90611.g00pul2m.c5l9102d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frdownload%2F803134881%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frdownload%2Fi%2F18492866%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![[Switch] 龍の国 ルーンファクトリー （ダウンロード版）　※6,400ポイントまでご利用可 ●](https://thumbnail.image.rakuten.co.jp/@0_mall/rdownload/cabinet/thumbs/800000079/0/802252400_p.jpg?_ex=128x128)
+
+大人気シリーズの最新作として期待が高まる「ルーンファクトリー6」の話題とあわせて、同系列のシリーズとしてNintendo Switchで楽しめる『龍の国 ルーンファクトリー』のダウンロード版もぜひチェックしてみてください。価格は¥7,678となっており、ポイントの利用も可能ですので、新しい冒険への一歩として検討してみてはいかがでしょうか。
+
+価格: ¥7,678
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00pul2m.c5l90611.g00pul2m.c5l9102d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frdownload%2F803134881%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frdownload%2Fi%2F18492866%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 10. 仏足石
+
+[仏足石ブッダの足跡のTシャツ【サイズ：L 】【3980円以上で】送料無料　Tシャツ　メンズ　ブッダTシャツ　仏陀Tシャツ　仏足石　ブッダのTシャル　仏教Tシャツ　ゴーダマシッタールタ　ヨガ　ヨガTシャツ　YOGA　レッスン　プレゼント包装無料](https://hb.afl.rakuten.co.jp/hgc/g00r1fsm.c5l9059f.g00r1fsm.c5l91752/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasian-latino%2Fte70804a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasian-latino%2Fi%2F10004302%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![仏足石ブッダの足跡のTシャツ【サイズ：L 】【3980円以上で】送料無料　Tシャツ　メンズ　ブッダTシャツ　仏陀Tシャツ　仏足石　ブッダのTシャル　仏教Tシャツ　ゴーダマシッタールタ　ヨガ　ヨガTシャツ　YOGA　レッスン　プレゼント包装無料](https://thumbnail.image.rakuten.co.jp/@0_mall/asian-latino/cabinet/03204482/te70804-1.jpg?_ex=128x128)
+
+近年、歴史やスピリチュアルなモチーフとして注目を集めている「仏足石」ですが、なんとそれをデザインした個性的なTシャツが登場しました。
+ブッダの足跡をモチーフにしたユニークなデザインは、ヨガのレッスンウェアや普段着としても、周りと被らないおしゃれを楽しめる一着です。
+プレゼント包装も無料なので、仏教美術やユニークなアパレルが好きな方への贈り物にもおすすめですよ！
+
+価格: ¥3,180
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00r1fsm.c5l9059f.g00r1fsm.c5l91752/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasian-latino%2Fte70804a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasian-latino%2Fi%2F10004302%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
 ---
 
