@@ -1,113 +1,107 @@
 ---
 title: "今話題のトレンド × Amazonのおすすめ商品"
-date: "2026-08-24T16:25:38.925Z"
+date: "2026-08-24T18:27:42.336Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連するAmazonのおすすめ商品を紹介します。"
 tags: ["トレンド", "Amazon"]
 ---
-## 1. ana
+## 1. apple 折りたたみ iphone
 
-[【2箱セット】ANA 機内限定 コンソメスープ (２０袋入/２箱セット)　ANAオリジナル　コンソメ](https://www.amazon.co.jp/dp/B079KZ28MR?tag=ikeponsu0b-22)
+[【2026年最新型】折りたたみ 充電器 3in1 iPhone Apple Watch AirPods 同時充電 MagSafe対応 15W急速充電 旅行用 ワイヤレス充電器 【20W PDアダプター付属】](https://www.amazon.co.jp/dp/B0GDWMWLMF?tag=ikeponsu0b-22)
 
-![【2箱セット】ANA 機内限定 コンソメスープ (２０袋入/２箱セット)　ANAオリジナル　コンソメ](https://m.media-amazon.com/images/I/41enfMPtpwL._SL160_.jpg)
+![【2026年最新型】折りたたみ 充電器 3in1 iPhone Apple Watch AirPods 同時充電 MagSafe対応 15W急速充電 旅行用 ワイヤレス充電器 【20W PDアダプター付属】](https://m.media-amazon.com/images/I/41bMXM21vRL._SL160_.jpg)
 
-旅行や出張の際、飛行機の中で楽しみにしている方もが多いANAのコンソメスープですが、実はご自宅でもあの味が気軽に楽しめるんです。
-【2箱セット】ANA 機内限定 コンソメスープ (２０袋入/２箱セット)　ANAオリジナル　コンソメ（￥2,598）なら、おうち時間をちょっと贅沢な空の旅の気分に変えてくれます。
-温かいスープでホッと一息つきたい時に、ぜひチェックしてみてはいかがでしょうか。
+次世代の「折りたたみiPhone」の噂で持ちきりですが、新しいデバイスを迎える前に充電周りもすっきりと整えておきませんか？
+こちらの「3in1ワイヤレス充電器」なら、iPhone・Apple Watch・AirPodsを同時にすっきり15W急速充電でき、折りたたみ式で旅行にもぴったりです。
+話題の最新ガジェットと合わせて、ぜひチェックしてみてくださいね！
 
-価格: ￥2,598
+価格: ￥3,790
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B079KZ28MR?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0GDWMWLMF?tag=ikeponsu0b-22)
 
-## 2. ana 国内線
+## 2. 大使
 
-[ユーキャンの国内旅行業務取扱管理者 過去問題集 2026年版【CBT（体験版）つき／JR東日本の運賃改定＆ANA国内線運賃の刷新に対応！】 (ユーキャンの資格試験シリーズ)](https://www.amazon.co.jp/dp/4426617073?tag=ikeponsu0b-22)
+[日中外交秘録 垂秀夫駐中国大使の闘い](https://www.amazon.co.jp/dp/4163919872?tag=ikeponsu0b-22)
 
-![ユーキャンの国内旅行業務取扱管理者 過去問題集 2026年版【CBT（体験版）つき／JR東日本の運賃改定＆ANA国内線運賃の刷新に対応！】 (ユーキャンの資格試験シリーズ)](https://m.media-amazon.com/images/I/513s5bUOIEL._SL160_.jpg)
+![日中外交秘録 垂秀夫駐中国大使の闘い](https://m.media-amazon.com/images/I/51Ddr9aQi1L._SL160_.jpg)
 
-ANA国内線運賃の刷新など、最新の業界動向に対応した『ユーキャンの国内旅行業務取扱管理者 過去問題集 2026年版』は、試験対策に欠かせない一冊です（価格：2,420円）。実務に直結する知識を効率よく学べるため、今年こそ資格取得を目指したい方におすすめの教材です。
+日中関係の「いま」を深く理解する上で、最前線で交渉に臨んだ「大使」の存在は欠かせないキーワードとなっています。本書『日中外交秘録 垂秀夫駐中国大使の闘い』では、元駐中国大使が激動の外交舞台の裏側を赤裸々に綴っており、緊迫する国際情勢のリアルを知るための必読の一冊です（価格：税込2,750円）。外交の最前線で何が起きていたのか、その真実に触れてみてはいかがでしょうか。
 
-価格: ￥2,420
+価格: ￥2,750
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4426617073?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/4163919872?tag=ikeponsu0b-22)
 
-## 3. 草刈り
+## 3. gboard
 
-[千吉(Senkichi) アルミ柄 マルチ草削り鍬 柄長約1,200mm 多用途に使える ステンレスヘッド ギザ刃付](https://www.amazon.co.jp/dp/B07B6GLQXQ?tag=ikeponsu0b-22)
+[Ewin ワイヤレス 折りたたみキーボード bluetooth接続 タッチパッド付き 日本語配列 コンパクト 薄型 軽量 ipad iphone用](https://www.amazon.co.jp/dp/B0FJM32HGN?tag=ikeponsu0b-22)
 
-![千吉(Senkichi) アルミ柄 マルチ草削り鍬 柄長約1,200mm 多用途に使える ステンレスヘッド ギザ刃付](https://m.media-amazon.com/images/I/31kPFQYCltL._SL160_.jpg)
+![Ewin ワイヤレス 折りたたみキーボード bluetooth接続 タッチパッド付き 日本語配列 コンパクト 薄型 軽量 ipad iphone用](https://m.media-amazon.com/images/I/41xBm33zfBL._SL160_.jpg)
 
-暖かくなって雑草が気になる季節ですが、そんな「草刈り」や庭のお手入れをぐっと楽にしてくれるのが「千吉 アルミ柄 マルチ草削り鍬」です。
-軽量なアルミ柄とマルチに使えるステンレスヘッド、ギザ刃の組み合わせで、雑草削りから土づくりまでこれ一本で効率よく作業できますよ（価格：￥3,282）。
+スマホやタブレットでの文字入力をさらに快適にしてくれる「Gboard」などのキーボードアプリと合わせて使うなら、Ewinのワイヤレス折りたたみキーボードが非常におすすめです。
+タッチパッド付きのコンパクトな日本語配列でありながら、わずか3,128円という手頃な価格で購入できるため、外出先でのタイピング環境をすっきりと整えたい方にぴったりのアイテムです。
 
-価格: ￥3,282
+価格: ￥3,128
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B07B6GLQXQ?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0FJM32HGN?tag=ikeponsu0b-22)
 
-## 4. jal 国内線
+## 4. ベッセント
 
-[JALUX キャンディデスカイ 121g×5個](https://www.amazon.co.jp/dp/B0CXCDZZM3?tag=ikeponsu0b-22)
+[世界秩序が変わるとき　新自由主義からのゲームチェンジ (文春新書)](https://www.amazon.co.jp/dp/B0DQ7WQNPM?tag=ikeponsu0b-22)
 
-![JALUX キャンディデスカイ 121g×5個](https://m.media-amazon.com/images/I/31j1E+aLNSL._SL160_.jpg)
+![世界秩序が変わるとき　新自由主義からのゲームチェンジ (文春新書)](https://m.media-amazon.com/images/I/513phRRhi0L._SL160_.jpg)
 
-JALの国内線で長年親しまれてきた人気の味わいをご自宅でも楽しめる、「JALUX キャンディデスカイ 121g×5個」が税込1,620円で販売中です。旅の思い出を振り返りながら、優しい甘さのキャンディでホッと一息つくティータイムを過ごしてみてはいかがでしょうか。
+最近ニュースで注目を集める「ベッセント」というキーワードですが、今後の世界経済や政治の動向を深く理解する上で、現代の大きな転換期を知ることは欠かせません。『世界秩序が変わるとき　新自由主義からのゲームチェンジ』（文春新書／￥1,100）は、まさにそのような時代の変化の背景を読み解くのにぴったりな一冊です。複雑化する国際情勢の仕組みやこれからの世界秩序に関心がある方は、ぜひ手に取ってみてはいかがでしょうか。
 
-価格: ￥1,620
+価格: ￥1,100
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0CXCDZZM3?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0DQ7WQNPM?tag=ikeponsu0b-22)
 
-## 5. 三浦大輔
+## 5. miss
 
-[踏み出せば何かが変わる](https://www.amazon.co.jp/dp/4865900586?tag=ikeponsu0b-22)
+[Miss.リベンジ](https://www.amazon.co.jp/dp/B0H1SZ59Y5?tag=ikeponsu0b-22)
 
-![踏み出せば何かが変わる](https://m.media-amazon.com/images/I/51xvgpQ47eL._SL160_.jpg)
+![Miss.リベンジ](https://m.media-amazon.com/images/I/51iaXAVH1sL._SL160_.jpg)
 
-横浜DeNAベイスターズの指揮を執り、熱い闘志と独自の美学でファンを魅了し続ける「番長」こと三浦大輔監督。
-彼がこれまでの人生経験や幾多の試練から得た深い言葉の数々は、多くの人々の背中を押してくれます。
-書籍『踏み出せば何かが変わる』（￥1,430）を通じて、一歩を踏み出す勇気や前向きなマインドを受け取ってみませんか。
+最近ネットやSNSでよく見かける「miss」というワードですが、実は見逃せない話題の関連アイテムがあるんです。それが話題の「Miss.リベンジ」です。なんと、今なら￥0でお試しできるので、気になる方はぜひチェックしてみてくださいね！
 
-価格: ￥1,430
+価格: ￥0
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4865900586?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H1SZ59Y5?tag=ikeponsu0b-22)
 
-## 6. カグラバチ
+## 6. gta6
 
-[カグラバチ 12 (ジャンプコミックスDIGITAL)](https://www.amazon.co.jp/dp/B0HCMYQQHW?tag=ikeponsu0b-22)
+[【PS5】グランド・セフト・オートVI(コードインボックス版、配送日：2026年11月12日、プレイ開始日：2026年11月19日)](https://www.amazon.co.jp/dp/B0H9XJ3V8K?tag=ikeponsu0b-22)
 
-![カグラバチ 12 (ジャンプコミックスDIGITAL)](https://m.media-amazon.com/images/I/31RxWIPH+cL._SL160_.jpg)
+![【PS5】グランド・セフト・オートVI(コードインボックス版、配送日：2026年11月12日、プレイ開始日：2026年11月19日)](https://m.media-amazon.com/images/I/51SQhj10S+L._SL160_.jpg)
 
-話題沸騰中の大人気漫画『カグラバチ』の最新刊、ジャンプコミックスDIGITAL版『カグラバチ 12』が配信開始となりました！
-手に汗握る重厚なストーリーと迫力のアクションを、電子書籍でいつでも手軽にお楽しみいただけます。
-価格も572円（税込）となっておりますので、この機会にぜひチェックしてみてください！
+世界中から大きな注目を集めている「GTA6」ですが、ついに待望の最新作を自宅でじっくり楽しむための予約受付がスタートしました。圧倒的なスケールで描かれるオープンワールドの世界をいち早く体験したい方は、ぜひチェックしてみてください！価格は8,337円となっています。
 
-価格: ￥572
+価格: ￥8,337
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0HCMYQQHW?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H9XJ3V8K?tag=ikeponsu0b-22)
 
-## 7. ルーンファクトリー6
+## 7. 今日の月
 
-[龍の国 ルーンファクトリー - Switch](https://www.amazon.co.jp/dp/B0DT3J2176?tag=ikeponsu0b-22)
+[今日も月が綺麗 (ディアプラス・コミックス)](https://www.amazon.co.jp/dp/B00NOTHN2W?tag=ikeponsu0b-22)
 
-![龍の国 ルーンファクトリー - Switch](https://m.media-amazon.com/images/I/51kN7sdlQqL._SL160_.jpg)
+![今日も月が綺麗 (ディアプラス・コミックス)](https://m.media-amazon.com/images/I/513RdCPmicL._SL160_.jpg)
 
-「ルーンファクトリー6」の続報や関連情報に注目が集まる中、シリーズの新たな挑戦として話題となっている『龍の国 ルーンファクトリー - Switch』もぜひチェックしておきたいタイトルです。価格は現在4,600円となっていますので、ファンタジー世界でのスローライフと冒険を新たに楽しみたい方は、この機会にNintendo Switchで手に取ってみてはいかがでしょうか。
+今夜は「今日の月」を眺めて、ゆったりとした夜を過ごしてみませんか？ おすすめのコミックス『今日も月が綺麗』は、そんな情緒ある夜の読書にぴったりの心温まる一冊です（価格：￥660）。
 
-価格: ￥4,600
+価格: ￥660
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0DT3J2176?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B00NOTHN2W?tag=ikeponsu0b-22)
 
-## 8. 仏足石
+## 8. 山田裕貴
 
-[東南アジアの仏足石](https://www.amazon.co.jp/dp/4839603421?tag=ikeponsu0b-22)
+[夜、鳥たちが啼く](https://www.amazon.co.jp/dp/B0BX2YT6HL?tag=ikeponsu0b-22)
 
-![東南アジアの仏足石](https://m.media-amazon.com/images/I/51wvIwTi4zL._SL160_.jpg)
+![夜、鳥たちが啼く](https://m.media-amazon.com/images/I/516lLmxPXfL._SL160_.jpg)
 
-近年、お寺の参拝などで見かける機会が増えている「仏足石」ですが、ご自宅でもその雰囲気を楽しめるアイテムとして注目を集めています。
-今回おすすめする「東南アジアの仏足石」（4,400円）は、独特の温かみを感じられるデザインが特徴の一品です。
-お部屋のインテリアや、アジア雑貨が好きな方へのちょっとしたアクセントにいかがでしょうか。
+今大注目の俳優・山田裕貴さんが圧倒的な存在感を放つ映画『夜、鳥たちが啼く』は、人間の複雑な感情をリアルに描いた必見のヒューマンドラマです。現在プライムビデオなどの各種配信サービスで見放題（￥0）として楽しめる作品なので、この機会にぜひチェックしてみてください。
 
-価格: ￥4,400
+価格: ￥0
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4839603421?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0BX2YT6HL?tag=ikeponsu0b-22)
 
 ---
 
