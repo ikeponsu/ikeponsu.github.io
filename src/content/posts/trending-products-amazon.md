@@ -1,85 +1,81 @@
 ---
 title: "今話題のトレンド × Amazonのおすすめ商品"
-date: "2026-08-26T04:31:40.874Z"
+date: "2026-08-26T06:33:11.183Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連するAmazonのおすすめ商品を紹介します。"
 tags: ["トレンド", "Amazon"]
 ---
-## 1. playstation plus
+## 1. 上坂樹里
 
-[プレイステーション ストアチケット 1,100円|オンラインコード版](https://www.amazon.co.jp/dp/B08M6B8JL1?tag=ikeponsu0b-22)
+[ロマンティック・キラー](https://www.amazon.co.jp/dp/B0GQDL5B3C?tag=ikeponsu0b-22)
 
-![プレイステーション ストアチケット 1,100円|オンラインコード版](https://m.media-amazon.com/images/I/41Ei2MfbbjL._SL160_.jpg)
+![ロマンティック・キラー](https://m.media-amazon.com/images/I/51lajROd9RL._SL160_.jpg)
 
-PlayStation Plusの利用料金の支払いなどに便利な「プレイステーション ストアチケット 1,100円」は、手軽にチャージできてとても便利です。
-ワンコイン＋αの価格設定なので、お財布に優しくピンポイントで残高を追加したいときにおすすめです。
+話題の若手女優として注目を集める上坂樹里さんが気になっている方には、キュートな魅力がたっぷり詰まった原作コミック『ロマンティック・キラー』もおすすめです。電子書籍なら￥400という手頃な価格で、クスッと笑えるラブコメディを今すぐ手軽に楽しめますよ。
 
-価格: ￥1,100
+価格: ￥400
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B08M6B8JL1?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0GQDL5B3C?tag=ikeponsu0b-22)
 
-## 2. 精巣
+## 2. 大韓民国
 
-[教育精巣度計小児臨床評価のための木製ー スケール 木製精巣計は小児科医による臨床教育と評価のための実用的な基準スケー](https://www.amazon.co.jp/dp/B0HDSWWSSP?tag=ikeponsu0b-22)
+[ラスト・プリンセス　大韓帝国最後の皇女（字幕版）](https://www.amazon.co.jp/dp/B0GR6QPHWD?tag=ikeponsu0b-22)
 
-![教育精巣度計小児臨床評価のための木製ー スケール 木製精巣計は小児科医による臨床教育と評価のための実用的な基準スケー](https://m.media-amazon.com/images/I/41-EcmLHQ9L._SL160_.jpg)
+![ラスト・プリンセス　大韓帝国最後の皇女（字幕版）](https://m.media-amazon.com/images/I/51g1o7Xz1CL._SL160_.jpg)
 
-小児科の臨床現場や教育現場で役立つ「教育精巣度計小児臨床評価のための木製ースケール」は、精巣の大きさを確認するための実用的な基準ツールです。木製の温かみがあるデザインで、小児医療の学習や評価をサポートします。価格も2,159円とお求めやすくなっておりますので、この機会にぜひチェックしてみてください。
-
-価格: ￥2,159
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0HDSWWSSP?tag=ikeponsu0b-22)
-
-## 3. 佐々木成三
-
-[刑事だけが知っている「対話する力」 (小学館新書 516)](https://www.amazon.co.jp/dp/4098255162?tag=ikeponsu0b-22)
-
-![刑事だけが知っている「対話する力」 (小学館新書 516)](https://m.media-amazon.com/images/I/41Hci9+UBnL._SL160_.jpg)
-
-元埼玉県警捜査一課の人気刑事・佐々木成三さんの話題から、「対話」について深く学んでみませんか？
-著書『刑事だけが知っている「対話する力」』（小学館新書／税込1,078円）では、現場の最前線で培われたコミュニケーションの極意が分かりやすく解説されています。
-人間関係を円滑にするヒントが詰まった一冊、ぜひチェックしてみてください。
-
-価格: ￥1,078
-
-[Amazonで見る](https://www.amazon.co.jp/dp/4098255162?tag=ikeponsu0b-22)
-
-## 4. パラグライダー
-
-[パラグライダー 夢が離陸する場所 パラグライダー Tシャツ](https://www.amazon.co.jp/dp/B0CHP7JVZW?tag=ikeponsu0b-22)
-
-![パラグライダー 夢が離陸する場所 パラグライダー Tシャツ](https://m.media-amazon.com/images/I/41OianF7WCL._SL160_.jpg)
-
-大空を自由に舞うパラグライダーの爽快感は、一度体験すると忘れられない魅力に満ちていますよね。そんな空への憧れをさりげなく表現できる「パラグライダー 夢が離陸する場所 パラグライダー Tシャツ」（￥2,200）は、フライトのお供や日常のカジュアルコーデにもぴったりのアイテムです。風を感じる季節の装いに、ぜひ取り入れてみてはいかがでしょうか。
-
-価格: ￥2,200
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0CHP7JVZW?tag=ikeponsu0b-22)
-
-## 5. スタバ
-
-[スターバックス オリガミ パーソナルドリップコーヒー 3種アソートBOX​(12杯分)【 コーヒー ドリップ 】【 レギュラーコーヒー 】【 ブラックコーヒー 】【 ギフト 】【 個包装 】](https://www.amazon.co.jp/dp/B0GCM89KYK?tag=ikeponsu0b-22)
-
-![スターバックス オリガミ パーソナルドリップコーヒー 3種アソートBOX​(12杯分)【 コーヒー ドリップ 】【 レギュラーコーヒー 】【 ブラックコーヒー 】【 ギフト 】【 個包装 】](https://m.media-amazon.com/images/I/51sPgb-Fd6L._SL160_.jpg)
-
-自宅でも手軽にあのスタバの味わいを楽しみたい方には、「スターバックス オリガミ パーソナルドリップコーヒー 3種アソートBOX」がおすすめです。
-お湯を注ぐだけで本格的な一杯が完成する個包装タイプなので、気分に合わせて異なる風味を気軽に飲み比べることができます。
-価格も1,912円とお手頃で、ご自宅用はもちろんちょっとしたギフトにもぴったりなアイテムです。
-
-価格: ￥1,912
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0GCM89KYK?tag=ikeponsu0b-22)
-
-## 6. よしもと
-
-[ヨシモトオノ: 文藝春秋](https://www.amazon.co.jp/dp/B0FJLJX4PG?tag=ikeponsu0b-22)
-
-![ヨシモトオノ: 文藝春秋](https://m.media-amazon.com/images/I/51-N-yis-fL._SL160_.jpg)
-
-いま話題の「よしもと」に関連して、お笑い界やエンタメの裏側に興味がある方にはヨシモトオノ: 文藝春秋もチェックしてみるのがおすすめです。現在Kindle版などで￥0となっているため、気軽に手に取って読みやすい一冊となっています。
+近年ますます関心が高まる大韓民国の歴史や文化に触れてみたい方には、映画『ラスト・プリンセス 大韓帝国最後の皇女（字幕版）』がおすすめです。激動の時代に翻弄された皇女の生涯を描いたドラマチックな作品を、今ならアマプラ（プライムビデオ）の対象作品として￥0でお楽しみいただけます。歴史の知られざる一面を映像でじっくりと感じてみてはいかがでしょうか。
 
 価格: ￥0
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0FJLJX4PG?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0GR6QPHWD?tag=ikeponsu0b-22)
+
+## 3. 栗山巧
+
+[獅子貫徹 ライオンズ一筋25年、理想の打撃を追い求めて](https://www.amazon.co.jp/dp/404117659X?tag=ikeponsu0b-22)
+
+![獅子貫徹 ライオンズ一筋25年、理想の打撃を追い求めて](https://m.media-amazon.com/images/I/51OZsF18ZEL._SL160_.jpg)
+
+埼玉西武ライオンズのレジェンド・栗山巧選手の魅力を深く知りたい方には、書籍『獅子貫徹 ライオンズ一筋25年、理想の打撃を追い求めて』がおすすめです。
+長年チームを支え続けた生き様や打撃論が詰まった一冊となっており、ファン必見の内容を価格1,980円でお楽しみいただけます。
+
+価格: ￥1,980
+
+[Amazonで見る](https://www.amazon.co.jp/dp/404117659X?tag=ikeponsu0b-22)
+
+## 4. ウィル・スミス
+
+[アイ，ロボット](https://www.amazon.co.jp/dp/B0B8TLCD25?tag=ikeponsu0b-22)
+
+![アイ，ロボット](https://m.media-amazon.com/images/I/51FrCb8VW7L._SL160_.jpg)
+
+近年の映画出演やニュースでも大きな注目を集めるウィル・スミスですが、彼の出演作を振り返るなら名作SF映画『アイ，ロボット』は見逃せません。人間とロボットの共存をテーマにした緊迫感あふれるストーリーと、彼が演じる主人公の熱いアクションが今なお多くのファンを魅了し続けています。
+
+価格: ￥0
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B0B8TLCD25?tag=ikeponsu0b-22)
+
+## 5. パン
+
+[食彩館　天然酵母パン　12個セット](https://www.amazon.co.jp/dp/B00363ERWA?tag=ikeponsu0b-22)
+
+![食彩館　天然酵母パン　12個セット](https://m.media-amazon.com/images/I/51Awn3V7NnL._SL160_.jpg)
+
+最近トレンドの美味しいパンをお探しなら、「食彩館 天然酵母パン 12個セット」がおすすめです。こだわりの天然酵母を使用したバラエティ豊かなパンがたっぷり楽しめて、価格も1,955円とお手頃です。ご自宅での朝食やティータイムを、ちょっと贅沢なひとときにしてみませんか？
+
+価格: ￥1,955
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B00363ERWA?tag=ikeponsu0b-22)
+
+## 6. 続編
+
+[続・猿の惑星 (字幕版)](https://www.amazon.co.jp/dp/B00IHWG24Q?tag=ikeponsu0b-22)
+
+![続・猿の惑星 (字幕版)](https://m.media-amazon.com/images/I/51lwVSgcUSL._SL160_.jpg)
+
+名作映画の「続編」を探している方必見の名作SF、『続・猿の惑星 (字幕版)』が現在プライムビデオなどで追加料金なしの￥0で楽しめます。前作の衝撃的なラストから続く謎がどのように解き明かされるのか、この機会にぜひチェックしてみてください。
+
+価格: ￥0
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B00IHWG24Q?tag=ikeponsu0b-22)
 
 ---
 
