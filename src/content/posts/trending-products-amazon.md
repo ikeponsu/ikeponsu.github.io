@@ -1,94 +1,106 @@
 ---
 title: "今話題のトレンド × Amazonのおすすめ商品"
-date: "2026-08-26T14:36:27.541Z"
+date: "2026-08-26T16:42:48.727Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連するAmazonのおすすめ商品を紹介します。"
 tags: ["トレンド", "Amazon"]
 ---
-## 1. イチロー
+## 1. tim curry
 
-[走れ！イチロー](https://www.amazon.co.jp/dp/B0GZVT3W5B?tag=ikeponsu0b-22)
+[Vagabond: A Memoir (English Edition)](https://www.amazon.co.jp/dp/B0DYGB23Z4?tag=ikeponsu0b-22)
 
-![走れ！イチロー](https://m.media-amazon.com/images/I/517GXmPs3cL._SL160_.jpg)
+![Vagabond: A Memoir (English Edition)](https://m.media-amazon.com/images/I/41t+wZWKb3L._SL160_.jpg)
 
-元メジャーリーガーのイチローさんの生き様や偉大な功績が改めて話題となる中、彼の現役時代の魅力を違った角度から楽しめる作品として『走れ！イチロー』をご紹介します。映画の中で描かれる熱い人間ドラマや臨場感あふれるストーリーは、ファンならずとも心揺さぶられる内容です。現在Amazonプライムビデオなどの対象作品として￥0で見放題となっているため、この機会にぜひチェックしてみてはいかがでしょうか。
+映画『ロッキー・ホラー・ショー』や『IT』などで強烈な存在感を放つ名優ティム・カリーのファンなら見逃せないのが、こちらの自伝『Vagabond: A Memoir』です。彼の波乱万丈なキャリアや舞台裏の素顔に迫る一冊で、価格も￥1,937とお求めやすくなっています。俳優としての軌跡を深く知りたい方は、ぜひチェックしてみてくださいね。
 
-価格: ￥0
+価格: ￥1,937
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0GZVT3W5B?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0DYGB23Z4?tag=ikeponsu0b-22)
 
-## 2. 税金で買った本 ドラマ
+## 2. 君は夏のなか
 
-[税金で買った本(20) (ヤングマガジンKC)](https://www.amazon.co.jp/dp/B0GZ5T88T7?tag=ikeponsu0b-22)
+[君は夏のなか (gateauコミックス)](https://www.amazon.co.jp/dp/B0747GZLYJ?tag=ikeponsu0b-22)
 
-![税金で買った本(20) (ヤングマガジンKC)](https://m.media-amazon.com/images/I/51RmhqQ4MNL._SL160_.jpg)
+![君は夏のなか (gateauコミックス)](https://m.media-amazon.com/images/I/41LoyRppDjL._SL160_.jpg)
 
-話題沸騰中のドラマ化でも注目を集めている『税金で買った本』ですが、物語の続きが気になる方には最新の第20巻（ヤングマガジンKC・税込792円）のチェックがおすすめです。図書館を舞台にしたリアルでユニークな日常を、ぜひ原作コミックでもじっくり楽しんでみてくださいね。
+話題のコミック『君は夏のなか』が、今ブログでも大きな注目を集めていますね。
+甘酸っぱくて爽やかな青春の空気感を存分に楽しめる、gateauコミックス版（￥374）の魅力はそのままお手元でじっくり堪能できます。
+心揺さぶられるピュアな物語に浸りたい方は、ぜひチェックしてみてはいかがでしょうか。
 
-価格: ￥792
+価格: ￥374
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0GZ5T88T7?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0747GZLYJ?tag=ikeponsu0b-22)
 
-## 3. 土石流
+## 3. ig
 
-[地すべり・崩壊・土石流: 予測と対策](https://www.amazon.co.jp/dp/4306021165?tag=ikeponsu0b-22)
+[本気で生きるって気持ちよくな~い?](https://www.amazon.co.jp/dp/4575316253?tag=ikeponsu0b-22)
 
-![地すべり・崩壊・土石流: 予測と対策](https://m.media-amazon.com/images/I/41mz-bnthjL._SL160_.jpg)
+![本気で生きるって気持ちよくな~い?](https://m.media-amazon.com/images/I/51XYpjhP5eS._SL160_.jpg)
 
-近年の気候変動により土石流への警戒感が高まる中、防災への備えとして専門的な知識を深めておきたいところです。
-本書『地すべり・崩壊・土石流: 予測と対策』では、こうした斜面災害のメカニズムや予測手法を学ぶことができます。
-専門的な内容が手頃な600円で手に入るので、防災意識を高めたい方におすすめの一冊です。
+SNSや日々の発信（ig）で見かけて気になっていた方も多いのではないでしょうか？話題のエッセイ『本気で生きるって気持ちよくな~い?』（￥1,931）は、毎日のモチベーションを高めてくれる心に響く一冊です。自分らしく前向きに毎日を過ごしたい方に、ぜひ手に取っていただきたいおすすめの作品です。
 
-価格: ￥600
+価格: ￥1,931
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4306021165?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/4575316253?tag=ikeponsu0b-22)
 
-## 4. 富士山 噴火
+## 4. ピューロランド
 
-[富士山噴火 その日に備える (岩波新書)](https://www.amazon.co.jp/dp/B0FW92V8VW?tag=ikeponsu0b-22)
+[The Quest of Wonders Parade [DVD]](https://www.amazon.co.jp/dp/B0H1H41SWB?tag=ikeponsu0b-22)
 
-![富士山噴火 その日に備える (岩波新書)](https://m.media-amazon.com/images/I/31f6GLD9JiL._SL160_.jpg)
+![The Quest of Wonders Parade [DVD]](https://m.media-amazon.com/images/I/51mEwyot-5L._SL160_.jpg)
 
-近年、富士山の噴火リスクに対する関心が高まっており、万が一の災害に備えて正しい知識を持っておくことが大切です。『富士山噴火 その日に備える (岩波新書)』（￥1,100）は、専門的な知見から噴火のメカニズムや具体的な対策を分かりやすく解説しており、日頃の防災意識を高める一冊としておすすめです。
+大人気のサンリオピューロランドをご自宅でもたっぷり楽しめるのが、『The Quest of Wonders Parade [DVD]』（￥2,750）です。臨場感あふれるパレードの映像は、テーマパークの思い出を鮮やかに蘇らせてくれますよ。おうち時間をファンタジーの世界に変えてくれるおすすめの一枚です。
 
-価格: ￥1,100
+価格: ￥2,750
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0FW92V8VW?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H1H41SWB?tag=ikeponsu0b-22)
 
-## 5. ラストサバイバー
+## 5. 松村 北斗
 
-[ラスト・サバイバー　上 (ハヤカワ文庫NV)](https://www.amazon.co.jp/dp/B0H6L89175?tag=ikeponsu0b-22)
+[キリエのうた](https://www.amazon.co.jp/dp/B0D79M8TQJ?tag=ikeponsu0b-22)
 
-![ラスト・サバイバー　上 (ハヤカワ文庫NV)](https://m.media-amazon.com/images/I/419ByfARQGL._SL160_.jpg)
+![キリエのうた](https://m.media-amazon.com/images/I/41rzfVdp2LL._SL160_.jpg)
 
-今話題のキーワード「ラストサバイバー」に関連して、極限状態でのサバイバルを描いた傑作ミステリー『ラスト・サバイバー 上 (ハヤカワ文庫NV)』（価格：￥1,188）をご紹介します。予測不能な展開と緊迫感あふれるストーリーは、まさにこのワードの世界観を存分に味わいたい方にぴったりの一冊です。読書でハラハラドキドキする体験を楽しみたい方は、ぜひチェックしてみてください。
-
-価格: ￥1,188
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0H6L89175?tag=ikeponsu0b-22)
-
-## 6. nepal
-
-[ムスタン：ヒマラヤの向こうに広がる秘密](https://www.amazon.co.jp/dp/B0CVFZZHY3?tag=ikeponsu0b-22)
-
-![ムスタン：ヒマラヤの向こうに広がる秘密](https://m.media-amazon.com/images/I/51S3MqAXBTL._SL160_.jpg)
-
-今話題の「nepal（ネパール）」の知られざる魅力に迫るなら、映像作品『ムスタン：ヒマラヤの向こうに広がる秘密』がおすすめです。ヒマラヤの奥深くに広がる神秘的な世界観を、ぜひご自宅でじっくりと味わってみてください。
+映画『キリエのうた』で圧倒的な存在感を放つ松村北斗さんの演技力は、多くの観客の心に深い余韻を残しました。物語の切なさを引き立てる彼の繊細な表情や圧倒的な佇まいは、作品を語る上で欠かせない大きな見どころとなっています。今なら各種配信サービスで気軽に楽しめますので、まだ観ていない方はこの機会にぜひチェックしてみてください。
 
 価格: ￥0
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0CVFZZHY3?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0D79M8TQJ?tag=ikeponsu0b-22)
 
-## 7. 映画館
+## 6. サッカー大韓民国代表
 
-[人が集まる、文化が集まる！　まちの個性派映画館](https://www.amazon.co.jp/dp/4756258115?tag=ikeponsu0b-22)
+[FIFA 2002 ワールドカップ オフィシャルDVD 韓国代表 全軌跡](https://www.amazon.co.jp/dp/B00006AV3Y?tag=ikeponsu0b-22)
 
-![人が集まる、文化が集まる！　まちの個性派映画館](https://m.media-amazon.com/images/I/51Lhu5EqADL._SL160_.jpg)
+![FIFA 2002 ワールドカップ オフィシャルDVD 韓国代表 全軌跡](https://m.media-amazon.com/images/I/51S0HD9QX2L._SL160_.jpg)
 
-最近、大きなシネコンとは一味違う魅力を持つ「映画館」に注目が集まっていますが、本書『人が集まる、文化が集まる！ まちの個性派映画館』（￥2,200）では、そんな全国各地のユニークな劇場の数々が紹介されています。映画を観るだけでなく、人と人との出会いや地域文化の発信拠点となっているミニシアターの魅力を、ぜひ覗いてみませんか？
+歴史的な熱狂を生んだあの大会を振り返るなら、「FIFA 2002 ワールドカップ オフィシャルDVD 韓国代表 全軌跡」（￥1,278）がおすすめです。激闘の舞台裏や全試合の軌跡が余すところなく収録されており、サッカー大韓民国代表の戦いぶりを再び自宅でじっくりと楽しむことができます。
 
-価格: ￥2,200
+価格: ￥1,278
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4756258115?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B00006AV3Y?tag=ikeponsu0b-22)
+
+## 7. サウジアラビア 対 日本
+
+[サウジアラビアの旗 - サウジアラビアの旗 Tシャツ](https://www.amazon.co.jp/dp/B0BQZBKGK8?tag=ikeponsu0b-22)
+
+![サウジアラビアの旗 - サウジアラビアの旗 Tシャツ](https://m.media-amazon.com/images/I/4108rUUVVIL._SL160_.jpg)
+
+サッカーなどで注目を集める「サウジアラビア対日本」の熱戦を、お気に入りのアパレルでさらに楽しく応援しませんか？サウジアラビアの旗がデザインされたこちらのTシャツ（税込2,000円）は、スポーツ観戦やイベントのコーディネートのアクセントにぴったりのアイテムです。
+
+価格: ￥2,000
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B0BQZBKGK8?tag=ikeponsu0b-22)
+
+## 8. ライザのアトリエ
+
+[【PS5】ライザのアトリエ~常闇の女王と秘密の隠れ家~DX](https://www.amazon.co.jp/dp/B0FL1LMDFT?tag=ikeponsu0b-22)
+
+![【PS5】ライザのアトリエ~常闇の女王と秘密の隠れ家~DX](https://m.media-amazon.com/images/I/51BgKw4BRaL._SL160_.jpg)
+
+大人気RPGシリーズの原点となった『ライザのアトリエ ～常闇の女王と秘密の隠れ家～』が、魅力的な要素をプラスしたDX版としてPS5に登場します。冒険の始まりを描く感動のストーリーを、ぜひ高画質なプレイ環境でお楽しみください。
+
+価格: ￥5,716
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B0FL1LMDFT?tag=ikeponsu0b-22)
 
 ---
 
