@@ -1,110 +1,108 @@
 ---
 title: "最新ガジェット情報"
-date: "2026-08-26T09:36:52.603Z"
+date: "2026-08-27T07:06:55.477Z"
 excerpt: "Amazonで見つけた発売されたばかりのガジェットを10件紹介します。"
 tags: ["ガジェット", "Amazon"]
 ---
-## 1. [ベーコングリースストレーナーステンレススチール調理漏斗。](https://www.amazon.co.jp/dp/B0H1YZDZD1?tag=ikeponsu0b-22)
+## 1. [BoxWaveケーブル Alcatel Joy TAB Kids 2対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ-ジェットブラック](https://www.amazon.co.jp/dp/B0CVNLZX84?tag=ikeponsu0b-22)
 
-![ベーコングリースストレーナーステンレススチール調理漏斗。](https://m.media-amazon.com/images/I/31-dQDl5ikL._SL160_.jpg)
+![BoxWaveケーブル Alcatel Joy TAB Kids 2対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ-ジェットブラック](https://m.media-amazon.com/images/I/41unxeTyi2L._SL160_.jpg)
 
-調理後の熱い油を安全に漉して保存できる、便利なステンレス製のグリースストレーナーです。（価格：￥3,528）
+マグネット式で簡単に接続できる、Alcatel Joy TAB Kids 2にも対応した便利なUSB Type-Cケーブルです。絡みにくい編組デザインを採用し、毎日の充電をよりスマートにしてくれます。
 
-価格: ￥3,528
+価格: ￥4,506
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0H1YZDZD1?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0CVNLZX84?tag=ikeponsu0b-22)
 
-## 2. [BoxWaveケーブル Veikk Studio VK1200 V2対応 - USB-C to A PortChanger (2個パック) USB Type-C OTG USB ポータブルキーチェーン - スレートブラック](https://www.amazon.co.jp/dp/B0CP6GSYZ1?tag=ikeponsu0b-22)
+## 2. [4 ウェイ USB C 充電アダプター パワー スプリッター 4 台用, 1m](https://www.amazon.co.jp/dp/B088D2ZTB1?tag=ikeponsu0b-22)
 
-![BoxWaveケーブル Veikk Studio VK1200 V2対応 - USB-C to A PortChanger (2個パック) USB Type-C OTG USB ポータブルキーチェーン - スレートブラック](https://m.media-amazon.com/images/I/41zP3IhH0TL._SL160_.jpg)
+![4 ウェイ USB C 充電アダプター パワー スプリッター 4 台用, 1m](https://m.media-amazon.com/images/I/21dGIoM1WjL._SL160_.jpg)
 
-Veikk Studio VK1200 V2の接続に便利な、スレートブラックカラーのUSB-C to Aケーブル2個パックです。持ち運びに便利なポータブルキーチェーン型のOTGアダプターも付属し、外出先での作業環境をスマートにサポートします。
+1つのUSB-Cポートから4台の機器へ同時に充電できる、便利な4ウェイ充電アダプターです。コードの長さも1mあり、デスク周りの配線をすっきりとまとめたいときにおすすめです。
 
-価格: ￥8,303
+価格: ￥687
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0CP6GSYZ1?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B088D2ZTB1?tag=ikeponsu0b-22)
 
-## 3. [BoxWaveケーブル HP Pro Slate 10 EE G1対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ-ジェットブラック](https://www.amazon.co.jp/dp/B0FG8K85QJ?tag=ikeponsu0b-22)
+## 3. [4 ウェイ USB C 充電アダプター パワー スプリッター 4 台用, 1.8メートル](https://www.amazon.co.jp/dp/B088D2XZ8D?tag=ikeponsu0b-22)
 
-![BoxWaveケーブル HP Pro Slate 10 EE G1対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ-ジェットブラック](https://m.media-amazon.com/images/I/41Uh7sNfxTL._SL160_.jpg)
+![4 ウェイ USB C 充電アダプター パワー スプリッター 4 台用, 1.8メートル](https://m.media-amazon.com/images/I/21dGIoM1WjL._SL160_.jpg)
 
-マグネット式コネクタで簡単に脱着できる、HP Pro Slate 10 EE G1対応の便利なUSB Type-Cケーブルです。耐久性の高そうな編組デザインを採用し、毎日の充電をスマートにサポートしてくれます。
+1台のUSB-Cポートから4台同時に充電できる、便利な長さ1.8メートルのパワー分岐アダプターです。デスク周りの配線をすっきりとまとめたい方にぴったりのアイテムです。
 
-価格: ￥10,007
+価格: ￥753
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0FG8K85QJ?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B088D2XZ8D?tag=ikeponsu0b-22)
 
-## 4. [BoxWaveケーブル Samsung R710 スエード対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ - ジェットブラック](https://www.amazon.co.jp/dp/B0F6VF7HWK?tag=ikeponsu0b-22)
+## 4. [4 ウェイ USB C 充電アダプター パワー スプリッター 4 台用, 2.8メートル](https://www.amazon.co.jp/dp/B088CVDHYL?tag=ikeponsu0b-22)
 
-![BoxWaveケーブル Samsung R710 スエード対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ - ジェットブラック](https://m.media-amazon.com/images/I/41PQluHERUL._SL160_.jpg)
+![4 ウェイ USB C 充電アダプター パワー スプリッター 4 台用, 2.8メートル](https://m.media-amazon.com/images/I/21BcOuRGi2L._SL160_.jpg)
 
-マグネット式でスマートな着脱ができる、便利なUSB Type-C・マイクロ対応の編組ケーブルです。ジェットブラックのスタイリッシュなデザインが、デスク周りをすっきりと彩ります。
+1台のUSB-Cポートから4台同時に充電できる便利なパワー分配アダプターです。約2.8メートルのゆとりあるケーブル長で、デスク周りやリビングでの配線をすっきりと整えられます。
 
-価格: ￥9,438
+価格: ￥867
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0F6VF7HWK?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B088CVDHYL?tag=ikeponsu0b-22)
 
-## 5. [BoxWaveケーブル Razer Kraken V3 Pro対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ - ジェットブラック](https://www.amazon.co.jp/dp/B0DFQM5JKY?tag=ikeponsu0b-22)
+## 5. [12V-24V アダプター 5V 3A 車用 USB 充電モジュール](https://www.amazon.co.jp/dp/B088D6QX3C?tag=ikeponsu0b-22)
 
-![BoxWaveケーブル Razer Kraken V3 Pro対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ - ジェットブラック](https://m.media-amazon.com/images/I/41eArGtmyrL._SL160_.jpg)
+![12V-24V アダプター 5V 3A 車用 USB 充電モジュール](https://m.media-amazon.com/images/I/31Dx8QKshBL._SL160_.jpg)
 
-Razer Kraken V3 Proをはじめ、様々なデバイスの充電に便利なマグネット式USB Type-Cケーブルです。
-最大100Wの高出力に対応し、スマートで快適なケーブル周りの環境づくりをサポートします。
+車のシガーソケットを有効活用できる、12V・24V車対応の便利なUSB充電モジュールです。価格もお手頃なので、車内でのスマホ充電環境を手軽に整えたい方におすすめです。
 
-価格: ￥10,007
+価格: ￥1,330
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0DFQM5JKY?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B088D6QX3C?tag=ikeponsu0b-22)
 
-## 6. [BoxWaveケーブル JVC SP-A10BT対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ-ジェットブラック](https://www.amazon.co.jp/dp/B0BRYSSXJS?tag=ikeponsu0b-22)
+## 6. [BoxWaveケーブル Plantronics Explorer 55対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ - ジェットブラック](https://www.amazon.co.jp/dp/B09PFHBQ48?tag=ikeponsu0b-22)
 
-![BoxWaveケーブル JVC SP-A10BT対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ-ジェットブラック](https://m.media-amazon.com/images/I/41dffG4ShqL._SL160_.jpg)
+![BoxWaveケーブル Plantronics Explorer 55対応 - MagnetoSnap PD AllChargeケーブル(100W)、マグネット充電編組USB Type-Cマイクロ - ジェットブラック](https://m.media-amazon.com/images/I/418CvLSXJML._SL160_.jpg)
 
-マグネット式の端子でスマートな接続を実現する、JVC SP-A10BT対応の便利な充電ケーブルです。最大100WのPD充電に対応し、日々のデバイス管理を快適にしてくれます。
+マグネット式で簡単に着脱できる、Plantronics Explorer 55などの充電に便利なUSBケーブルです。最大100Wの高出力に対応し、耐久性に優れた編組デザインも魅力です。
 
-価格: ￥9,610
+価格: ￥4,461
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0BRYSSXJS?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B09PFHBQ48?tag=ikeponsu0b-22)
 
-## 7. [BoxWaveケーブル SANPTENT SPT-04対応 - MagnetoSnap PD AllChargeケーブル (100W) マグネット充電 編組USB Type-C Micro - ジェットブラック](https://www.amazon.co.jp/dp/B0D529XFS3?tag=ikeponsu0b-22)
+## 7. [ノート パソコン スタンド 折りたたみ可能で場所を取らず、高さと角度を自在に調整できるテーブルマウント](https://www.amazon.co.jp/dp/B0H2HV16QF?tag=ikeponsu0b-22)
 
-![BoxWaveケーブル SANPTENT SPT-04対応 - MagnetoSnap PD AllChargeケーブル (100W) マグネット充電 編組USB Type-C Micro - ジェットブラック](https://m.media-amazon.com/images/I/41PrVBTg1fL._SL160_.jpg)
+![ノート パソコン スタンド 折りたたみ可能で場所を取らず、高さと角度を自在に調整できるテーブルマウント](https://m.media-amazon.com/images/I/31-kfBAQAvL._SL160_.jpg)
 
-マグネット式で簡単に接続できる、SANPTENT SPT-04対応の便利なType-C/Micro USBケーブルです。最大100WのPD充電に対応し、すっきりとしたケーブル周りを演出したい方におすすめです。
+高さと角度を自由に調整できるため、お好みの姿勢で快適なパソコン作業をサポートしてくれるノートパソコンスタンドです。折りたたみ可能ですっきりと収納でき、デスクの上のスペースを有効活用したい方におすすめです。
 
-価格: ￥10,007
+価格: ￥2,392
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0D529XFS3?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H2HV16QF?tag=ikeponsu0b-22)
 
-## 8. [エレコム ガジェットポーチ トラベルポーチ ストラップ付 収納 旅行 出張 小物入れ ブラック BMA-GPSHD01BK](https://www.amazon.co.jp/dp/B0HFN59M28?tag=ikeponsu0b-22)
+## 8. [Autel MV105 MaxiVideo デジタル検査カメラ 5.5mm イメージヘッド HDビデオスコープ 防水スネークケーブル付き PCおよびMX808 MS906S MS906TS MK906BT MK908P MS908P MS909 MS919 MS Ultra MS Eliteに対応](https://www.amazon.co.jp/dp/B0BD4N11HJ?tag=ikeponsu0b-22)
 
-![エレコム ガジェットポーチ トラベルポーチ ストラップ付 収納 旅行 出張 小物入れ ブラック BMA-GPSHD01BK](https://m.media-amazon.com/images/I/31zTBgWY2pL._SL160_.jpg)
+![Autel MV105 MaxiVideo デジタル検査カメラ 5.5mm イメージヘッド HDビデオスコープ 防水スネークケーブル付き PCおよびMX808 MS906S MS906TS MK906BT MK908P MS908P MS909 MS919 MS Ultra MS Eliteに対応](https://m.media-amazon.com/images/I/41DsCsP33VL._SL160_.jpg)
 
-ごちゃつきやすいガジェットや小物をすっきり整理できる、便利なストラップ付きのトラベルポーチです。
-シンプルで使いやすいブラックカラーなので、普段使いから旅行や出張まで幅広く活躍してくれます。
+狭くて見えない場所の確認に便利なAutelのデジタル検査カメラは、5.5mmの細いヘッドと防水ケーブルで様々なシーンの点検をサポートします。お手持ちの対応端末と接続することで、手の届かない場所を手軽に確認できる実用的なアイテムです。
 
-価格: ￥2,280
+価格: ￥17,710
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0HFN59M28?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0BD4N11HJ?tag=ikeponsu0b-22)
 
-## 9. [ポータブルコンバータ基板](https://www.amazon.co.jp/dp/B0BTVK51Z2?tag=ikeponsu0b-22)
+## 9. [WOHPNLE 電子レンジスプラッターカバー、折りたたみ式電子レンジプレートカバー、通気口付き、食品スプラッターガード、フルーツ水切りバスケット、ザル、キッチンガジェット(イエロー)](https://www.amazon.co.jp/dp/B0CSK38MNX?tag=ikeponsu0b-22)
 
-![ポータブルコンバータ基板](https://m.media-amazon.com/images/I/3153qzmqkHL._SL160_.jpg)
+![WOHPNLE 電子レンジスプラッターカバー、折りたたみ式電子レンジプレートカバー、通気口付き、食品スプラッターガード、フルーツ水切りバスケット、ザル、キッチンガジェット(イエロー)](https://m.media-amazon.com/images/I/41r9dCzZ92L._SL160_.jpg)
 
-お手持ちの機器の接続やカスタマイズに便利なポータブルコンバータ基板が、ワンコインちょっとのリーズナブルな価格で手に入ります。自作PCや電子工作のパーツをお探しの方にチェックしていただきたいアイテムです。
+電子レンジでの温め時の飛び散りを防ぎ、すっきりと収納できる折りたたみ式のカバーです。使わない時はコンパクトにたためるほか、便利な水切りとしても使えるキッチンの心強い味方です。
 
-価格: ￥528
+価格: ￥3,805
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0BTVK51Z2?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0CSK38MNX?tag=ikeponsu0b-22)
 
-## 10. [ポケットサイズ USB 40Gbps データケーブル 長さ 15cm、ソフト FPC 柔軟性 USB コード アルミニウムシェルで高速接続 フル機能のデータケーブル](https://www.amazon.co.jp/dp/B0GW5HKC19?tag=ikeponsu0b-22)
+## 10. [Paladone Stitchサーフィンブックライト - ディズニー公式ライセンス商品。](https://www.amazon.co.jp/dp/B0GSWPWNLW?tag=ikeponsu0b-22)
 
-![ポケットサイズ USB 40Gbps データケーブル 長さ 15cm、ソフト FPC 柔軟性 USB コード アルミニウムシェルで高速接続 フル機能のデータケーブル](https://m.media-amazon.com/images/I/31PRnTd-yXL._SL160_.jpg)
+![Paladone Stitchサーフィンブックライト - ディズニー公式ライセンス商品。](https://m.media-amazon.com/images/I/31WiVeeN25L._SL160_.jpg)
 
-持ち運びに便利なポケットサイズのUSB 40Gbps対応ケーブルで、外出先でもすっきりと高速データ接続が行えます。柔軟なFPC素材と丈夫なアルミシェルを採用しており、価格も1,564円とお手頃です。
+サーフィンを楽しむスティッチの姿がユニークな、ディズニー公式ライセンスのブックライトです。読書の時間を明るく彩る可愛いデザインは、ディズニーファンやスティッチ好きへのプレゼントにもぴったりです。
 
-価格: ￥1,564
+価格: ￥4,108
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0GW5HKC19?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0GSWPWNLW?tag=ikeponsu0b-22)
 
 ---
 
