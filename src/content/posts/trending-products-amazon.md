@@ -1,98 +1,96 @@
 ---
 title: "今話題のトレンド × Amazonのおすすめ商品"
-date: "2026-08-30T09:36:30.330Z"
+date: "2026-08-30T14:35:50.395Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連するAmazonのおすすめ商品を紹介します。"
 tags: ["トレンド", "Amazon"]
 ---
-## 1. iphone
+## 1. フェイエノールト
 
-[Apple iPhone 17e 256GB：6.1インチSuper Retina XDRディスプレイ、A19チップ、一日中使えるバッテリー、48MP Fusionカメラ、最小ストレージ256GB；ブラック](https://www.amazon.co.jp/dp/B0GQVTTNQW?tag=ikeponsu0b-22)
+[[HALASRTB] 2025-2026シーズン 新ユニフォーム発表！フェイエノールト 上田綺世 アヤセ Ayase 9番 サッカー ユニフォーム 上着 通気 速乾ジャージ 男女 兼用 記念シャツ 非公式 (9番,L) [並行輸入品]](https://www.amazon.co.jp/dp/B0FF1C78FX?tag=ikeponsu0b-22)
 
-![Apple iPhone 17e 256GB：6.1インチSuper Retina XDRディスプレイ、A19チップ、一日中使えるバッテリー、48MP Fusionカメラ、最小ストレージ256GB；ブラック](https://m.media-amazon.com/images/I/31u0zD1CkpL._SL160_.jpg)
+![[HALASRTB] 2025-2026シーズン 新ユニフォーム発表！フェイエノールト 上田綺世 アヤセ Ayase 9番 サッカー ユニフォーム 上着 通気 速乾ジャージ 男女 兼用 記念シャツ 非公式 (9番,L) [並行輸入品]](https://m.media-amazon.com/images/I/31bt9Aw3WYL._SL160_.jpg)
 
-新型のiPhoneをご検討中の方にぜひチェックしていただきたいのが、「Apple iPhone 17e 256GB」です。
-A19チップや48MP Fusionカメラを搭載しながら最小ストレージが256GBとなっており、日常のさまざまなシーンで快適にご活用いただけます。
-価格も￥108,889となっておりますので、新しいスマホへの買い替えを考えている方はぜひ選択肢の一つに加えてみてください。
+オランダの名門フェイエノールトで活躍する上田綺世選手の背番号9が目を引く、2025-2026シーズン仕様の新ユニフォームが登場しました。
+通気性と速乾性に優れたジャージ素材を採用しており、ファン必見の記念シャツとなっています。
+気になる方は、ぜひチェックしてみてください！
 
-価格: ￥108,889
+価格: ￥4,880
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0GQVTTNQW?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0FF1C78FX?tag=ikeponsu0b-22)
 
-## 2. 佐藤義則
+## 2. 髙橋藍
 
-[絶対エース育成論 ~なぜ田中将大は24連勝できたのか?](https://www.amazon.co.jp/dp/4812499267?tag=ikeponsu0b-22)
+[anan(アンアン)2026/07/22号 No.2504増刊　スペシャルエディション[整う腸活2026／高橋藍]](https://www.amazon.co.jp/dp/B0H4V1TR67?tag=ikeponsu0b-22)
 
-![絶対エース育成論 ~なぜ田中将大は24連勝できたのか?](https://m.media-amazon.com/images/I/51UJlmMGFDL._SL160_.jpg)
+![anan(アンアン)2026/07/22号 No.2504増刊　スペシャルエディション[整う腸活2026／高橋藍]](https://m.media-amazon.com/images/I/41pP+lw2e9L._SL160_.jpg)
 
-名伯爵として知られる佐藤義則氏の指導哲学が詰まった『絶対エース育成論 ~なぜ田中将大は24連勝できたのか?』は、数々の名投手育てた秘訣に迫る一冊です（価格：￥1,365）。プロフェッショナルを育てる思考法に興味がある方は、ぜひチェックしてみてはいかがでしょうか。
+話題のバレーボール選手・髙橋藍さんが表紙＆誌面に登場する「anan(アンアン)2026/07/22号 No.2504増刊 スペシャルエディション」が、ファン必見の一冊となっています。今号の特集テーマである「整う腸活」とあわせて、彼の魅力的な姿やライフスタイルをたっぷり堪能できるスペシャルな内容です。価格は1,100円（税込）ですので、気になる方はぜひチェックしてみてくださいね！
 
-価格: ￥1,365
+価格: ￥1,100
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4812499267?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H4V1TR67?tag=ikeponsu0b-22)
 
-## 3. 虎テレ
+## 3. フライブルク
 
-[見られちゃいけない海虎くん(1) (KCデザート)](https://www.amazon.co.jp/dp/4065434939?tag=ikeponsu0b-22)
+[フライブルクのまちづくり―ソーシャル・エコロジー住宅地ヴォーバン](https://www.amazon.co.jp/dp/4761524197?tag=ikeponsu0b-22)
 
-![見られちゃいけない海虎くん(1) (KCデザート)](https://m.media-amazon.com/images/I/51AnCtvxtqL._SL160_.jpg)
+![フライブルクのまちづくり―ソーシャル・エコロジー住宅地ヴォーバン](https://m.media-amazon.com/images/I/511BXXcJRUL._SL160_.jpg)
 
-阪神タイガースの公式動画配信サービス「虎テレ」で試合観戦を楽しんだ後は、胸キュン必至のラブコメディ漫画『見られちゃいけない海虎くん(1)』でリラックスしませんか？価格も税込594円とお手頃で、タイガースファンはもちろん少女マンガ好きのスキマ時間にもぴったりな一冊です。
+環境先進都市として世界的に注目を集めるフライブルクですが、その持続可能な都市づくりの秘密を深く知るなら、『フライブルクのまちづくり―ソーシャル・エコロジー住宅地ヴォーバン』（税込2,860円）がおすすめです。市民参加型のユニークな住宅地開発の歩みが丁寧に解説されており、これからの地域づくりや環境問題に関心がある方にぴったりの一冊です。
 
-価格: ￥594
+価格: ￥2,860
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4065434939?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/4761524197?tag=ikeponsu0b-22)
 
-## 4. 松村北斗 ドラマ
+## 4. インフルエンサー
 
-[夜明けのすべて](https://www.amazon.co.jp/dp/B0CWDJP2VK?tag=ikeponsu0b-22)
+[異世界帰りの勇者は、ダンジョンが出現した現実世界で、インフルエンサーになって金を稼ぎます！ ７ (ヒューコミックス)](https://www.amazon.co.jp/dp/B0H9PCT4RR?tag=ikeponsu0b-22)
 
-![夜明けのすべて](https://m.media-amazon.com/images/I/41vbZpz1bWL._SL160_.jpg)
+![異世界帰りの勇者は、ダンジョンが出現した現実世界で、インフルエンサーになって金を稼ぎます！ ７ (ヒューコミックス)](https://m.media-amazon.com/images/I/51ifr6vGmuL._SL160_.jpg)
 
-松村北斗さんのドラマ出演をきっかけに、彼の繊細な演技が光る映画『夜明けのすべて』にも注目が集まっています。
-物語の舞台裏や登場人物たちの心情を丁寧に描いた本作は、Amazonプライム・ビデオなどの配信サービスですぐに楽しむことができます。
-心温まるヒューマンドラマに触れたい方は、ぜひこの機会にチェックしてみてください。
+近年、SNSで影響力を持つ「インフルエンサー」が注目を集めていますが、もし異世界帰りの勇者が現代でその道を選んだら……というユニークな設定を描いたのが『異世界帰りの勇者は、ダンジョンが出現した現実世界で、インフルエンサーになって金を稼ぎます！ 7』（ヒューコミックス／税込906円）です。現実世界と配信活動が交差する斬新な世界観を、ぜひコミックスで楽しんでみてください。
 
-価格: ￥0
+価格: ￥906
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0CWDJP2VK?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H9PCT4RR?tag=ikeponsu0b-22)
 
-## 5. ジージェネエターナル
+## 5. 蘭丸
 
-[[買ってGET！]ジージェネエターナル × GCG コラボキャンペーン 「プロモーションコード（プレミアム）」未使用 1枚](https://www.amazon.co.jp/dp/B0H6V3K6SP?tag=ikeponsu0b-22)
+[ヤクザが転生したら森蘭丸だった件5 (スリーズロゼコミックス)](https://www.amazon.co.jp/dp/4799221183?tag=ikeponsu0b-22)
 
-![[買ってGET！]ジージェネエターナル × GCG コラボキャンペーン 「プロモーションコード（プレミアム）」未使用 1枚](https://m.media-amazon.com/images/I/51O18WkW2VL._SL160_.jpg)
+![ヤクザが転生したら森蘭丸だった件5 (スリーズロゼコミックス)](https://m.media-amazon.com/images/I/51Vybi0JkDL._SL160_.jpg)
 
-話題の新作アプリ「ジージェネエターナル」をさらに楽しみたい方に注目のおすすめ情報です！今ならゲーム内で役立つプロモーションコード（プレミアム）が手に入るコラボキャンペーンの未使用カードが、お手頃な400円で出品されています。スタートダッシュを決めたい方は、ぜひチェックしてみてくださいね！
+話題の「蘭丸」に注目している方にぜひおすすめしたいのが、『ヤクザが転生したら森蘭丸だった件5 (スリーズロゼコミックス)』です（価格：825円）。歴史の表舞台で繰り広げるコミカルで一風変わった転生劇を、最新刊でもたっぷりとお楽しみいただけます。
 
-価格: ￥400
+価格: ￥825
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0H6V3K6SP?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/4799221183?tag=ikeponsu0b-22)
 
-## 6. ウェザーニュース
+## 6. gabriel jesus
 
-[ＷＮＩ ｗｅａｔｈｅｒｎｅｗｓ 【特典フォトブック付】ウェザーニュースキャスターカレンダー２０２４セット](https://www.amazon.co.jp/dp/B0CNGL5FX1?tag=ikeponsu0b-22)
+[ガブリエウ・フェルナンド・ジ・ジェズス（Gabriel Fernando de Jesus) 【ブラジル代表2022】フィギュア](https://www.amazon.co.jp/dp/B0BQNCWJ79?tag=ikeponsu0b-22)
 
-![ＷＮＩ ｗｅａｔｈｅｒｎｅｗｓ 【特典フォトブック付】ウェザーニュースキャスターカレンダー２０２４セット](https://m.media-amazon.com/images/I/51J73X6DmWL._SL160_.jpg)
+![ガブリエウ・フェルナンド・ジ・ジェズス（Gabriel Fernando de Jesus) 【ブラジル代表2022】フィギュア](https://m.media-amazon.com/images/I/31Tj+o19SzL._SL160_.jpg)
 
-毎日の天気予報でおなじみの「ウェザーニュース」ですが、今年はファン必見のキャスターたちが登場する2024年カレンダーセットが登場しています。
-特製の特典フォトブックも付属しており、番組の魅力がたっぷり詰まったファン必携のアイテムです。
-価格は4,000円となっておりますので、この機会にぜひチェックしてみてはいかがでしょうか。
+今話題のブラジル代表、ガブリエウ・ジェズス選手の魅力を手元で楽しめるフィギュアが、なんと890円というお手頃価格で登場しています。サッカーファンならぜひコレクションに加えたい注目のアイテムです。
 
-価格: ￥4,000
+価格: ￥890
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0CNGL5FX1?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0BQNCWJ79?tag=ikeponsu0b-22)
 
-## 7. 東京ディズニーランド
+## 7. west
 
-[東京ディズニーランド 完全ガイド 2025-2026 (Disney in Pocket)](https://www.amazon.co.jp/dp/4065389356?tag=ikeponsu0b-22)
+[WEST. SPECIAL LIVE 『WESTA!』2025-2026 通常盤(Blu-ray) -WEST. [Blu-ray]](https://www.amazon.co.jp/dp/B0H4F96SZ8?tag=ikeponsu0b-22)
 
-![東京ディズニーランド 完全ガイド 2025-2026 (Disney in Pocket)](https://m.media-amazon.com/images/I/51u8XNMgDBL._SL160_.jpg)
+![WEST. SPECIAL LIVE 『WESTA!』2025-2026 通常盤(Blu-ray) -WEST. [Blu-ray]](https://m.media-amazon.com/images/I/51sjLztCvlL._SL160_.jpg)
 
-東京ディズニーランドへのお出かけを計画しているなら、最新情報を網羅した『東京ディズニーランド 完全ガイド 2025-2026 (Disney in Pocket)』（￥1,500）がとても便利です。パークでの過ごし方がコンパクトにまとまっており、現地でのスムーズな移動や計画作りに役立つ一冊です。
+話題のキーワード「west」に関連して、ファン待望のWEST. SPECIAL LIVE 『WESTA!』2025-2026 通常盤(Blu-ray)が￥5,290で登場しました。
+ライブの熱気と興奮を自宅で存分に味わえる、ファン必見のアイテムとなっています。
+おうち時間をさらに楽しく彩る一枚として、ぜひチェックしてみてはいかがでしょうか。
 
-価格: ￥1,500
+価格: ￥5,290
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4065389356?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0H4F96SZ8?tag=ikeponsu0b-22)
 
 ---
 
