@@ -27,25 +27,51 @@ export type Post = PostMeta & {
   items: ProductItem[];
 };
 
-// trending-products系の記事は "## N. キーワード" ごとに商品リンク・画像・価格が
-// 並ぶ固定フォーマットで生成される。それ以外の記事では空配列を返す。
+// 商品紹介系の記事は "## N. 見出し" ごとに商品リンク・画像・価格が並ぶ固定
+// フォーマットで生成される。見出し自体がリンクの場合(latest-gadgets等)と、
+// 見出しの下に別途リンク行がある場合(trending-products等)の両方に対応する。
+// それ以外の記事では空配列を返す。
 function extractProductItems(markdown: string): ProductItem[] {
-  const blocks = markdown.split(/^## \d+\.\s.+$/m).slice(1);
+  const headingRegex = /^## \d+\.\s(.+)$/gm;
+  const headings = [...markdown.matchAll(headingRegex)];
 
-  return blocks
-    .map((block) => {
-      const linkMatch = block.match(/\[(.+?)\]\((https?:\/\/\S+?)\)/);
+  return headings
+    .map((heading, i) => {
+      const headingText = heading[1];
+      const blockStart = (heading.index ?? 0) + heading[0].length;
+      const blockEnd = headings[i + 1]?.index ?? markdown.length;
+      const block = markdown.slice(blockStart, blockEnd);
+
+      const headingLinkMatch = headingText.match(
+        /\[(.+?)\]\((https?:\/\/\S+?)\)/,
+      );
+      const blockLinkMatch = block.match(/\[(.+?)\]\((https?:\/\/\S+?)\)/);
       const imageMatch = block.match(/!\[.*?\]\((https?:\/\/\S+?)\)/);
-      const priceMatch = block.match(/価格:\s*¥([\d,]+)/);
+      const priceMatch = block.match(/価格:\s*[¥￥]([\d,]+)/);
 
       return {
-        name: linkMatch?.[1] ?? "",
-        url: linkMatch?.[2] ?? "",
+        name: headingLinkMatch?.[1] ?? blockLinkMatch?.[1] ?? headingText,
+        url: headingLinkMatch?.[2] ?? blockLinkMatch?.[2] ?? "",
         image: imageMatch?.[1] ?? null,
         price: priceMatch ? Number(priceMatch[1].replace(/,/g, "")) : null,
       };
     })
     .filter((item) => item.url);
+}
+
+// アフィリエイトリンクにGoogle推奨のrel属性を付与する。このブログの記事本文に
+// 含まれる外部リンクは現状すべて楽天/Amazonのアフィリエイトリンクのため、
+// contentHtml中の外部リンク全体に一律で適用する。
+function markOutboundLinksAsSponsored(html: string): string {
+  return html.replace(
+    /<a href="(https?:\/\/[^"]+)"/g,
+    '<a target="_blank" rel="sponsored noopener noreferrer" href="$1"',
+  );
+}
+
+// 商品画像は読み込みを遅延させ、初期表示のペイロードを減らす。
+function addLazyLoadingToImages(html: string): string {
+  return html.replace(/<img /g, '<img loading="lazy" decoding="async" ');
 }
 
 function getPostSlugs(): string[] {
@@ -88,7 +114,9 @@ export async function getPostBySlug(slug: string): Promise<Post> {
     .use(remarkGfm)
     .use(remarkHtml)
     .process(content);
-  const contentHtml = processedContent.toString();
+  const contentHtml = addLazyLoadingToImages(
+    markOutboundLinksAsSponsored(processedContent.toString()),
+  );
 
   return {
     slug,

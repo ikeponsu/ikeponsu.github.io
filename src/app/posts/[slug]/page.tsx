@@ -83,6 +83,20 @@ export default async function PostPage({
     ...(ogImageFor(post) ? { image: [ogImageFor(post)] } : {}),
   };
 
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: siteConfig.title, item: siteConfig.url },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: post.title,
+        item: `${siteConfig.url}/posts/${slug}`,
+      },
+    ],
+  };
+
   const itemListJsonLd =
     post.items.length > 0
       ? {
@@ -116,6 +130,10 @@ export default async function PostPage({
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLd(articleJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: jsonLd(breadcrumbJsonLd) }}
       />
       {itemListJsonLd && (
         <script

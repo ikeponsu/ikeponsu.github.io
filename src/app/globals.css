@@ -125,6 +125,14 @@ body {
 }
 
 .prose-post img {
+  /* 商品画像は情報源(楽天/Amazon)ごとに実寸がまちまちで正確なwidth/height
+     を取得できないため、aspect-ratioで表示枠を先に確保しレイアウトシフトを防ぐ。 */
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  object-fit: contain;
+  background: var(--surface-muted);
   border: 1px solid var(--line);
   border-radius: 0.5em;
   margin-top: 1.5em;
