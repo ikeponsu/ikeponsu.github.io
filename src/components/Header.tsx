@@ -3,19 +3,22 @@ import { siteConfig } from "@/lib/site-config";
 
 export default function Header() {
   return (
-    <header className="border-b border-sky-200 bg-white/70 backdrop-blur-sm sticky top-0 z-10">
-      <div className="mx-auto max-w-3xl px-6 py-5 flex items-center justify-between">
+    <header className="sticky top-0 z-10 border-b border-line bg-background/80 backdrop-blur">
+      <div className="mx-auto flex max-w-2xl items-center justify-between px-6 py-5">
         <Link
           href="/"
-          className="text-lg font-bold text-sky-800 tracking-tight hover:text-sky-600 transition-colors"
+          className="text-base font-semibold tracking-tight text-foreground transition-opacity hover:opacity-70"
         >
           {siteConfig.title}
         </Link>
-        <nav className="flex gap-5 text-sm font-medium text-sky-700">
-          <Link href="/" className="hover:text-sky-500 transition-colors">
+        <nav className="flex gap-6 text-sm text-muted">
+          <Link href="/" className="transition-colors hover:text-foreground">
             記事一覧
           </Link>
-          <Link href="/about" className="hover:text-sky-500 transition-colors">
+          <Link
+            href="/about"
+            className="transition-colors hover:text-foreground"
+          >
             About
           </Link>
         </nav>

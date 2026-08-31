@@ -4,25 +4,26 @@ import { formatDate } from "@/lib/format-date";
 
 export default function PostCard({ post }: { post: PostMeta }) {
   return (
-    <Link
-      href={`/posts/${post.slug}`}
-      className="block rounded-xl border border-sky-200 bg-white p-6 transition-all hover:border-sky-400 hover:shadow-md hover:shadow-sky-100"
-    >
-      <time className="text-xs font-medium text-sky-500">
-        {formatDate(post.date)}
-      </time>
-      <h2 className="mt-2 text-lg font-bold text-sky-900">{post.title}</h2>
+    <Link href={`/posts/${post.slug}`} className="group block py-6">
+      <div className="flex items-baseline justify-between gap-4">
+        <h2 className="text-lg font-semibold tracking-tight text-foreground transition-colors group-hover:text-accent">
+          {post.title}
+        </h2>
+        <time className="shrink-0 text-xs text-muted">
+          {formatDate(post.date)}
+        </time>
+      </div>
       {post.excerpt && (
-        <p className="mt-2 text-sm leading-relaxed text-slate-600">
+        <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-muted">
           {post.excerpt}
         </p>
       )}
       {post.tags.length > 0 && (
-        <ul className="mt-4 flex flex-wrap gap-2">
+        <ul className="mt-3 flex flex-wrap gap-2">
           {post.tags.map((tag) => (
             <li
               key={tag}
-              className="rounded-full bg-sky-100 px-3 py-1 text-xs font-medium text-sky-700"
+              className="rounded-full bg-surface-muted px-2.5 py-0.5 text-xs text-muted"
             >
               #{tag}
             </li>

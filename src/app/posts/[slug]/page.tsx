@@ -112,7 +112,7 @@ export default async function PostPage({
       : null;
 
   return (
-    <article className="mx-auto max-w-3xl px-6 py-14">
+    <article className="mx-auto max-w-2xl px-6 py-14">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLd(articleJsonLd) }}
@@ -125,22 +125,24 @@ export default async function PostPage({
       )}
       <Link
         href="/"
-        className="text-sm font-medium text-sky-600 hover:text-sky-500"
+        className="inline-flex items-center gap-1 text-sm font-medium text-muted transition-colors hover:text-accent"
       >
-        ← 記事一覧へ戻る
+        <span aria-hidden>←</span> 記事一覧へ戻る
       </Link>
 
-      <header className="mt-6 mb-10">
-        <time className="text-xs font-medium text-sky-500">
+      <header className="mt-8 mb-12">
+        <time className="text-xs font-medium tracking-wide text-muted uppercase">
           {formatDate(post.date)}
         </time>
-        <h1 className="mt-2 text-3xl font-bold text-sky-900">{post.title}</h1>
+        <h1 className="mt-3 text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
+          {post.title}
+        </h1>
         {post.tags.length > 0 && (
-          <ul className="mt-4 flex flex-wrap gap-2">
+          <ul className="mt-5 flex flex-wrap gap-2">
             {post.tags.map((tag) => (
               <li
                 key={tag}
-                className="rounded-full bg-sky-100 px-3 py-1 text-xs font-medium text-sky-700"
+                className="rounded-full bg-surface-muted px-3 py-1 text-xs text-muted"
               >
                 #{tag}
               </li>
