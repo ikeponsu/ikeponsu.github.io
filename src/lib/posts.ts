@@ -15,9 +15,38 @@ export type PostMeta = {
   tags: string[];
 };
 
+export type ProductItem = {
+  name: string;
+  url: string;
+  image: string | null;
+  price: number | null;
+};
+
 export type Post = PostMeta & {
   contentHtml: string;
+  items: ProductItem[];
 };
+
+// trending-products系の記事は "## N. キーワード" ごとに商品リンク・画像・価格が
+// 並ぶ固定フォーマットで生成される。それ以外の記事では空配列を返す。
+function extractProductItems(markdown: string): ProductItem[] {
+  const blocks = markdown.split(/^## \d+\.\s.+$/m).slice(1);
+
+  return blocks
+    .map((block) => {
+      const linkMatch = block.match(/\[(.+?)\]\((https?:\/\/\S+?)\)/);
+      const imageMatch = block.match(/!\[.*?\]\((https?:\/\/\S+?)\)/);
+      const priceMatch = block.match(/価格:\s*¥([\d,]+)/);
+
+      return {
+        name: linkMatch?.[1] ?? "",
+        url: linkMatch?.[2] ?? "",
+        image: imageMatch?.[1] ?? null,
+        price: priceMatch ? Number(priceMatch[1].replace(/,/g, "")) : null,
+      };
+    })
+    .filter((item) => item.url);
+}
 
 function getPostSlugs(): string[] {
   if (!fs.existsSync(postsDirectory)) return [];
@@ -68,5 +97,6 @@ export async function getPostBySlug(slug: string): Promise<Post> {
     excerpt: data.excerpt ?? "",
     tags: data.tags ?? [],
     contentHtml,
+    items: extractProductItems(content),
   };
 }

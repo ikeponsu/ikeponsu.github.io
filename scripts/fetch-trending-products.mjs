@@ -203,12 +203,47 @@ async function generateComment(trend, item) {
   }
 }
 
+// YAMLの二重引用符文字列として安全に埋め込めるようエスケープする。
+function yamlQuote(str) {
+  return `"${str.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;
+}
+
+function truncate(str, max) {
+  return str.length <= max ? str : `${str.slice(0, max)}…`;
+}
+
+// 毎回同じtitle/excerptだと検索エンジンから見て「同一URLで中身だけ変わる
+// ページ」の繰り返しになってしまうため、その回のトレンドキーワードを反映する。
+function buildTitle(results) {
+  const keywords = results.slice(0, 3).map((r) => r.trend);
+  return truncate(`${keywords.join("・")}など今話題のトレンド×おすすめ商品まとめ`, 60);
+}
+
+function buildExcerpt(results, generatedAt) {
+  const keywords = results.slice(0, 5).map((r) => r.trend);
+  const dateLabel = new Date(generatedAt).toLocaleDateString("ja-JP", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+  const excerpt =
+    `${dateLabel}時点でGoogleトレンド入りしている「${keywords.join("」「")}」` +
+    "などのキーワードと、関連する楽天のおすすめ商品を紹介します。";
+  return truncate(excerpt, 120);
+}
+
+// 楽天の商品名をそのままaltにすると100文字超のキーワード羅列になりがちなため、
+// トレンドキーワードを添えつつ短く整形する。
+function buildAlt(trend, itemTitle) {
+  return `${trend}に関連するおすすめ商品「${truncate(itemTitle, 40)}」`;
+}
+
 function buildMarkdown(results, generatedAt) {
   const frontmatter = [
     "---",
-    `title: "今話題のトレンド × おすすめ商品"`,
+    `title: ${yamlQuote(buildTitle(results))}`,
     `date: "${generatedAt}"`,
-    `excerpt: "Googleトレンドで話題のキーワードと、関連する楽天のおすすめ商品を紹介します。"`,
+    `excerpt: ${yamlQuote(buildExcerpt(results, generatedAt))}`,
     `tags: ["トレンド", "楽天"]`,
     "---",
     "",
@@ -218,7 +253,7 @@ function buildMarkdown(results, generatedAt) {
     .map(({ trend, item, comment }, i) => {
       const lines = [`## ${i + 1}. ${trend}`, `[${item.title}](${item.url})`];
       if (item.imageUrl) {
-        lines.push(`![${item.title}](${item.imageUrl})`);
+        lines.push(`![${buildAlt(trend, item.title)}](${item.imageUrl})`);
       }
       if (comment) {
         lines.push(comment);
