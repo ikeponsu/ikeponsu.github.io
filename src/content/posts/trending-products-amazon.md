@@ -1,120 +1,97 @@
 ---
 title: "今話題のトレンド × Amazonのおすすめ商品"
-date: "2026-09-02T02:06:49.123Z"
+date: "2026-09-02T08:15:53.611Z"
 excerpt: "Googleトレンドで話題のキーワードと、関連するAmazonのおすすめ商品を紹介します。"
 tags: ["トレンド", "Amazon"]
 ---
-## 1. 新潟
+## 1. 風、薫る
 
-[[精米] 新潟県産 コシヒカリ 10kg (5kg×2袋) 白米 新潟辰巳屋 令和7年産](https://www.amazon.co.jp/dp/B005MWRXO2?tag=ikeponsu0b-22)
+[連続テレビ小説　風、薫る　Ｐａｒｔ２ ＮＨＫドラマ・ガイド](https://www.amazon.co.jp/dp/B0HB28YHHK?tag=ikeponsu0b-22)
 
-![[精米] 新潟県産 コシヒカリ 10kg (5kg×2袋) 白米 新潟辰巳屋 令和7年産](https://m.media-amazon.com/images/I/41qSdRLKhkL._SL160_.jpg)
+![連続テレビ小説　風、薫る　Ｐａｒｔ２ ＮＨＫドラマ・ガイド](https://m.media-amazon.com/images/I/41SNWKdI35L._SL160_.jpg)
 
-日本屈指の米どころとして知られる新潟県から、旨みと粘りが特徴の「新潟県産コシヒカリ 10kg」をご紹介します。
-豊かな自然と清らかな水に育まれた令和7年産の新米を、毎日の食卓でぜひご堪能ください。
+新緑の季節を迎え、心地よい「風、薫る」晴れやかな日が続いていますね。
+そんな爽やかな気分にぴったりの一冊が、『連続テレビ小説 風、薫る パート2 NHKドラマガイド』（1,485円）です。
+ドラマの世界観をより深く楽しめる公式ガイドブックとともに、物語の魅力をじっくり味わってみませんか？
 
-価格: ￥6,980
+価格: ￥1,485
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B005MWRXO2?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0HB28YHHK?tag=ikeponsu0b-22)
 
-## 2. b29
+## 2. デーリー東北
 
-[NUOTIE 1/144 B-29 スーパーフォートレス リトルボーイ金属爆撃機モデルキット 第二次世界大戦 戦闘機 ダイキャスト合金飛行機モデル ヴィンテージ戦闘機 軍用航空機模型(チベット)](https://www.amazon.co.jp/dp/B0C45RT8NS?tag=ikeponsu0b-22)
+[戦国の北奥羽南部氏](https://www.amazon.co.jp/dp/490703427X?tag=ikeponsu0b-22)
 
-![NUOTIE 1/144 B-29 スーパーフォートレス リトルボーイ金属爆撃機モデルキット 第二次世界大戦 戦闘機 ダイキャスト合金飛行機モデル ヴィンテージ戦闘機 軍用航空機模型(チベット)](https://m.media-amazon.com/images/I/31h+ynINFiL._SL160_.jpg)
+![戦国の北奥羽南部氏](https://m.media-amazon.com/images/I/517fQywla2L._SL160_.jpg)
 
-歴史的な名機として今なお「B-29」に関心を持つミリタリーファンや模型愛好家の方には、NUOTIEの「1/144 B-29 スーパーフォートレス リトルボーイ金属爆撃機モデルキット」がおすすめです。ダイキャスト合金ならではの重厚感とヴィンテージ感漂う仕上がりは、コレクションの主役としてお部屋を本格的な軍用航空機の世界へと彩ってくれます。細部までこだわりが詰まったモデルを、ぜひお手元でじっくりと鑑賞してみてはいかがでしょうか。
+地元のニュースを伝える「デーリー東北」でも話題となった北奥羽の歴史に興味がある方には、書籍『戦国の北奥羽南部氏』（税込2,640円）がおすすめです。地域のルーツや戦国時代の動向を深く知ることができる一冊ですので、ぜひチェックしてみてください。
 
-価格: ￥23,999
+価格: ￥2,640
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B0C45RT8NS?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/490703427X?tag=ikeponsu0b-22)
 
-## 3. アメリカ
+## 3. ひなたフェス 2026
 
-[アメリカ革命史: 制度化された内戦とデモクラシーの間](https://www.amazon.co.jp/dp/4634641143?tag=ikeponsu0b-22)
+[日向坂46 ひなたフェス2026 パンフレット](https://www.amazon.co.jp/dp/B0HB57PW7N?tag=ikeponsu0b-22)
 
-![アメリカ革命史: 制度化された内戦とデモクラシーの間](https://m.media-amazon.com/images/I/41Iy+SoNxpL._SL160_.jpg)
+![日向坂46 ひなたフェス2026 パンフレット](https://m.media-amazon.com/images/I/417kb+9a0WL._SL160_.jpg)
 
-アメリカの歴史や政治体制について深く知りたい方には、書籍『アメリカ革命史: 制度化された内戦とデモクラシーの間』がおすすめです。
-価格は1,980円で、アメリカという国の成り立ちやデモクラシーの葛藤を学べる一冊となっています。
+大盛り上がりを見せる「ひなたフェス 2026」の思い出を形に残すなら、イベントの世界観がたっぷり詰まった公式パンフレットがおすすめです。ライブの余韻に浸りながらじっくり読み込める、ファン必携のアイテムとなっています。価格は4,880円です。
 
-価格: ￥1,980
+価格: ￥4,880
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4634641143?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0HB57PW7N?tag=ikeponsu0b-22)
 
-## 4. ドジャース 対 カージナルス
+## 4. 日経平均株価
 
-[[ニューエラ] NewEra キャップ メンズ レディース newera 9FORTY 帽子 MLB メジャーリーグ かっこいい おしゃれ ドジャース ロイヤル ブルー 青 [並行輸入品]](https://www.amazon.co.jp/dp/B09DY7VB8V?tag=ikeponsu0b-22)
+[「日経平均10万円」時代に備えろ (日経ビジネス人文庫)](https://www.amazon.co.jp/dp/B0HC1G1M6F?tag=ikeponsu0b-22)
 
-![[ニューエラ] NewEra キャップ メンズ レディース newera 9FORTY 帽子 MLB メジャーリーグ かっこいい おしゃれ ドジャース ロイヤル ブルー 青 [並行輸入品]](https://m.media-amazon.com/images/I/41IRGwkeswL._SL160_.jpg)
+![「日経平均10万円」時代に備えろ (日経ビジネス人文庫)](https://m.media-amazon.com/images/I/51gL7ltLYEL._SL160_.jpg)
 
-熱戦が続く「ドジャース 対 カージナルス」の試合観戦や、普段のコーディネートにぴったりなロイヤルブルーのニューエラキャップです。チームカラーをあしらった定番のデザインは、MLBファンなら一つは持っておきたいおしゃれなアイテムです。お手頃な価格（￥3,700）で手に入るので、この機会にぜひチェックしてみてください。
+日経平均株価の今後の動向が注目を集める中、これからの資産形成や経済の仕組みを理解するヒントとして話題の一冊です。
+『「日経平均10万円」時代に備えろ (日経ビジネス人文庫)』（￥970）を読んで、これからの日本経済の未来について考えてみませんか？
 
-価格: ￥3,700
+価格: ￥970
 
-[Amazonで見る](https://www.amazon.co.jp/dp/B09DY7VB8V?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/B0HC1G1M6F?tag=ikeponsu0b-22)
 
-## 5. 新潟 天気
+## 5. 上田綺世
 
-[E653系特急いなほ1号運転席展望 新潟→秋田](https://www.amazon.co.jp/dp/B0H2TB4G8Q?tag=ikeponsu0b-22)
+[anan No.2499 Special Edition[呼吸と体幹／上田綺世＆中村敬斗] (MAGAZINE HOUSE MOOK)](https://www.amazon.co.jp/dp/4838758162?tag=ikeponsu0b-22)
 
-![E653系特急いなほ1号運転席展望 新潟→秋田](https://m.media-amazon.com/images/I/51J2e1lbP8L._SL160_.jpg)
+![anan No.2499 Special Edition[呼吸と体幹／上田綺世＆中村敬斗] (MAGAZINE HOUSE MOOK)](https://m.media-amazon.com/images/I/41ZwPit8ASL._SL160_.jpg)
 
-新潟の変わりやすい天気や雨の日は、おうちでじっくり鉄道の旅を楽しまれてはいかがでしょうか。
-「E653系特急いなほ1号運転席展望 新潟→秋田」（550円）なら、新潟から秋田へ向かう沿線の風景を自宅にいながら快適に眺めることができます。
-映像を通して、日本海の美しい景色や移りゆく車窓の旅情をぜひ体験してみてください。
-
-価格: ￥550
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0H2TB4G8Q?tag=ikeponsu0b-22)
-
-## 6. saga久光スプリングス
-
-[SAGA久光スプリングス 西村弥菜美 アイドル お笑い タレント 芸能人グッズ](https://www.amazon.co.jp/dp/B0HFFZC3J3?tag=ikeponsu0b-22)
-
-![SAGA久光スプリングス 西村弥菜美 アイドル お笑い タレント 芸能人グッズ](https://m.media-amazon.com/images/I/51gvs7R7E7L._SL160_.jpg)
-
-バレーボールの話題で盛り上がる「SAGA久光スプリングス」ですが、ファン必見の西村弥菜美選手関連のグッズが登場しています。推し活をさらに楽しくしてくれる芸能人・タレントグッズとして、コレクションに加えるのにぴったりのアイテムです。価格も2,150円とお手頃なので、この機会にぜひチェックしてみてはいかがでしょうか！
-
-価格: ￥2,150
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0HFFZC3J3?tag=ikeponsu0b-22)
-
-## 7. ファミマオンライン
-
-[ファミマ オンラインくじ RAFFLE 10連特典 ステッカー バデーニレア](https://www.amazon.co.jp/dp/B0FXXQ45B6?tag=ikeponsu0b-22)
-
-![ファミマ オンラインくじ RAFFLE 10連特典 ステッカー バデーニレア](https://m.media-amazon.com/images/I/31H5zbkWeWL._SL160_.jpg)
-
-話題の「ファミマオンライン」で展開されているオンラインくじ「RAFFLE」から、注目の10連特典ステッカー（バデーニレア）が登場しました。コレクションやファン必見のアイテムを、この機会にぜひチェックしてみてください。価格は7,480円となっています。
-
-価格: ￥7,480
-
-[Amazonで見る](https://www.amazon.co.jp/dp/B0FXXQ45B6?tag=ikeponsu0b-22)
-
-## 8. 漁業
-
-[最新版　図解　知識ゼロからの現代漁業入門](https://www.amazon.co.jp/dp/4259518720?tag=ikeponsu0b-22)
-
-![最新版　図解　知識ゼロからの現代漁業入門](https://m.media-amazon.com/images/I/51qIFJOF81S._SL160_.jpg)
-
-近年、日本の漁業を取り巻く環境やニュースが話題になることが増えていますが、今の業界の仕組みについて詳しく知る機会は意外と少ないものです。『最新版 図解 知識ゼロからの現代漁業入門』（1,760円）は、複雑な漁業の現状や基礎知識を豊富な図解で分かりやすく解説しており、ニュースの背景を深く理解したい方におすすめの一冊です。
-
-価格: ￥1,760
-
-[Amazonで見る](https://www.amazon.co.jp/dp/4259518720?tag=ikeponsu0b-22)
-
-## 9. リフレ政策
-
-[リフレはヤバい (ディスカヴァー携書)](https://www.amazon.co.jp/dp/4799312936?tag=ikeponsu0b-22)
-
-![リフレはヤバい (ディスカヴァー携書)](https://m.media-amazon.com/images/I/41rwRdeFHEL._SL160_.jpg)
-
-経済ニュースでよく耳にする「リフレ政策」について、その仕組みや影響を正しく理解したいと考えている方も多いのではないでしょうか。新書の『リフレはヤバい (ディスカヴァー携書)』（￥1,100）は、この経済政策の本質や議論のポイントを分かりやすく解説しており、知識を深めるための一冊として手に取りやすいアイテムです。
+現在話題を集めるサッカー日本代表の上田綺世選手と中村敬斗選手が表紙を飾る『anan No.2499 Special Edition』では、二人の圧倒的なパフォーマンスを支える「呼吸と体幹」の秘密に迫っています。トップアスリートのコンディショニング術が詰まった一冊となっており、価格は1,100円（税込）です。
 
 価格: ￥1,100
 
-[Amazonで見る](https://www.amazon.co.jp/dp/4799312936?tag=ikeponsu0b-22)
+[Amazonで見る](https://www.amazon.co.jp/dp/4838758162?tag=ikeponsu0b-22)
+
+## 6. アオアシ
+
+[アオアシ（４０） (ビッグコミックス)](https://www.amazon.co.jp/dp/B0FLPTXWSM?tag=ikeponsu0b-22)
+
+![アオアシ（４０） (ビッグコミックス)](https://m.media-amazon.com/images/I/51pH2zN50JL._SL160_.jpg)
+
+大人気サッカー漫画『アオアシ』の最新刊である第40巻がついに発売され、ファン必見の展開が話題を集めています。物語がますます熱を帯びる注目の最新刊（税込759円）を、ぜひお手元でチェックしてみてください！
+
+価格: ￥759
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B0FLPTXWSM?tag=ikeponsu0b-22)
+
+## 7. アベンジャーズ/ドゥームズデイ
+
+[TAMASHII NATIONS S.H.フィギュアーツ アベンジャーズ／ドゥームズデイ ドクター・ドゥーム 約160mm PVC&ABS&布製 塗装済み可動フィギュア](https://www.amazon.co.jp/dp/B0HB9HLW6N?tag=ikeponsu0b-22)
+
+![TAMASHII NATIONS S.H.フィギュアーツ アベンジャーズ／ドゥームズデイ ドクター・ドゥーム 約160mm PVC&ABS&布製 塗装済み可動フィギュア](https://m.media-amazon.com/images/I/41oz66t+TML._SL160_.jpg)
+
+世界中のファンから熱い視線が注がれる『アベンジャーズ／ドゥームズデイ』の公開に向けて、作中のキーパーソンとなるドクター・ドゥームがS.H.フィギュアーツに登場します。
+劇中の存在感をリアルに再現した約160mmの可動フィギュアは、布製パーツなども取り入れたこだわりの仕様となっています。
+最新作の公開を控えてコレクション熱が高まるこの機会に、ぜひお手元でそのクオリティを確かめてみてはいかがでしょうか。
+
+価格: ￥9,900
+
+[Amazonで見る](https://www.amazon.co.jp/dp/B0HB9HLW6N?tag=ikeponsu0b-22)
 
 ---
 
