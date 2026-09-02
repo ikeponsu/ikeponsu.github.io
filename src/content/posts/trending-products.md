@@ -1,97 +1,116 @@
 ---
-title: "風、薫る・デーリー東北・ひなたフェス 2026など今話題のトレンド×おすすめ商品まとめ"
-date: "2026-09-02T08:20:06.295Z"
-excerpt: "2026年9月2日時点でGoogleトレンド入りしている「風、薫る」「デーリー東北」「ひなたフェス 2026」「日経平均株価」「総理大臣杯」などのキーワードと、関連する楽天のおすすめ商品を紹介します。"
+title: "為替介入・ハリウッド・ブロードコムなど今話題のトレンド×おすすめ商品まとめ"
+date: "2026-09-02T14:01:58.294Z"
+excerpt: "2026年9月2日時点でGoogleトレンド入りしている「為替介入」「ハリウッド」「ブロードコム」「ウィーン」「ダイソン」などのキーワードと、関連する楽天のおすすめ商品を紹介します。"
 tags: ["トレンド", "楽天"]
 ---
-## 1. 風、薫る
+## 1. 為替介入
 
-[連続テレビ小説　風、薫る　Part2 （NHKドラマ・ガイド） [ 吉澤 智子 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18650659%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21974074%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[為替介入とは何か 200兆円規模「外為特会」が生まれた謎 （集英社新書） [ 服部 孝洋 ]](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18686395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22006163%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![風、薫るに関連するおすすめ商品「連続テレビ小説　風、薫る　Part2 （NHKドラマ・ガイド） [ 吉澤 智子 …」](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6179/9784149236179_1_3.jpg?_ex=128x128)
+![為替介入に関連するおすすめ商品「為替介入とは何か 200兆円規模「外為特会」が生まれた謎 （集英社新書） [ 服…」](https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4253/9784087214253_1_40.jpg?_ex=128x128)
 
-新緑がまぶしく爽やかな風が薫る季節になりましたが、皆様いかがお過ごしでしょうか。NHKの連続テレビ小説『風、薫る Part2』のドラマ・ガイド（吉澤 智子著・¥1,485）は、物語の背景やキャストの魅力がたっぷり詰まった一冊です。ドラマの世界観をさらに深く味わいたい方は、ぜひチェックしてみてくださいね。
+ニュースで連日耳にする「為替介入」ですが、その裏で動く巨大な資金の仕組みについて気になっている方も多いのではないでしょうか。
+新書『為替介入とは何か 200兆円規模「外為特会」が生まれた謎』では、話題の200兆円規模に及ぶ「外為特会」の謎を分かりやすく紐解いており、経済のニュースをより深く理解するための手助けとなる一冊です。
 
-価格: ¥1,485
+価格: ¥1,320
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18650659%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21974074%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q072m.c5l90181.g00q072m.c5l91b87/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18686395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22006163%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 2. デーリー東北
+## 2. ハリウッド
 
-[【ふるさと納税】 かんたんサポート券 (20分1枚)×12枚 【まごころサポート デーリー東北 南部店】 お手伝い チケット シルバー 掃除 家事 家具移動 南部町 青森 F21U-407](https://hb.afl.rakuten.co.jp/hgc/g00u2k9m.c5l905f6.g00u2k9m.c5l91f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff024457-nanbu%2Ff21u-407%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff024457-nanbu%2Fi%2F10000383%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[ハリウッド　ベルアージュ　エッセンス∞ ハリウッド化粧品 美容液 セラム エイジング 年齢肌 乾燥 保湿](https://hb.afl.rakuten.co.jp/hgc/g00pvuhm.c5l905aa.g00pvuhm.c5l9102a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fc-urban%2F10008285%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fc-urban%2Fi%2F10008285%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![デーリー東北に関連するおすすめ商品「【ふるさと納税】 かんたんサポート券 (20分1枚)×12枚 【まごころサポート…」](https://thumbnail.image.rakuten.co.jp/@0_mall/f024457-nanbu/cabinet/f21u-0400-0599/r_f21u_407_1.jpg?_ex=128x128)
+![ハリウッドに関連するおすすめ商品「ハリウッド　ベルアージュ　エッセンス∞ ハリウッド化粧品 美容液 セラム エイジ…」](https://thumbnail.image.rakuten.co.jp/@0_mall/c-urban/cabinet/04064121/imgrc0071261652.jpg?_ex=128x128)
 
-青森県の地元紙「デーリー東北」が展開する「まごころサポート」のサービスが、南部町のふるさと納税返礼品として登場しました。日常のちょっとしたお掃除や家事、家具の移動などを手伝ってもらえる「かんたんサポート券」は、離れて暮らすご家族への贈り物としても安心なチケットです。
+映画の都「ハリウッド」が持つ華やかなイメージのように、いつまでも輝く素肌を目指したい方におすすめなのが、「ハリウッド ベルアージュ エッセンス∞」です。
+乾燥が気になる年齢肌にしっかりと潤いを与え、ハリと保湿をサポートしてくれる人気の美容液となっています。
+毎日のスキンケアに上質なセラムを取り入れて、ワンランク上のエイジングケアを始めてみませんか？（価格：15,400円）
 
-価格: ¥41,000
+価格: ¥15,400
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00u2k9m.c5l905f6.g00u2k9m.c5l91f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff024457-nanbu%2Ff21u-407%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff024457-nanbu%2Fi%2F10000383%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00pvuhm.c5l905aa.g00pvuhm.c5l9102a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fc-urban%2F10008285%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fc-urban%2Fi%2F10008285%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 3. ひなたフェス 2026
+## 3. ブロードコム
 
-[おひさまチーズまんじゅう チーズまんじゅう クリームチーズ 包み焼き チーズ饅頭 まんじゅう 饅頭 おまんじゅう スイーツ 手作り 宮崎 高千穂 お菓子お取り寄せ ご当地スイーツ プレゼント 贈り物 銘菓 お土産 個包装 おひさま そらいろ 日向坂 ギフト お中元](https://hb.afl.rakuten.co.jp/hgc/g00tz9tm.c5l90c9d.g00tz9tm.c5l91c4b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsorairo-ohisama%2Focz001-0110-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsorairo-ohisama%2Fi%2F10000001%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【送料無料】MAMBASNAKE M3 ワイヤレスゲーミングマウス 超軽量 39±3g PAW3395PRO センサー ブロードコム BK3633 コントローラー 最大40000DPI 3モード 有線 無線 Bluetooth 氷感コーティング ゲーム 家庭用 オフィス用 コイルケーブル付き【公式直営店】 色：ブラック](https://hb.afl.rakuten.co.jp/hgc/g00unp3m.c5l90ee0.g00unp3m.c5l91133/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhitewings%2Fb0f6lmw51t%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhitewings%2Fi%2F10114162%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![ひなたフェス 2026に関連するおすすめ商品「おひさまチーズまんじゅう チーズまんじゅう クリームチーズ 包み焼き チーズ饅頭…」](https://thumbnail.image.rakuten.co.jp/@0_mall/sorairo-ohisama/cabinet/ocz/imgrc0082205013.jpg?_ex=128x128)
+![ブロードコムに関連するおすすめ商品「【送料無料】MAMBASNAKE M3 ワイヤレスゲーミングマウス 超軽量 39…」](https://thumbnail.image.rakuten.co.jp/@0_mall/whitewings/cabinet/rakub100_0238/b0f6lmw51t00.jpg?_ex=128x128)
 
-日向坂46のライブに向けて「ひなたフェス 2026」の話題で盛り上がる中、宮崎のご当地銘菓である「おひさまチーズまんじゅう」もお供として注目を集めています。香ばしい生地でクリームチーズを包み込んだ手作りの優しい味わいは、イベントの余韻を楽しむおやつや遠征のお土産にもぴったりです。
+話題の半導体企業としても注目を集めるブロードコム社の高性能チップ「BK3633」をコントローラーに搭載した、「MAMBASNAKE M3 ワイヤレスゲーミングマウス」が登場しました。
+超軽量39±3gのボディに最新のPAW3395PROセンサーと組み合わせることで、長時間のゲームプレイでも疲れにくい抜群の操作性を実現しています。
+有線、無線、Bluetoothの3モード対応で、普段使いから本格的なゲーミング環境まで幅広く活躍するおすすめの一品です。
 
-価格: ¥3,600
+価格: ¥8,339
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tz9tm.c5l90c9d.g00tz9tm.c5l91c4b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsorairo-ohisama%2Focz001-0110-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsorairo-ohisama%2Fi%2F10000001%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00unp3m.c5l90ee0.g00unp3m.c5l91133/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhitewings%2Fb0f6lmw51t%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhitewings%2Fi%2F10114162%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 4. 日経平均株価
+## 4. ウィーン
 
-[【中古】 日経平均株価オプション取引Q＆A / 大阪証券取引所 / 第一法規 [単行本]【メール便送料無料】【最短翌日配達対応】](https://hb.afl.rakuten.co.jp/hgc/g00qs41m.c5l90cba.g00qs41m.c5l911ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcomicset%2F4474031954%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcomicset%2Fi%2F12388244%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[オーストリア ウィーン金貨 1/4オンス 純金 24金 7.77g 1/4oz 流通品 送料無料 ギフト](https://hb.afl.rakuten.co.jp/hgc/g00sd02m.c5l90a4b.g00sd02m.c5l91924/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpuraizu77777%2Fwhi1-4oz-t1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpuraizu77777%2Fi%2F10000115%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![日経平均株価に関連するおすすめ商品「【中古】 日経平均株価オプション取引Q＆A / 大阪証券取引所 / 第一法規 […」](https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/07957194/bkah28vnf8hodlt3.jpg?_ex=128x128)
+![ウィーンに関連するおすすめ商品「オーストリア ウィーン金貨 1/4オンス 純金 24金 7.77g 1/4oz …」](https://thumbnail.image.rakuten.co.jp/@0_mall/puraizu77777/cabinet/t1/whi1-4oz-t1_1.jpg?_ex=128x128)
 
-近年の経済ニュースで連日注目を集めている「日経平均株価」ですが、その値動きをより深く理解し戦略を立てたい方にはオプション取引の知識が役立ちます。本書『日経平均株価オプション取引Q＆A』は、大阪証券取引所が編著を手がけており、基礎から実務的な疑問まで分かりやすく解説されている一冊です。マーケットの仕組みを体系的に学びたい方は、ぜひチェックしてみてはいかがでしょうか。
+歴史と音楽の街として知られる美しいウィーンに思いを馳せるなら、同地ゆかりの純金アイテムを手元に置いてみるのも素敵です。
+オーストリア造幣局が発行する「ウィーン金貨 1/4オンス（¥225,694）」は、世界的な信頼性を誇る純金コインとしてコレクションにも最適です。
+洗練されたデザインと確かな価値を持つこの金貨で、ご自宅にいながらウィーンの優雅な雰囲気を楽しんでみてはいかがでしょうか。
 
-価格: ¥2,863
+価格: ¥225,694
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00qs41m.c5l90cba.g00qs41m.c5l911ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcomicset%2F4474031954%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcomicset%2Fi%2F12388244%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00sd02m.c5l90a4b.g00sd02m.c5l91924/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpuraizu77777%2Fwhi1-4oz-t1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpuraizu77777%2Fi%2F10000115%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 5. 総理大臣杯
+## 5. ダイソン
 
-[これが武道空手の「極め」! 【最強の組手と形】〜内閣総理大臣杯 第62回全国空手道選手権大会〜[DVD] / 格闘技](https://hb.afl.rakuten.co.jp/hgc/g00q63am.c5l90165.g00q63am.c5l9119c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneowing-r%2Fjka-3d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneowing-r%2Fi%2F12904944%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【ふるさと納税】【新品】正規品 ダイソン 掃除機 Dyson PencilVac Fluffycones (SV50FC) 1式 コードレス スティック掃除機 コードレス掃除機 ダイソン掃除機 マットブラック ペンシルバック サイクロン 軽量 スタンド ダイソンコードレスクリーナー LED 家電 福岡県北九州市](https://hb.afl.rakuten.co.jp/hgc/g00t6sum.c5l90747.g00t6sum.c5l91279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff401005-kitakyushu%2F250-3747%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff401005-kitakyushu%2Fi%2F10002190%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![総理大臣杯に関連するおすすめ商品「これが武道空手の「極め」! 【最強の組手と形】〜内閣総理大臣杯 第62回全国空手…」](https://thumbnail.image.rakuten.co.jp/@0_mall/neowing-r/cabinet/item_img_1324/jka-3d.jpg?_ex=128x128)
+![ダイソンに関連するおすすめ商品「【ふるさと納税】【新品】正規品 ダイソン 掃除機 Dyson PencilVac…」](https://thumbnail.image.rakuten.co.jp/@0_mall/f401005-kitakyushu/cabinet/dyson/250-3747_1f.jpg?_ex=128x128)
 
-「総理大臣杯」の盛り上がりを感じる今、最高峰の戦いを映像で振り返ってみてはいかがでしょうか。
-『これが武道空手の「極め」! 【最強の組手と形】〜内閣総理大臣杯 第62回全国空手道選手権大会〜』は、迫力の組手と形をじっくりと自宅で堪能できるDVDです。
-価格は4,950円（税込）で、空手道ファン必見の熱い名勝負が詰まった一作となっています。
+話題のダイソンから登場した注目のコードレススティック掃除機「Dyson PencilVac Fluffycones (SV50FC)」が、福岡県北九州市のふるさと納税返礼品としてラインナップされています。
+軽量でスタイリッシュなマットブラックのデザインが魅力のこのモデルを、お得に手に入れられる絶好の機会です。
 
-価格: ¥4,950
+価格: ¥278,000
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q63am.c5l90165.g00q63am.c5l9119c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneowing-r%2Fjka-3d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneowing-r%2Fi%2F12904944%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00t6sum.c5l90747.g00t6sum.c5l91279/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff401005-kitakyushu%2F250-3747%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff401005-kitakyushu%2Fi%2F10002190%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 6. 上田綺世
+## 6. 森友哉
 
-[(ナイキ) NIKE/2021鹿島アントラーズ/ホーム/半袖/上田綺世/CV9237-687](https://hb.afl.rakuten.co.jp/hgc/g00q3l7m.c5l9040a.g00q3l7m.c5l91e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnbs-soccer%2Fg30336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnbs-soccer%2Fi%2F10072786%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[ゼット 硬式ミット プロステイタス キャッチャーミット 捕手用（ 森友哉捕手タイプ）BPROCM960G（5637）限定品 日本製 ミット 硬式 キャッチャー プロステイタスキャッチャーミット プロステイタスミット プロステキャッチャーミット 森ミット](https://hb.afl.rakuten.co.jp/hgc/g00s4uwm.c5l9065c.g00s4uwm.c5l913e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-tomon%2Fbprocm960g5637%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-tomon%2Fi%2F10008441%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![上田綺世に関連するおすすめ商品「(ナイキ) NIKE/2021鹿島アントラーズ/ホーム/半袖/上田綺世/CV92…」](https://thumbnail.image.rakuten.co.jp/@0_mall/nbs-soccer/cabinet/image01/img01_32000/30336.jpg?_ex=128x128)
+![森友哉に関連するおすすめ商品「ゼット 硬式ミット プロステイタス キャッチャーミット 捕手用（ 森友哉捕手タイ…」](https://thumbnail.image.rakuten.co.jp/@0_mall/auc-tomon/cabinet/04629364/11069701/imgrc0146585599.jpg?_ex=128x128)
 
-現在話題沸騰中の上田綺世選手ですが、彼の原点とも言える鹿島アントラーズ時代の貴重なホームユニフォームを手に入れませんか？
-2021年シーズンの背番号「18」が入った半袖仕様（価格：19,800円）は、ファンならぜひコレクションに加えたい一枚です。
+オリックス・バファローズの主軸として攻守でチームを牽引し、球界を代表する捕手として常に注目を集める森友哉選手。
+そんな森選手が愛用するモデルを忠実に再現した「ゼット 硬式ミット プロステイタス キャッチャーミット（BPROCM960G）」は、こだわり派のプレイヤーにぜひチェックしていただきたい高品質な日本製限定モデルです。
+本格的なプレーを求める方にぴったりの逸品ですので、この機会にぜひ詳細をチェックしてみてください！
 
-価格: ¥19,800
+価格: ¥53,460
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00q3l7m.c5l9040a.g00q3l7m.c5l91e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnbs-soccer%2Fg30336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnbs-soccer%2Fi%2F10072786%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00s4uwm.c5l9065c.g00s4uwm.c5l913e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-tomon%2Fbprocm960g5637%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-tomon%2Fi%2F10008441%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-## 7. アオアシ
+## 7. 神戸新聞
 
-[[新品]◆特典あり◆アオアシ (1-40巻 全巻)[TORICO限定クリアカード3種付] 全巻セット](https://hb.afl.rakuten.co.jp/hgc/g00qci0m.c5l9000c.g00qci0m.c5l91ff5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmangazenkan%2Fm8190432986%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmangazenkan%2Fi%2F10190447%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[【中古】 甘くはないぞ糖尿病 / 神戸大学医学部 / 神戸新聞総合印刷 [単行本]【メール便送料無料】【最短翌日配達対応】](https://hb.afl.rakuten.co.jp/hgc/g00qs41m.c5l90cba.g00qs41m.c5l911ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcomicset%2F4343000540%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcomicset%2Fi%2F10722798%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
-![アオアシに関連するおすすめ商品「[新品]◆特典あり◆アオアシ (1-40巻 全巻)[TORICO限定クリアカード…」](https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/syncip_0021/imgrc0095871253.jpg?_ex=128x128)
+![神戸新聞に関連するおすすめ商品「【中古】 甘くはないぞ糖尿病 / 神戸大学医学部 / 神戸新聞総合印刷 [単行本…」](https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/05027091/bkjnh50nxyvqwytu.jpg?_ex=128x128)
 
-大人気サッカー漫画『アオアシ』を一気に読み進めたい方にぴったりな、全1-40巻の新品全巻セットです。
-ここでしか手に入らないTORICO限定クリアカード3種も付いてくるので、ファンなら見逃せない豪華な内容となっています。
-物語の世界に浸りながら、主人公・青井葦人の成長軌道をぜひ手元でじっくりとお楽しみください。
+地元の情報源としておなじみの神戸新聞ですが、実は関連会社から医療・健康に関する専門的な書籍も出版されています。神戸大学医学部が手がけた『甘くはないぞ糖尿病』は、専門的な視点から糖尿病について学べる一冊です。日々の健康管理や生活習慣を見直したい方は、ぜひチェックしてみてはいかがでしょうか。
 
-価格: ¥30,844
+価格: ¥30,274
 
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00qci0m.c5l9000c.g00qci0m.c5l91ff5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmangazenkan%2Fm8190432986%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmangazenkan%2Fi%2F10190447%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00qs41m.c5l90cba.g00qs41m.c5l911ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcomicset%2F4343000540%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcomicset%2Fi%2F10722798%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+## 8. xbox live
+
+[【中古】Xbox360 DEAD　OR　ALIVE　Xtreme2](https://hb.afl.rakuten.co.jp/hgc/g00tjvsm.c5l90267.g00tjvsm.c5l91173/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frenet20%2Fr0010363098%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frenet20%2Fi%2F10293304%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
+
+![xbox liveに関連するおすすめ商品「【中古】Xbox360 DEAD　OR　ALIVE　Xtreme2」](https://thumbnail.image.rakuten.co.jp/@0_mall/renet20/cabinet/item_photo/001036/3/0010363098.jpg?_ex=128x128)
+
+懐かしのXbox Liveでのオンライン体験を振り返るなら、今なお根強い人気の名作ソフトを手に取ってみるのはいかがでしょうか。
+リゾートライフと数々のミニゲームが楽しめる【中古】Xbox360 DEAD OR ALIVE Xtreme2が、現在1,090円という手頃な価格で手に入ります。
+当時の雰囲気をそのままに、おうち時間を楽しみたい方におすすめの一品です。
+
+価格: ¥1,090
+
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/hgc/g00tjvsm.c5l90267.g00tjvsm.c5l91173/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frenet20%2Fr0010363098%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frenet20%2Fi%2F10293304%2F&rafcid=wsc_i_is_4c30dec6-0b09-4360-a1c2-deae993205eb)
 
 ---
 
